@@ -20,6 +20,7 @@ public class VagalumeAPI {
     private static final String ARTIST_URL = "https://www.vagalume.com.br/"; // nomeArtista/index.js
     private static final String ARTIST_URL_2 = "/index.js";
     private static final String MUSIC_URL = "https://api.vagalume.com.br/search.php?musid="; // idDaMusica
+    // private static final String API_KEY = "apikey=12f8913c7d040dadc56d302e1546259a";
     private static Map<String, List<String>> specialCharacters;
 
     static Artist readArtistByName(String name) {

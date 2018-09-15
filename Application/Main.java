@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 
 import Model.*;
 import FileManager.*;
@@ -18,19 +19,22 @@ public class Main {
     };
 
     public static void main(String args[]) {
-
+        int count = 1;
         for (String letter : LETTERS) {
             Util.print(letter);
             List<String> artistNames = JSONManager.readArtistsList(letter);
             for (String artistName : artistNames) {
                 Util.print(artistName);
                 Artist artist = VagalumeAPI.readArtistByName(artistName);
-                int count = 1;
                 for (String musicId : artist.musicIds) {
-                    Util.print(count + " de " + artist.musicIds.size());
+                    Util.print(count + " de " + artist.musicIds.size() + " (" + count + ")");
                     Music music = VagalumeAPI.readMusicById(musicId);
                     TXTManager.createFile(count++ + " - " + music.name, music.toString(), letter + "/" + artistName);
-                    if (count > 5) { return; }
+                    if (count > 50) {
+                        Util.print(" - PAUSE - ");
+                        try { TimeUnit.SECONDS.sleep(60 * 2); } catch (Exception e) { Util.print("Error while waiting: " + e.getLocalizedMessage()); }
+                        count = 1;
+                    }
                 }
             }
         }
