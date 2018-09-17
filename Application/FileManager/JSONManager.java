@@ -54,11 +54,25 @@ public class JSONManager {
     public static Music convertToMusic(String jsonString) {
         JSONObject obj = new JSONObject(jsonString);
         JSONArray musicsArray = obj.getJSONArray("mus");
-        JSONObject mucisObject = (JSONObject) musicsArray.get(0);
+        JSONObject musicObject = (JSONObject) musicsArray.get(0);
 
-        return new Music(StringEscapeUtils.unescapeJava(mucisObject.getString("name")),
-                         StringEscapeUtils.unescapeJava(mucisObject.getString("text")),
-                         mucisObject.getInt("lang"));
+        Music music = new Music(musicObject.getString("id"),
+                         StringEscapeUtils.unescapeJava(musicObject.getString("name")),
+                         StringEscapeUtils.unescapeJava(musicObject.getString("text")),
+                         musicObject.getInt("lang"));
+
+        if (musicObject.has("translate")) {
+            JSONArray translateArray = (JSONArray) musicObject.getJSONArray("translate");
+            for (int i = 0; i < translateArray.length(); i++) {
+                JSONObject translateObject = (JSONObject) translateArray.get(i);
+                Translate translate = new Translate(musicObject.getString("id"),
+                                                    StringEscapeUtils.unescapeJava(musicObject.getString("text")),
+                                                    musicObject.getInt("lang"));
+                music.translates.add(translate);
+            }
+        }
+
+        return music;
     }
 
 }

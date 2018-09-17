@@ -11,9 +11,16 @@ import Util.*;
 
 public class TXTManager {
 
-    public static void createFile(String name, String content, String path) {
+    public static void createMusicFile(String name, String content, String path) {
+        createFile(content, "/../Resources/Musics/" + path + "/" + name + ".txt");
+    }
 
-        File f = new File(System.getProperty("user.dir") + "/../Resources/Musics/" + path + "/" + name + ".txt");
+    public static void createTranslateFile(String name, String content, String path) {
+        createFile(content, "/../Resources/Translates/" + path + "/" + name + ".txt");
+    }
+
+    private static void createFile(String content, String path) {
+        File f = new File(System.getProperty("user.dir") + path);
         f.getParentFile().mkdirs();
         try {
             f.createNewFile();
@@ -28,7 +35,6 @@ public class TXTManager {
         } catch (IOException e) {
             System.err.println("error while writing on file " + e.getMessage());
         }
-
     }
 
 }

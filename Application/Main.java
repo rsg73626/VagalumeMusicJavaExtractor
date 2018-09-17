@@ -25,20 +25,40 @@ public class Main {
     };
 
     public static void main(String args[]) {
+
         int requestCount = 1;
         int requestCicle = 1;
+
         Util.print(" - REQUEST CICLE: " + requestCicle + " - ");
+
         for (String letter : LETTERS) {
-            Util.print(letter);
+
+            Util.print(" - " + letter + " - ");
+
             List<String> artistNames = JSONManager.readArtistsList(letter);
             for (String artistName : artistNames) {
-                Util.print(artistName);
+
+                UUtil.print(" - " + artistName.toUpperCase() + " - ");
+
                 Artist artist = VagalumeAPI.readArtistByName(artistName);
                 int lyricsCount = 1;
                 for (String musicId : artist.musicIds) {
-                    Util.print(lyricsCount + " de " + artist.musicIds.size() + " (" + requestCount + ")");
+
+                    Util.print("Mus: " + lyricsCount + " de " + artist.musicIds.size() + " | Reqs: " + requestCount + " de " + 50);
+
                     Music music = VagalumeAPI.readMusicById(musicId);
-                    TXTManager.createFile(lyricsCount + " - " + music.name, music.toString(), LANGUAGES[music.lang > 9 ? 9 : music.lang-1] + "/" + letter + "/" + artistName);
+
+                    String fileName = lyricsCount + " - " + music.name + " - " + music.id;
+                    String lyricsPath = LANGUAGES[music.lang > 9 ? 9 : music.lang-1] + "/" + letter + "/" + artistName;
+
+                    TXTManager.createMusicFile(fileName, music.toString(), lyricsPath);
+
+                    for (Translate translate : music.translates) {
+                        fileName += " - " + translate.id;
+                        String translatePath = LANGUAGES[translate.lang > 9 ? 9 : translate.lang-1] + "/" + letter + "/" + artistName;
+                        TXTManager.createTranslateFile(fileName, translate.toString(), translatePath);
+                    }
+
                     if (requestCount >= 50) {
                         Util.print(" - PAUSE - ");
                         try { TimeUnit.SECONDS.sleep(60 * 2); } catch (Exception e) { Util.print("Error while waiting: " + e.getLocalizedMessage()); }
