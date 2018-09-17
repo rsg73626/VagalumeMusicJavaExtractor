@@ -56,6 +56,8 @@ public class JSONManager {
         JSONArray musicsArray = obj.getJSONArray("mus");
         JSONObject musicObject = (JSONObject) musicsArray.get(0);
 
+        if (!musicObject.has("text")) { return null; }
+
         Music music = new Music(musicObject.getString("id"),
                          StringEscapeUtils.unescapeJava(musicObject.getString("name")),
                          StringEscapeUtils.unescapeJava(musicObject.getString("text")),

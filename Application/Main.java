@@ -48,6 +48,8 @@ public class Main {
 
                     Music music = VagalumeAPI.readMusicById(musicId);
 
+                    if (music == null) { continue; }
+
                     String fileName = lyricsCount + " - " + music.name + " - " + music.id;
                     String lyricsPath = LANGUAGES[music.lang > 9 ? 9 : music.lang-1] + "/" + letter + "/" + artistName;
 
