@@ -18,23 +18,36 @@ public class Main {
         "V", "W", "X", "Y", "Z"
     };
 
+    private static final String[] LANGUAGES = new String[]
+    {
+        "1 - Portuguese - Brazil", "2 - English", "3 - Spanish", "4 - French", "5 - German",
+        "6 - Italian", "7 - Dutch", "8 - Japanese", "9 - Portuguese Portugal", "10 - Others (999999)"
+    };
+
     public static void main(String args[]) {
-        int count = 1;
+        int requestCount = 1;
+        int requestCicle = 1;
+        Util.print(" - REQUEST CICLE: " + requestCicle + " - ");
         for (String letter : LETTERS) {
             Util.print(letter);
             List<String> artistNames = JSONManager.readArtistsList(letter);
             for (String artistName : artistNames) {
                 Util.print(artistName);
                 Artist artist = VagalumeAPI.readArtistByName(artistName);
+                int lyricsCount = 1;
                 for (String musicId : artist.musicIds) {
-                    Util.print(count + " de " + artist.musicIds.size() + " (" + count + ")");
+                    Util.print(lyricsCount + " de " + artist.musicIds.size() + " (" + requestCount + ")");
                     Music music = VagalumeAPI.readMusicById(musicId);
-                    TXTManager.createFile(count++ + " - " + music.name, music.toString(), letter + "/" + artistName);
-                    if (count > 50) {
+                    TXTManager.createFile(lyricsCount + " - " + music.name, music.toString(), LANGUAGES[music.lang > 9 ? 9 : music.lang-1] + "/" + letter + "/" + artistName);
+                    if (requestCount >= 50) {
                         Util.print(" - PAUSE - ");
                         try { TimeUnit.SECONDS.sleep(60 * 2); } catch (Exception e) { Util.print("Error while waiting: " + e.getLocalizedMessage()); }
-                        count = 1;
+                        requestCount = 0;
+                        requestCicle++;
+                        Util.print(" - REQUEST CICLE: " + requestCicle + " - ");
                     }
+                    requestCount++;
+                    lyricsCount++;
                 }
             }
         }

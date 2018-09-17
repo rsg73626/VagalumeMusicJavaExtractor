@@ -58,7 +58,7 @@ public class JSONManager {
 
         return new Music(StringEscapeUtils.unescapeJava(mucisObject.getString("name")),
                          StringEscapeUtils.unescapeJava(mucisObject.getString("text")),
-                         mucisObject.getInteger("lang"));
+                         mucisObject.getInt("lang"));
     }
 
 }
