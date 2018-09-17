@@ -65,9 +65,9 @@ public class JSONManager {
             JSONArray translateArray = (JSONArray) musicObject.getJSONArray("translate");
             for (int i = 0; i < translateArray.length(); i++) {
                 JSONObject translateObject = (JSONObject) translateArray.get(i);
-                Translate translate = new Translate(musicObject.getString("id"),
-                                                    StringEscapeUtils.unescapeJava(musicObject.getString("text")),
-                                                    musicObject.getInt("lang"));
+                Translate translate = new Translate(translateObject.getString("id"),
+                                                    StringEscapeUtils.unescapeJava(translateObject.getString("text")),
+                                                    translateObject.getInt("lang"));
                 music.translates.add(translate);
             }
         }

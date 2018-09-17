@@ -5,6 +5,7 @@ public class Tests {
 
     public static void main(String[] args) {
 
+        /*
         Map<String, List<String>> specialCharacters;
         specialCharacters = new HashMap<String, List<String>>();
         specialCharacters.put("a", Arrays.asList(new String[] {"á", "â", "à", "å", "ã", "ä"} ));
@@ -28,7 +29,36 @@ public class Tests {
         }
 
         Util.print(originalString);
+        */
+        String array[] = new String[]
+        {
+            "#", "A",
+            "B", "C", "D", "E", "F",
+            "G", "H", "I", "J", "K",
+            "L", "M", "N", "O", "P",
+            "Q", "R", "S", "T", "U",
+            "V", "W", "X", "Y", "Z"
+        };
+        for (String a : array) { System.out.println(a); }
+        for (String a : reverse(array)) { System.out.println(a); }
 
+
+        // for (String a : array) { System.out.println(a); }
+
+        // List<String> reversed = Arrays.asList(array);
+        // Collections.reverse(reversed);
+        //
+        // String reversedArray[] = reversed.toArray(array);
+        //
+        // for (String a : array) { System.out.println(a); }
+
+    }
+
+    public static String[] reverse(String[] array) {
+        String[] copy = Arrays.copyOf(array, array.length);
+        List<String> reversed = Arrays.asList(copy);
+        Collections.reverse(reversed);
+        return reversed.toArray(copy);
     }
 
 }

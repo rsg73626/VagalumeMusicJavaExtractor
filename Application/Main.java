@@ -31,7 +31,7 @@ public class Main {
 
         Util.print(" - REQUEST CICLE: " + requestCicle + " - ");
 
-        for (String letter : LETTERS) {
+        for (String letter : LETTERS /* - - - - - TROQUE POR Util.reverse(LETTERS) PARA COMEÇAR A PARTIR DA LETRA Z - - - - - */) {
 
             Util.print(" - " + letter + " - ");
 
