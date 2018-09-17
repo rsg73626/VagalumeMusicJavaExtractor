@@ -38,7 +38,7 @@ public class Main {
             List<String> artistNames = JSONManager.readArtistsList(letter);
             for (String artistName : artistNames) {
 
-                UUtil.print(" - " + artistName.toUpperCase() + " - ");
+                Util.print(" - " + artistName.toUpperCase() + " - ");
 
                 Artist artist = VagalumeAPI.readArtistByName(artistName);
                 int lyricsCount = 1;
