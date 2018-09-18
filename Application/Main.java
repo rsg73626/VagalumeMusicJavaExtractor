@@ -28,6 +28,7 @@ public class Main {
 
         int requestCount = 1;
         int requestCicle = 1;
+        int count = 100;
 
         Util.print(" - REQUEST CICLE: " + requestCicle + " - ");
 
@@ -37,13 +38,15 @@ public class Main {
 
             List<String> artistNames = JSONManager.readArtistsList(letter);
             for (String artistName : artistNames) {
-
+                if (count == 0) {
+                    count = 100;
+                    break;
+                }
                 Util.print(" - " + artistName.toUpperCase() + " - ");
 
                 Artist artist = VagalumeAPI.readArtistByName(artistName);
                 int lyricsCount = 1;
                 for (String musicId : artist.musicIds) {
-
                     Util.print("Mus: " + lyricsCount + " de " + artist.musicIds.size() + " | Reqs: " + requestCount + " de " + 50);
 
                     Music music = VagalumeAPI.readMusicById(musicId);
