@@ -42,6 +42,7 @@ public class Main {
                     count = 100;
                     break;
                 }
+                count--;
                 Util.print(" - " + artistName.toUpperCase() + " - ");
 
                 Artist artist = VagalumeAPI.readArtistByName(artistName);
@@ -76,19 +77,6 @@ public class Main {
                 }
             }
         }
-
-        // Artist adele = VagalumeAPI.readArtistByName("Adele()");
-        // Util.print(adele.toString());
-        // int i = 1;
-        // for (String id : adele.musicIds) {
-        //     Util.print(" *** " + i++ + ": " + id + " *** ");
-        //     Music music = VagalumeAPI.readMusicById(id);
-        //     Util.print(music.toString());
-        // }
-
-        // Music music = VagalumeAPI.readMusicById("3ade68b8ga0fcefa3");
-        // Util.print(music.toString());
-
     }
 
 }
