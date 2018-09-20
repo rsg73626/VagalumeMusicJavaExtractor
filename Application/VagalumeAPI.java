@@ -22,7 +22,7 @@ public class VagalumeAPI {
     private static final String MUSIC_URL = "https://api.vagalume.com.br/search.php?musid="; // idDaMusica
     // private static final String API_KEY = "apikey=12f8913c7d040dadc56d302e1546259a";
     private static Map<String, List<String>> specialCharacters;
-
+    private static String stringResponse;
     static Artist readArtistByName(String name) {
         if (specialCharacters == null) { setSpecialCharacters(); }
         try {
@@ -39,10 +39,11 @@ public class VagalumeAPI {
 
     		while ((inputLine = in.readLine()) != null) { response.append(inputLine); }
     		in.close();
-
+            stringResponse = response.toString();
             return JSONManager.convertToArtist(response.toString());
         } catch (Exception e) {
             Util.print("Error while trying read artist " + name + ": " + e.getLocalizedMessage());
+            Util.print(stringResponse);
         }
         return null;
     }
