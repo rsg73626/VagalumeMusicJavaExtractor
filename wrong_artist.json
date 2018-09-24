@@ -1,0 +1,140 @@
+{
+   "artist":{
+      "id":"3ade68b6gf14efda3",
+      "desc":"A Banda de Poi",
+      "url":"\/a-banda-de-poi\/",
+      "pic_small":"\/a-banda-de-poi\/images\/profile.jpg",
+      "pic_medium":"\/a-banda-de-poi\/images\/a-banda-de-poi.jpg",
+      "rank":{
+         "pos":null,
+         "period":201809,
+         "views":null,
+         "uniques":null,
+         "points":""
+      },
+      "genre":[
+
+      ],
+      "related":[
+         {
+            "id":"3ade68b6gd1d8fda3",
+            "name":"A Beautiful Demise",
+            "url":"\/a-beautiful-demise\/"
+         },
+         {
+            "id":"3ade68b7gad2c1ea3",
+            "name":"A B Turbo",
+            "url":"\/a-b-turbo\/"
+         },
+         {
+            "id":"3ade68b6g1c47fda3",
+            "name":"A Band Of Boys",
+            "url":"\/a-band-of-boys\/"
+         },
+         {
+            "id":"3ade68b6g1fddeda3",
+            "name":"Arcanjos",
+            "url":"\/arcanjos\/"
+         },
+         {
+            "id":false,
+            "name":null,
+            "url":"\/\/"
+         },
+         {
+            "id":"3ade68b7g5f571ea3",
+            "name":"A-26 \"Sentido \u00danico\"",
+            "url":"\/a-26-sentido-unico\/"
+         },
+         {
+            "id":"3ade68b6g6904fda3",
+            "name":"A Arca de No\u00e9 (musical)",
+            "url":"\/arca-de-noe\/"
+         },
+         {
+            "id":"3ade68b6g2927fda3",
+            "name":"Can\u00e7\u00f5es Escoteiras",
+            "url":"\/cancoes-escoteiras\/"
+         },
+         {
+            "id":"3ade68b7g00550ea3",
+            "name":"Five Finger Death Punch",
+            "url":"\/five-finger-death-punch\/"
+         },
+         {
+            "id":"3ade68b6gfebbfda3",
+            "name":"Bonde da Stronda",
+            "url":"\/bonde-da-stronda\/"
+         }
+      ],
+      "toplyrics":{
+         "item":[
+
+         ]
+      },
+      "lyrics":{
+         "item":[
+            {
+               "id":"3ade68b8g9ec7eea3",
+               "desc":"Fucking Ship",
+               "url":"\/a-banda-de-poi\/fucking-ship.html"
+            },
+            {
+               "id":"3ade68b8g0c38eea3",
+               "desc":"Kommies",
+               "url":"\/a-banda-de-poi\/kommies.html"
+            },
+            {
+               "id":"3ade68b8g1a55cfa3",
+               "desc":"Mai",
+               "url":"\/a-banda-de-poi\/mai.html"
+            },
+            {
+               "id":"3ade68b8gf748eea3",
+               "desc":"Mentira",
+               "url":"\/a-banda-de-poi\/mentira.html"
+            },
+            {
+               "id":"3ade68b8g1ec7eea3",
+               "desc":"Murphy",
+               "url":"\/a-banda-de-poi\/murphy.html"
+            },
+            {
+               "id":"3ade68b8ge0e7eea3",
+               "desc":"O Jogo",
+               "url":"\/a-banda-de-poi\/o-jogo.html"
+            },
+            {
+               "id":"3ade68b8g1338eea3",
+               "desc":"O Mapa do Tesouro",
+               "url":"\/a-banda-de-poi\/o-mapa-do-tesouro.html"
+            },
+            {
+               "id":"3ade68b8g7aa7eea3",
+               "desc":"O Pirata",
+               "url":"\/a-banda-de-poi\/o-pirata.html"
+            },
+            {
+               "id":"3ade68b8g7832eea3",
+               "desc":"Prisciliano",
+               "url":"\/a-banda-de-poi\/prisciliano.html"
+            },
+            {
+               "id":"3ade68b8gc7a7eea3",
+               "desc":"Um Beijo",
+               "url":"\/a-banda-de-poi\/um-beijo.html"
+            },
+            {
+               "id":"3ade68b8gd7b7eea3",
+               "desc":"Welcome To Spain",
+               "url":"\/a-banda-de-poi\/welcome-to-spain.html"
+            }
+         ]
+      },
+      "albums":{
+         "item":[
+
+         ]
+      }
+   }
+}
