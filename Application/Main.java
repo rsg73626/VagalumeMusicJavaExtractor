@@ -28,7 +28,7 @@ public class Main {
 
         int requestCount = 1;
         int requestCicle = 1;
-        int count = 100;
+        int count = 200;
 
         Util.print(" - REQUEST CICLE: " + requestCicle + " - ");
 
@@ -39,7 +39,7 @@ public class Main {
             List<String> artistNames = JSONManager.readArtistsList(letter);
             for (String artistName : artistNames) {
                 if (count == 0) {
-                    count = 100;
+                    count = 200;
                     break;
                 }
                 count--;
