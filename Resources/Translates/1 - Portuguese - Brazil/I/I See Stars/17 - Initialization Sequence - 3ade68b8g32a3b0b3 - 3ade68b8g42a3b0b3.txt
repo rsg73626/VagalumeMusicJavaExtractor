@@ -1,0 +1,10 @@
+[Sequência de Inicialização]
+
+Inicializar sequências de teste de áudio em 3... 2... 1
+Texturas ambientais iniciar
+Pausa
+Frequências estáticas engajar
+Pausa
+Baixo Subsonic começar
+Falha. Falha. Falha. Falha
+Atenção, fusão do sistema

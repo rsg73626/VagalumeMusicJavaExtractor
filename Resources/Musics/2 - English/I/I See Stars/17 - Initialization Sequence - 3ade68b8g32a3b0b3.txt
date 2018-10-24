@@ -1,0 +1,10 @@
+INITIALIZATION SEQUENCE
+
+Initializing audio test sequences in 3... 2... 1
+Ambient textures initiate
+Pause
+Static frequencies engage
+Pause
+Subsonic bass begin
+Fail. Fail. Fail. Fail
+Warning, system meltdown
