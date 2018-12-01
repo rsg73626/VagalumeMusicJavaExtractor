@@ -1,1000 +1,406 @@
-0 - 2 - English/#/13 Victims/2 - One Night Of Misery - 3ade68b8g0175ffa3.txt
-0 - 2 - English/B/B K P/4 - Warrior - 3ade68b8gdd22ffa3.txt
-0 - 2 - English/C/C-borgs/13 - To Another Human - 3ade68b8ge4c41fa3.txt
-0 - 2 - English/G/A Great Big World/26 - Won't Stop Running - 3ade68b8gcfc390b3.txt
-0 - 2 - English/J/J Bigga/8 - Let's Go Have Some Fun! - 3ade68b8g00870fa3.txt
-0 - 2 - English/J/J J Cale/6 - Artificial Paradise - 3ade68b7gcc493ea3.txt
-0 - 2 - English/R/R3hab/24 - Phoenix (Feat. Sander van Doorn) - 3ade68b8g501770b3.txt
-0 - 2 - English/W/The W's/13 - Jason E. - 3ade68b7g50654ea3.txt
-0 - 2 - English/W/The Wavonous/1 - Altered States of Mind - 3ade68b8g7c7140b3.txt
-1 - 2 - English/#/108/41 - When Death Closes Your Eyes - 3ade68b8gd0fddea3.txt
-1 - 2 - English/A/A Death For Every Sin/8 - Forever Gone - 3ade68b7g870cbea3.txt
-1 - 2 - English/A/A Fall Farewell/2 - Dead In My Eyes - 3ade68b7g1126dea3.txt
-1 - 2 - English/C/As Cities Burn/37 - Wake Dead Man, Wake - 3ade68b8gbbaeeea3.txt
-1 - 2 - English/H/H a/12 - Stampede - 3ade68b8gbe4200b3.txt
-1 - 2 - English/H/Haemorrhage/38 - Mortuary Riot - 3ade68b7g95930ea3.txt
-1 - 2 - English/I/I See Stars/42 - White Lies - 3ade68b8g3ac6a0b3.txt
-1 - 2 - English/K/K D Lang/122 - Your Smoke Screen - 3ade68b7g71793ea3.txt
-1 - 2 - English/L/L'Âme Immortelle/28 - Destiny - 3ade68b8g5a60eea3.txt
-1 - 2 - English/N/Naberius/4 - Volcano Eruption - 3ade68b8gb7edfea3.txt
-1 - 2 - English/S/A Sense of Gravity/1 - Shadowed Lines - 3ade68b8gd8e1b0b3.txt
-1 - 2 - English/T/t A T u/44 - Not Gonna Get Us - 3ade68b6g0b86fda3.txt
-1 - 2 - English/U/The Underdog Project/21 - Someday Superman - 3ade68b8gb38d1fa3.txt
-1 - 2 - English/U/UB40/146 - Stick By Me - 3ade68b7g7ead0ea3.txt
-1 - 2 - English/W/The Wedding Present/76 - One Day This Will All Be Yours - 3ade68b7g4341aea3.txt
-1 - 2 - English/Z/The Zephyrs/11 - Setting Sun - 3ade68b7g0f8bcea3.txt
-10 - 2 - English/A/A Beautiful Silence/3 - Big Booty Bitches - 3ade68b7g3bf6aea3.txt
-10 - 2 - English/B/B-Legit/17 - Rollin' Wit Hustlers - 3ade68b6ge6dcfda3.txt
-10 - 2 - English/C/A Chorus Line Soundtrack 11/3 - Dance: Ten; Looks: Three - 3ade68b8g0249cfa3.txt
-10 - 2 - English/E/E k r/1 - Yall Smoke Weed Overthere? - 3ade68b8g18531fa3.txt
-10 - 2 - English/E/E-40/159 - The Corruptor's Execution - 3ade68b7g8b000ea3.txt
-10 - 2 - English/E/E-40/169 - Trump Change - 3ade68b7g1c000ea3.txt
-10 - 2 - English/E/E-40/178 - Yay Deep - 3ade68b7g7c000ea3.txt
-10 - 2 - English/E/E-40/48 - Drought Season	 - 3ade68b7g65000ea3.txt
-10 - 2 - English/E/EA-Ski/5 - Img - 3ade68b7gfeb87ea3.txt
-10 - 2 - English/E/Earl Sweatshirt/21 - Stapleton - 3ade68b8g56a1efa3.txt
-10 - 2 - English/E/Eazy-E/15 - Eazy Street - 3ade68b7gad200ea3.txt
-10 - 2 - English/E/Eazy-E/34 - Merry Muthafuckin X-Mas - 3ade68b7g9e200ea3.txt
-10 - 2 - English/G/G O N/2 - Everybody - 3ade68b7g3f235ea3.txt
-10 - 2 - English/G/G-Eazy/45 - Mr. Jangles - 3ade68b8g11c280b3.txt
-10 - 2 - English/G/G-Eazy/5 - Breathe - 3ade68b8gef2f40b3.txt
-10 - 2 - English/G/G-Unit/24 - Close To Me - 3ade68b8gd8b37fa3.txt
-10 - 2 - English/G/G-Unit/34 - Footprints - 3ade68b7g0ae34ea3.txt
-10 - 2 - English/H/H a w k/7 - Throwed In da Game - 3ade68b8gbd2cefa3.txt
-10 - 2 - English/H/H2blond/1 - Bodytalk - 3ade68b8gdc2ea0b3.txt
-10 - 2 - English/I/Ian Dury And The Blockheads/21 - Cowboys - 3ade68b7g4d676ea3.txt
-10 - 2 - English/J/J Cole/103 - Villuminati - 3ade68b8g4d0130b3.txt
-10 - 2 - English/J/J Cole/86 - Rise and Shine - 3ade68b8g6a06efa3.txt
-10 - 2 - English/J/J Cole/96 - The Autograph - 3ade68b8g3d15efa3.txt
-10 - 2 - English/J/J Dilla/2 - E=mc2 - 3ade68b8gef680fa3.txt
-10 - 2 - English/J/Ja Rule/100 - New York Is Back - 3ade68b8gb0281fa3.txt
-10 - 2 - English/J/Ja Rule/101 - Niggas & Bitches - 3ade68b7gc1737ea3.txt
-10 - 2 - English/J/Ja Rule/124 - Sing A Prayer 4 Me - 3ade68b8gd15e8fa3.txt
-10 - 2 - English/J/Ja Rule/161 - What's Love? - 3ade68b6gc9d7fda3.txt
-10 - 2 - English/J/Ja Rule/18 - Bout My Business - 3ade68b7g4e8c4ea3.txt
-10 - 2 - English/J/Ja Rule/30 - Dem Niggaz - 3ade68b8g3806cfa3.txt
-10 - 2 - English/J/Ja Rule/45 - Falling 2 Pieces - 3ade68b8g7bb5ffa3.txt
-10 - 2 - English/J/Ja Rule/78 - Kill 'Em All - 3ade68b7gf8050ea3.txt
-10 - 2 - English/K/K Sos/2 - Relief - 3ade68b8g2e6f70b3.txt
-10 - 2 - English/M/M I A/3 - 20 Dollar - 3ade68b8g6f2b1fa3.txt
-10 - 2 - English/M/M O P/18 - Everyday - 3ade68b7g70643ea3.txt
-10 - 2 - English/M/M O P/41 - On the Front Line - 3ade68b7g12643ea3.txt
-10 - 2 - English/M/M O P/58 - What the Future Holds - 3ade68b7g43643ea3.txt
-10 - 2 - English/M/M2x/4 - Innate To Man - 3ade68b8g249c5fa3.txt
-10 - 2 - English/M/Mac Dre/29 - Dreganomics - 3ade68b8gcdc96fa3.txt
-10 - 2 - English/M/Mac Dre/3 - 2 Times & Pass - 3ade68b7gcd8a9ea3.txt
-10 - 2 - English/M/Mac Dre/58 - Let's All Get Down - 3ade68b7g2a8a9ea3.txt
-10 - 2 - English/M/Mac Miller/50 - Diablo - 3ade68b8g610e60b3.txt
-10 - 2 - English/M/Mac Miller/61 - Face The Facts - 3ade68b8g7736efa3.txt
-10 - 2 - English/M/Mac Miller/7 - 72 - 3ade68b8gb10e60b3.txt
-10 - 2 - English/M/Mac Shawn/1 - It's Going Down - 3ade68b8g67e21fa3.txt
-10 - 2 - English/M/Mac/28 - Nobody Make a Sound - 3ade68b7g28470ea3.txt
-10 - 2 - English/M/Mac/31 - Put Me in Tha Game - 3ade68b7g88470ea3.txt
-10 - 2 - English/N/N W A/20 - Fuck Tha Police - 3ade68b7gb0f43ea3.txt
-10 - 2 - English/P/A Princesa e O Sapo/5 - Down In New Orleans - 3ade68b8gc9bcafa3.txt
-10 - 2 - English/Q/Q Strange/25 - Strangeland - 3ade68b7gcf85bea3.txt
-10 - 2 - English/Q/Q-Tip/1 - All In - 3ade68b7gcfe53ea3.txt
-10 - 2 - English/R/R Kelly/299 - We Thuggin - 3ade68b6g00dbeda3.txt
-10 - 2 - English/R/R Kelly/30 - Big Chips - 3ade68b8gc0d1eea3.txt
-10 - 2 - English/T/A Tribe Called Quest/36 - Hey - 3ade68b8gade9cfa3.txt
-10 - 2 - English/T/A Tribe Called Quest/40 - Hot Sex - 3ade68b8gdde9cfa3.txt
-10 - 2 - English/T/A Tribe Called Quest/67 - Peace, Prosperity and Paper - 3ade68b8gaee9cfa3.txt
-10 - 2 - English/T/LA The Darkman/2 - As The World Goes Round - 3ade68b7g1b960ea3.txt
-10 - 2 - English/T/T Mills/56 - Vans On - 3ade68b8g3080efa3.txt
-10 - 2 - English/T/T-Pain/50 - Good Life - 3ade68b8g2949cfa3.txt
-10 - 2 - English/T/T-Pain/98 - Rappa Ternt Sanga (intro) - 3ade68b8g32c5bfa3.txt
-10 - 2 - English/U/La Union/45 - Rippin' The Sound Organized Rhymes Theme - 3ade68b8gacbf3fa3.txt
-10 - 2 - English/U/U-God/19 - Rumble - 3ade68b7g22ad0ea3.txt
-10 - 2 - English/X/X-Cops/4 - Enemies - 3ade68b8g41703fa3.txt
-10 - 2 - English/Y/Ya Boy/2 - Aquaman That Ho - 3ade68b8g825d4fa3.txt
-10 - 2 - English/Y/Yaggfu Front/1 - Black Liquid - 3ade68b7ga3399ea3.txt
-10 - 2 - English/Z/Z-ro/12 - Change Of Scenery - 3ade68b7gd6938ea3.txt
-10 - 2 - English/Z/Z-ro/132 - Struggling To Change - 3ade68b8g17582fa3.txt
-10 - 2 - English/Z/Z-ro/152 - Whut Up Now - 3ade68b7ge2638ea3.txt
-10 - 2 - English/Z/Z-ro/26 - From The South - 3ade68b7gf5938ea3.txt
-10 - 2 - English/Z/Z-ro/27 - Fuck Wit Y'all - 3ade68b7gdd738ea3.txt
-10 - 2 - English/Z/Z-ro/28 - Gangsta - 3ade68b7ge5938ea3.txt
-10 - 2 - English/Z/Z-ro/33 - Going Down In The South - 3ade68b8gec882fa3.txt
-10 - 2 - English/Z/Zane/1 - Beautiful Feelin - 3ade68b7gadc86ea3.txt
-10 - 2 - English/Z/Zane/2 - Callin' Me - 3ade68b7g9dc86ea3.txt
-11 - 2 - English/#/00 Zen/3 - Sometimes - 3ade68b8g1548cfa3.txt
-11 - 2 - English/#/1 Last Hope/2 - Ghost - 3ade68b8g4785cfa3.txt
-11 - 2 - English/#/10 Years/18 - Dying Youth - 3ade68b8gc8c16fa3.txt
-11 - 2 - English/#/10 Years/22 - Fault Line - 3ade68b7g7c417ea3.txt
-11 - 2 - English/#/10-feet/10 - Stone Cold Break - 3ade68b8gf8f33fa3.txt
-11 - 2 - English/#/1066/3 - Conversations - 3ade68b7g31da7ea3.txt
-11 - 2 - English/#/10k Shimmer/9 - I Have Arrived - 3ade68b8gdcf6cfa3.txt
-11 - 2 - English/#/10p Mixes/2 - Nice Day For A Coat - 3ade68b8g68c03fa3.txt
-11 - 2 - English/#/112/77 - Peaches & Cream (Radio Mix, Ft. P.Diddy - 3ade68b6g000aeda3.txt
-11 - 2 - English/#/12 Rods/46 - Your Secret's Safe With Me - 3ade68b8g1983eea3.txt
-11 - 2 - English/#/12012/12 - Breaking The Modern Society - 3ade68b8g2428efa3.txt
-11 - 2 - English/#/13 Faces/31 - Something Wrong - 3ade68b8g8e07cfa3.txt
-11 - 2 - English/#/13 Reasons Why/2 - New Order - Love Vigilantes - 3ade68b8g4b3dc0b3.txt
-11 - 2 - English/#/13 Victims/1 - Common Fist - 3ade68b8g5665ffa3.txt
-11 - 2 - English/A/A Blue Ocean Dream/5 - Down To Vegas - 3ade68b7g6dd09ea3.txt
-11 - 2 - English/A/A Breach Of Silence/18 - The Darkest Road - 3ade68b8g6fd680b3.txt
-11 - 2 - English/A/A Breath Before Surfacing/4 - Disharmony Among Choirs - 3ade68b8g828f7fa3.txt
-11 - 2 - English/A/A Bullet For Pretty Boy/6 - Red Medic - 3ade68b8g5b7100b3.txt
-11 - 2 - English/A/A Chorus Line Soundtrack 11/10 - Nothing - 3ade68b8g8149cfa3.txt
-11 - 2 - English/A/A Circle Of Saturn/4 - Lucid Dream - 3ade68b7gdc77cea3.txt
-11 - 2 - English/A/A Current Affair/7 - The Relationship Between Heart - 3ade68b8gfeb36fa3.txt
-11 - 2 - English/A/A Cursive Memory/12 - South - 3ade68b8geecd4fa3.txt
-11 - 2 - English/A/A Dead Giveaway/1 - Amongst The First To Fall - 3ade68b8g3d1feea3.txt
-11 - 2 - English/A/A Dozen Furies/11 - The Cycle - 3ade68b7g17c56ea3.txt
-11 - 2 - English/A/A Dying Race/4 - Built Upon Lies - 3ade68b8gc6e18fa3.txt
-11 - 2 - English/A/A Favorita novela/39 - That's Not My Name - The Ting Tings - 3ade68b8g82318fa3.txt
-11 - 2 - English/A/Nina Persson/2 - Angel Of Sadness - 3ade68b7g8f5b4ea3.txt
-11 - 2 - English/B/A Blue Ocean Dream/14 - On A Sunny Day - 3ade68b7g1dd09ea3.txt
-11 - 2 - English/B/B4-4/2 - Don't Let The Sun Catch You Crying - 3ade68b5g4547eda3.txt
-11 - 2 - English/C/A Colour Cold Black/27 - This Way - 3ade68b8gb28aeea3.txt
-11 - 2 - English/C/A Current Affair/7 - The Relationship Between Heart - 3ade68b8gfeb36fa3.txt
-11 - 2 - English/C/As Cities Burn/25 - Straight Aways To Get Away - 3ade68b7g1cfc8ea3.txt
-11 - 2 - English/C/As Cities Burn/27 - The Hoard - 3ade68b8gaaf6eea3.txt
-11 - 2 - English/C/C'mere/11 - Sunlight - 3ade68b8g8dbf30b3.txt
-11 - 2 - English/C/C-Block/1 - Keep Movin' - 3ade68b5g5c38eda3.txt
-11 - 2 - English/D/A Day Before Sunrise/3 - Leave Me Alone - 3ade68b7g1f8d9ea3.txt
-11 - 2 - English/D/A Dead Giveaway/10 - Leaving For Good - 3ade68b8g6d1feea3.txt
-11 - 2 - English/D/A Death For Every Sin/20 - The Change Came Suddenly - 3ade68b8gf949cfa3.txt
-11 - 2 - English/D/A Death For Every Sin/7 - For My Sins - 3ade68b7g6f2bbea3.txt
-11 - 2 - English/D/A Dying Race/14 - Me Against The World - 3ade68b8gb5c18fa3.txt
-11 - 2 - English/D/D Kay/2 - Barcelona - 3ade68b7g97f13ea3.txt
-11 - 2 - English/E/E-Dubble/11 - Let Me Oh - 3ade68b8gedc210b3.txt
-11 - 2 - English/E/E-Town Concrete/16 - Mandibles - 3ade68b7g0e000ea3.txt
-11 - 2 - English/E/Eagle-Eye Cherry/22 - Indecision - 3ade68b6g0a99eda3.txt
-11 - 2 - English/E/Eagle-Eye Cherry/39 - Something - 3ade68b8g519f00b3.txt
-11 - 2 - English/E/Ease Up/12 - With You - 3ade68b8g67d8ffa3.txt
-11 - 2 - English/E/Eastern Conference Champions/3 - The Box - 3ade68b8gbf355fa3.txt
-11 - 2 - English/E/Easton/3 - Sending Letters To Jersey - 3ade68b7g810eaea3.txt
-11 - 2 - English/E/Easy Big Fella/9 - Tie Me Up And Leave Me - 3ade68b8g42446fa3.txt
-11 - 2 - English/E/Easy Rider/36 - The Dream Lives On - 3ade68b8g113afea3.txt
-11 - 2 - English/E/Eat a Helicopter/2 - Shot In The Hand With a Nail Gun - 3ade68b8g2f1bffa3.txt
-11 - 2 - English/E/Eatliz/16 - Spliff - 3ade68b8g6ee1ffa3.txt
-11 - 2 - English/E/Ebony Tears/12 - Lowdown - 3ade68b7gd0300ea3.txt
-11 - 2 - English/F/A Favorita (novela)/39 - That's Not My Name - The Ting Tings - 3ade68b8g82318fa3.txt
-11 - 2 - English/F/As Friends Rust/20 - Scapegoat Wets The Whistle - 3ade68b7ge9362ea3.txt
-11 - 2 - English/F/As Friends Rust/29 - Where The Wild Things Were - 3ade68b7g8a362ea3.txt
-11 - 2 - English/F/F'N' Guns/14 - Until I Die - 3ade68b8g64300fa3.txt
-11 - 2 - English/F/F-timmi/7 - Speechless - 3ade68b7g916f9ea3.txt
-11 - 2 - English/G/A Global Threat/55 - Some Nerve - 3ade68b7gbe6e6ea3.txt
-11 - 2 - English/G/A Global Threat/8 - Born To Be - 3ade68b8ga659cfa3.txt
-11 - 2 - English/H/A House/6 - Hay When The Sun Shines - 3ade68b8ge8dccfa3.txt
-11 - 2 - English/H/H2O/49 - Phone Song - 3ade68b7gbc830ea3.txt
-11 - 2 - English/H/Hadouken!/5 - Dance Lessons - 3ade68b8gb4513fa3.txt
-11 - 2 - English/I/As I Attempt/1 - A Milion Lies - 3ade68b8g138b1fa3.txt
-11 - 2 - English/I/I Against I/18 - Only Alphabet - 3ade68b7gbe340ea3.txt
-11 - 2 - English/I/I Against I/29 - The Bottom - 3ade68b7g4f340ea3.txt
-11 - 2 - English/I/I Against I/5 - Challenge - 3ade68b7g5524bea3.txt
-11 - 2 - English/I/I Am Not Lefthanded/3 - Return - 3ade68b8g634480b3.txt
-11 - 2 - English/I/I Decline/2 - Raze Lazarus (you Know Who's The Theif) - 3ade68b8gdcd6efa3.txt
-11 - 2 - English/I/I Farm/1 - Build On One - 3ade68b8g0abfeea3.txt
-11 - 2 - English/I/I Mother Earth/1 - Blacksox - 3ade68b7g41440ea3.txt
-11 - 2 - English/I/I Mother Earth/13 - Like A Girl - 3ade68b7gc1440ea3.txt
-11 - 2 - English/I/I Mother Earth/36 - Shortcut To Moncton - 3ade68b7ga2440ea3.txt
-11 - 2 - English/I/I Used To Be a Sparrow/1 - Always The Runner - 3ade68b8g897c30b3.txt
-11 - 2 - English/I/Iamdynamite/7 - Oeo - 3ade68b8g72ea00b3.txt
-11 - 2 - English/I/Ian Anderson/2 - A Hand Of Thumbs - 3ade68b7gc6ef4ea3.txt
-11 - 2 - English/I/Ian Hunter/48 - Just Another Night - 3ade68b7g2b440ea3.txt
-11 - 2 - English/I/Ian Mc Culloch/39 - The Prettiest Star - 3ade68b8g70d45fa3.txt
-11 - 2 - English/J/J Church/106 - Mary's Moving Out - 3ade68b7gfcea7ea3.txt
-11 - 2 - English/J/J Church/174 - Swallow - 3ade68b7gb9ea7ea3.txt
-11 - 2 - English/J/J Holiday/47 - Thinkin About You - 3ade68b8g8c8d40b3.txt
-11 - 2 - English/J/J Lisk/1 - France or Spain - 3ade68b8g0254a0b3.txt
-11 - 2 - English/J/J Mascis/22 - Same Day - 3ade68b8gc8bcdea3.txt
-11 - 2 - English/J/J Mascis/6 - Can I - 3ade68b8g2632efa3.txt
-11 - 2 - English/J/J R Richards/1 - A Beautiful End - 3ade68b8g3898afa3.txt
-11 - 2 - English/J/J'lostein/8 - Unreal - 3ade68b8gd8e1bfa3.txt
-11 - 2 - English/K/K D Lang/75 - Sexuality - 3ade68b7gee693ea3.txt
-11 - 2 - English/K/K I D/6 - I Cannot Sleep At Night - 3ade68b8g650db0b3.txt
-11 - 2 - English/K/K-Otic/29 - Scream And Bleed - 3ade68b7g40d50ea3.txt
-11 - 2 - English/K/K-os/8 - Clap Ur Hands - 3ade68b7g967d7ea3.txt
-11 - 2 - English/K/K-rino/10 - Heaven On Earth (h.o.e.) - 3ade68b8g772edea3.txt
-11 - 2 - English/K/Kadenzza/7 - Mother's Flesh - 3ade68b8gbe5ddea3.txt
-11 - 2 - English/M/M O D/6 - He's Dead Jim - 3ade68b8gadb9eea3.txt
-11 - 2 - English/M/M83/69 - Time Wind (Feat. Beck) - 3ade68b8g4af0a0b3.txt
-11 - 2 - English/M/Maala/12 - Unbound - 3ade68b8g760990b3.txt
-11 - 2 - English/M/Mac Miller/123 - Melvin - 3ade68b8g410e60b3.txt
-11 - 2 - English/M/Mac Miller/161 - SDS - 3ade68b8gde6420b3.txt
-11 - 2 - English/M/Mac Miller/19 - Apparition - 3ade68b8g020e60b3.txt
-11 - 2 - English/M/m-flo/14 - Hey! - 3ade68b7g9121dea3.txt
-11 - 2 - English/N/A New Enemy/1 - Boneless - 3ade68b7gf776cea3.txt
-11 - 2 - English/N/A New January/30 - Uncreate - 3ade68b8g08553fa3.txt
-11 - 2 - English/N/A New January/9 - Flicker - 3ade68b7g9377cea3.txt
-11 - 2 - English/N/N W A/16 - Drink it Up - 3ade68b7g40f43ea3.txt
-11 - 2 - English/N/N-Trance/8 - Gimme 1 2 3 4 5 - 3ade68b7gb7a2bea3.txt
-11 - 2 - English/O/O Bardo e o Banjo/13 - Turn On Your Radio - 3ade68b8g503470b3.txt
-11 - 2 - English/P/A Perfect Murder/17 - Laughed At My Pain - 3ade68b8g7eb9cfa3.txt
-11 - 2 - English/P/A Plea For Purging/33 - The New Born Wonder - 3ade68b8g23e0dfa3.txt
-11 - 2 - English/P/A Predators Portrait/6 - Needlefeast - 3ade68b7ga061aea3.txt
-11 - 2 - English/Q/Qbo/21 - One Last Time - 3ade68b7gd149cea3.txt
-11 - 2 - English/R/A Radio With Guts/5 - Hey Boss - 3ade68b8g9ea33fa3.txt
-11 - 2 - English/R/A Rain Soaked Romance/15 - Paradise - 3ade68b7g84ce9ea3.txt
-11 - 2 - English/R/R A the Rugged Man/20 - Midnight Thud - 3ade68b8gd0b9fea3.txt
-11 - 2 - English/R/R E M/143 - Monty Got A Raw Deal - 3ade68b7g82223ea3.txt
-11 - 2 - English/R/R E M/7 - Accelerate - 3ade68b8g06955fa3.txt
-11 - 2 - English/R/R Kelly/45 - Crazy Sex - 3ade68b8ge01e60b3.txt
-11 - 2 - English/R/R Kelly/95 - Happy People - 3ade68b7g08904ea3.txt
-11 - 2 - English/S/A Salty Dog/6 - Pilgrims Progress - 3ade68b7g265aaea3.txt
-11 - 2 - English/T/A Thorn For Every Heart/25 - Voices - 3ade68b8gf9523fa3.txt
-11 - 2 - English/T/A Tribe Called Quest/94 - The Space Program - 3ade68b8gd6b4b0b3.txt
-11 - 2 - English/T/As The Sea Parts/20 - Transgressor - 3ade68b8g0f272fa3.txt
-11 - 2 - English/T/T Mills/52 - Steal The Radio - 3ade68b8gf61ddfa3.txt
-11 - 2 - English/T/T-Mass/2 - One Last Standing (Feat. Openwater) - 3ade68b8g85a2b0b3.txt
-11 - 2 - English/T/T-Pain/141 - When I Come Home - 3ade68b8g5dc6ffa3.txt
-11 - 2 - English/T/T-Wayne/1 - I Be Killin' It - 3ade68b8g574f70b3.txt
-11 - 2 - English/T/T-squad/11 - Vertical - 3ade68b8g59260fa3.txt
-11 - 2 - English/U/The Upset Victory/3 - Bombs Away - 3ade68b8g800200b3.txt
-11 - 2 - English/U/The Urgency/10 - Rooftops - 3ade68b8g3da99fa3.txt
-11 - 2 - English/U/U D O/17 - Break The Rules - 3ade68b7gc6254ea3.txt
-11 - 2 - English/U/U D O/52 - Lay Down The Law - 3ade68b7g8da12ea3.txt
-11 - 2 - English/U/U D O/8 - Backstreet Loner - 3ade68b7g9ba12ea3.txt
-11 - 2 - English/U/U S Bombs/37 - Hand Me The Downs - 3ade68b7g62b12ea3.txt
-11 - 2 - English/U/U S Bombs/40 - Hobroken Dreams - 3ade68b7ge30c2ea3.txt
-11 - 2 - English/U/UB40/71 - I'll Be On My Way - 3ade68b8g7294fea3.txt
-11 - 2 - English/U/UFO/145 - Queen Of The Deep - 3ade68b7g2f412ea3.txt
-11 - 2 - English/U/UK Subs/86 - Telephone Numbers - 3ade68b7gb1037ea3.txt
-11 - 2 - English/U/Ueickap/4 - Sometimes - 3ade68b7g03998ea3.txt
-11 - 2 - English/U/Ugly Americans/9 - City of Sin - 3ade68b7g92512ea3.txt
-11 - 2 - English/U/Ugly Casanova/6 - Hotcha Girls - 3ade68b7gec127ea3.txt
-11 - 2 - English/U/Ugly Kid Joe/2 - 12 CENTS - 3ade68b7g64512ea3.txt
-11 - 2 - English/V/The Vacation/1 - White Noise - 3ade68b7g3f546ea3.txt
-11 - 2 - English/V/The Vampire Diaries/50 - I Should Go - 	Levi Kreis - 3ade68b8g77e4ffa3.txt
-11 - 2 - English/V/The Vamps/102 - Sweater Weather - 3ade68b8g7df550b3.txt
-11 - 2 - English/V/The Vamps/29 - Hands (with Mike Perry and Sabrina Carpenter) - 3ade68b8g3b8eb0b3.txt
-11 - 2 - English/V/The Vamps/71 - On My Way - 3ade68b8g704cc0b3.txt
-11 - 2 - English/V/The Varsity/6 - Your Heaven, My Hell - 3ade68b8g61642fa3.txt
-11 - 2 - English/V/The Vincent Black Shadow/7 - Dream - 3ade68b8g8d10eea3.txt
-11 - 2 - English/V/The Voids/3 - Brain - 3ade68b7gcd622ea3.txt
-11 - 2 - English/W/As We Fight/22 - Wasting Days - 3ade68b7gffdc6ea3.txt
-11 - 2 - English/W/The W's/1 - 101 - 3ade68b7g51654ea3.txt
-11 - 2 - English/W/The Wallflowers/43 - I've Been Delivered - 3ade68b6g1701fda3.txt
-11 - 2 - English/W/The Wallflowers/76 - Used To Be Lucky - 3ade68b6gc801fda3.txt
-11 - 2 - English/W/The Wanted/48 - Rocket - 3ade68b8ge29befa3.txt
-11 - 2 - English/W/The Warren Brothers/7 - Enemy - 3ade68b7g82b22ea3.txt
-11 - 2 - English/W/The Warriors/19 - Price Of Punishment - 3ade68b8geba17fa3.txt
-11 - 2 - English/W/The Waterboys/148 - Personal - 3ade68b7g51d22ea3.txt
-11 - 2 - English/W/The Waves/1 - Falling In Waves - 3ade68b8g152e70b3.txt
-11 - 2 - English/W/The Weakerthans/15 - History To The Defeated - 3ade68b7gd1e22ea3.txt
-11 - 2 - English/W/The Wedding/28 - Water Under The Bridge - 3ade68b7g78707ea3.txt
-11 - 2 - English/W/The Weepies/34 - Takes So Long - 3ade68b8gfe6a6fa3.txt
-11 - 2 - English/W/The Weirdos/2 - Life Of Crime - 3ade68b8g64e27fa3.txt
-11 - 2 - English/W/The White Buffalo/18 - Hideous Heart - 3ade68b8gdc44a0b3.txt
-11 - 2 - English/W/The Wicked Chambers/2 - Classical - 3ade68b8g917fdfa3.txt
-11 - 2 - English/X/The XX/33 - Stars - 3ade68b8ge6c3afa3.txt
-11 - 2 - English/X/X-Wild/17 - Freeway Devil - 3ade68b7g0e432ea3.txt
-11 - 2 - English/X/X-project/2 - Time To Surrender - 3ade68b8g7bbbdea3.txt
-11 - 2 - English/Y/The Yardbirds/79 - Shapes of Things - 3ade68b7g35732ea3.txt
-11 - 2 - English/Y/The Yolks/1 - Faster - 3ade68b8gbfa3bfa3.txt
-11 - 2 - English/Y/The Young Werewolves/13 - Good, Bad, Misunderstood - 3ade68b8g113200b3.txt
-11 - 2 - English/Y/Y Kant Tori Read/9 - Pirates - 3ade68b8g01096fa3.txt
-11 - 2 - English/Y/Y&T/22 - Don't Be Afraid Of The Dark - 3ade68b7g56697ea3.txt
-11 - 2 - English/Y/Y&T/39 - Goin' Off The Deep End - 3ade68b8g25bb3fa3.txt
-11 - 2 - English/Y/Y-g-s/1 - Cutting Corners - 3ade68b8g8ac51fa3.txt
-11 - 2 - English/Z/The Zambonis/6 - Hockey Holidays - 3ade68b7gfb2bcea3.txt
-11 - 2 - English/Z/Zac Brown Band/1 - 2 Places At 1 Time - 3ade68b8gb16fb0b3.txt
-11 - 2 - English/Z/Zac Brown Band/12 - Day That I Die (Feat. Amos Lee) - 3ade68b8g73e600b3.txt
-11 - 2 - English/Z/Zac Brown Band/22 - Island Song - 3ade68b8g23e600b3.txt
-11 - 2 - English/Z/Zachary Richard/92 - Zydeco Jump - 3ade68b7g280e8ea3.txt
-12 - 2 - English/#/1-800-zombie/13 - We Are The Definition Of Hip Hop - 3ade68b8g4a123fa3.txt
-12 - 2 - English/#/10 Years/12 - Cycle Of Life - 3ade68b8g72037fa3.txt
-12 - 2 - English/#/100% Bolerage/3 - She Is Hot - 3ade68b8ge5079fa3.txt
-12 - 2 - English/#/10000 Maniacs/63 - Love Among The Ruins - 3ade68b6g29f9eda3.txt
-12 - 2 - English/#/108/24 - Our Kind - 3ade68b8g947ddea3.txt
-12 - 2 - English/#/10cc/133 - Welcome To The World - 3ade68b7gc6e32ea3.txt
-12 - 2 - English/#/10cc/7 - Age Of Consent - 3ade68b7g3fd32ea3.txt
-12 - 2 - English/A/A Broken Silence/5 - Genesis Of a Control - 3ade68b8g6f36efa3.txt
-12 - 2 - English/A/A Change Of Pace/15 - How To Rape A Country - 3ade68b7g3ff0bea3.txt
-12 - 2 - English/A/A Day In Black And White/7 - Long-distance Song - 3ade68b7gb076cea3.txt
-12 - 2 - English/A/A Fine Frenzy/35 - Stood Up - 3ade68b8g266bbfa3.txt
-12 - 2 - English/A/A Fine Frenzy/38 - The Minnow & The Trout - 3ade68b8ga3771fa3.txt
-12 - 2 - English/A/Nina Persson/6 - Desafinado - 3ade68b8g3e39cfa3.txt
-12 - 2 - English/B/A Breach Of Silence/21 - Time Still Remains - 3ade68b8g9fd680b3.txt
-12 - 2 - English/C/A Change Of Pace/11 - Every Second - 3ade68b7gd09e4ea3.txt
-12 - 2 - English/C/A Covenant Of Thorns/9 - If The Heavens Should Fall - 3ade68b8g5449cfa3.txt
-12 - 2 - English/C/As Cities Burn/32 - This Is It, This Is It - 3ade68b8g0d791fa3.txt
-12 - 2 - English/C/C-borgs/12 - The Into - 3ade68b8g17751fa3.txt
-12 - 2 - English/E/E-Town Concrete/23 - Sick World - 3ade68b7g46261ea3.txt
-12 - 2 - English/E/Earth And Fire/58 - Under A Burning Sky - 3ade68b8g292fdea3.txt
-12 - 2 - English/E/Eartha Kitt/13 - Close Enough For Love - 3ade68b8g521750b3.txt
-12 - 2 - English/E/East River Pipe/6 - Firing Room - 3ade68b8g69876fa3.txt
-12 - 2 - English/E/Ebony Ark/12 - Humans Or Beasts - 3ade68b7g73f25ea3.txt
-12 - 2 - English/F/A Faylene Sky/2 - Whispers - 3ade68b8g2287ffa3.txt
-12 - 2 - English/F/A Fine Frenzy/5 - Blow Away - 3ade68b8g9353afa3.txt
-12 - 2 - English/F/A Fine Frenzy/50 - Winter Wonderland - 3ade68b8gd66fcfa3.txt
-12 - 2 - English/F/As Friends Rust/11 - Last Call - 3ade68b7g59362ea3.txt
-12 - 2 - English/G/A Girl Called Eddy/16 - Under The Warm Sun - 3ade68b8g92a53fa3.txt
-12 - 2 - English/G/A Great Big Pile Of Leaves/8 - We Don’t Need Our Heads - 3ade68b8g313befa3.txt
-12 - 2 - English/G/A Great Big World/25 - Where Does the Time Go - 3ade68b8gdfc390b3.txt
-12 - 2 - English/H/As Hope Dies/13 - To Slumber - 3ade68b7g0edebea3.txt
-12 - 2 - English/H/H O T/17 - Gomawu Miahnhae (inglês) - 3ade68b7g3c20cea3.txt
-12 - 2 - English/H/H O T/26 - Iyah! (inglês) - 3ade68b7gc1a0cea3.txt
-12 - 2 - English/H/Hadouken!/10 - Get Smashed Gate Crash - 3ade68b8gcbae5fa3.txt
-12 - 2 - English/I/As I Lay Dying/32 - Losing Sight - 3ade68b7gf7285ea3.txt
-12 - 2 - English/I/As I Lay Dying/33 - Meaning In Tragedy - 3ade68b7gd7285ea3.txt
-12 - 2 - English/I/As I Lay Dying/42 - Parallels - 3ade68b8g32e4bfa3.txt
-12 - 2 - English/I/I Am Ghost/32 - We Are Always Searching (for You) - 3ade68b7g577f5ea3.txt
-12 - 2 - English/I/I Am The Messenger/4 - Myspace Killed The Videostar - 3ade68b8g091fdfa3.txt
-12 - 2 - English/I/I Can Make A Mess Like Nobody's Business/8 - I Know The Sum And Substance Of My Evil - 3ade68b7gdf7ebea3.txt
-12 - 2 - English/I/I Fight Dragons/17 - Welcome To The Breakdown - 3ade68b8g895defa3.txt
-12 - 2 - English/I/I Mother Earth/37 - So Gently We Go - 3ade68b7gb2440ea3.txt
-12 - 2 - English/I/I See Stars/32 - Ten Thousand Feet - 3ade68b8g52a3b0b3.txt
-12 - 2 - English/I/I The Breather/2 - Bruised & Broken - 3ade68b8ga79dffa3.txt
-12 - 2 - English/I/Ian Dury And The Blockheads/67 - Over The Points - 3ade68b7g87a8dea3.txt
-12 - 2 - English/J/J J Cale/48 - Everything Will Be Alright - 3ade68b7gee493ea3.txt
-12 - 2 - English/K/K D Lang/33 - Hanky Panky - 3ade68b7g6c693ea3.txt
-12 - 2 - English/K/K2s/4 - Common Ground - 3ade68b8gf85d6fa3.txt
-12 - 2 - English/K/Ka'au Crater Boys/20 - Island Style - 3ade68b7g464d5ea3.txt
-12 - 2 - English/L/L J Booth/13 - Mr. Moon - 3ade68b7gedaa8ea3.txt
-12 - 2 - English/M/M I A/2 - 2 Pieces - 3ade68b8g7a37cfa3.txt
-12 - 2 - English/M/M Ward/42 - One Hundred Million Years - 3ade68b8gb3d5afa3.txt
-12 - 2 - English/M/M83/31 - I Need You - 3ade68b8g6e9a40b3.txt
-12 - 2 - English/N/N-Trance/17 - That's All We Need - 3ade68b7g6c92bea3.txt
-12 - 2 - English/P/A Perfect Kiss/5 - Ardent Decay - 3ade68b7gf917cea3.txt
-12 - 2 - English/Q/Q And Not U/18 - Meet Me In The Pocket - 3ade68b7g0bfa0ea3.txt
-12 - 2 - English/Q/Q And Not U/6 - Book Of Flags - 3ade68b7g37367ea3.txt
-12 - 2 - English/R/r e l/1 - All That Bite - 3ade68b8ga99590b3.txt
-12 - 2 - English/S/A Second Chance/2 - Back Into The Groove - 3ade68b8g04c9cfa3.txt
-12 - 2 - English/S/A Static Lullaby/16 - Half Man, Half Shark; Equals One Complete Gentleman - 3ade68b7g77915ea3.txt
-12 - 2 - English/S/Los Shakers/5 - Open Up The Gates - 3ade68b8gc5704fa3.txt
-12 - 2 - English/T/T Mills/12 - Diemonds - 3ade68b8g0b9fffa3.txt
-12 - 2 - English/U/The Unseen/81 - Weapons Of Mass Deception - 3ade68b8gf02deea3.txt
-12 - 2 - English/U/The Upset Victory/1 - A World Outside - 3ade68b8g595500b3.txt
-12 - 2 - English/U/The Used/3 - A Song To Stifle Imperial Progression (A Work In Progress) - 3ade68b8ga61c40b3.txt
-12 - 2 - English/U/The Used/43 - Kenna Song - 3ade68b8gf61c40b3.txt
-12 - 2 - English/U/U D O/132 - We Want It Loud - 3ade68b7g10b12ea3.txt
-12 - 2 - English/U/U D O/68 - No Limits - 3ade68b7geda12ea3.txt
-12 - 2 - English/U/U2/279 - This Is Where You Can Reach Me Now - 3ade68b8g4afd50b3.txt
-12 - 2 - English/U/Ugra Karma/5 - Mayhemic Horde - 3ade68b8g87212fa3.txt
-12 - 2 - English/V/The Vandals/122 - Steal The Flag - 3ade68b7gc17a4ea3.txt
-12 - 2 - English/V/The Veronicas/8 - Army Of One - 3ade68b8g4716ffa3.txt
-12 - 2 - English/V/The Vibrators/37 - We Vibrate - 3ade68b8g9d71fea3.txt
-12 - 2 - English/V/The Virus/28 - Still Fighting For A Future - 3ade68b7g81622ea3.txt
-12 - 2 - English/V/The Virus/5 - Bomb Drop - 3ade68b7g80622ea3.txt
-12 - 2 - English/V/The Vogues/8 - Moments To Remember - 3ade68b8g17865fa3.txt
-12 - 2 - English/W/The Wanted/17 - Gold Forever - 3ade68b8gd096dfa3.txt
-12 - 2 - English/W/The Weakerthans/32 - Psalm For The Elks Lodge Last Call - 3ade68b7gc2e22ea3.txt
-12 - 2 - English/W/The Weakerthans/37 - Sun In An Empty Room - 3ade68b8g38c82fa3.txt
-12 - 2 - English/W/The Wednesday Night Heroes/1 - Abandoned Youth - 3ade68b8g5460efa3.txt
-12 - 2 - English/W/The Whip/1 - Dubsex - 3ade68b8g3ca9efa3.txt
-12 - 2 - English/W/The Who/137 - Mike Post Theme - 3ade68b7gbb8dcea3.txt
-12 - 2 - English/W/The Who/69 - Fragments Of Fragments - 3ade68b8gbd68dfa3.txt
-12 - 2 - English/X/X Raptor/2 - Burning Hate - 3ade68b7g0e194ea3.txt
-12 - 2 - English/Y/The Years Gone By/14 - Tear Down The Stars - 3ade68b8gca808fa3.txt
-12 - 2 - English/Y/Y&T/38 - God Only Knows - 3ade68b8g7eab3fa3.txt
-12 - 2 - English/Y/Yargos/10 - Why - 3ade68b7gb8cdcea3.txt
-12 - 2 - English/Z/Zac Brown Band/60 - Young and Wild - 3ade68b8gce7c70b3.txt
-12 - 2 - English/Z/Zac Mann/1 - Burn - 3ade68b8gad3170b3.txt
-12 - 2 - English/Z/Zain Bhikha/31 - Spread The World - 3ade68b8g4c843fa3.txt
-12 - 2 - English/Z/Zandelle/20 - Warlords Of Steel - 3ade68b8g033aeea3.txt
-13 - 2 - English/#/10cc/67 - L A Inflatable - 3ade68b7gb2e32ea3.txt
-13 - 2 - English/C/C-Rayz Walz/12 - Jello - 3ade68b8gfcb91fa3.txt
-13 - 2 - English/G/G Love Special Sauce/6 - Baby's Got Sauce - 3ade68b7g77413ea3.txt
-13 - 2 - English/G/G-Eazy/11 - Dance For Me - 3ade68b8g81e4b0b3.txt
-13 - 2 - English/G/G-Eazy/78 - Tumblr Girls - 3ade68b8gbf15a0b3.txt
-13 - 2 - English/G/G-Unit/46 - I Like The Way She do It - 3ade68b8gfb036fa3.txt
-13 - 2 - English/H/A Heartwell Ending/10 - Memory - 3ade68b7gf82fbea3.txt
-13 - 2 - English/H/H-Blockx/38 - Stars - 3ade68b7g09830ea3.txt
-13 - 2 - English/H/Hades Almighty/2 - A Ballad Of Death And Obsession - 3ade68b7g41930ea3.txt
-13 - 2 - English/I/I Am The Pilot/9 - Warriors - 3ade68b8g984f2fa3.txt
-13 - 2 - English/I/I'm From Barcelona/16 - Jenny - 3ade68b7g59d4bea3.txt
-13 - 2 - English/I/Ian Brown/44 - Solarized - 3ade68b7gc5386ea3.txt
-13 - 2 - English/I/Ian Dury And The Blockheads/22 - Crippled With Nerves - 3ade68b7g3d676ea3.txt
-13 - 2 - English/I/Ian Matthews/34 - Roll Away The Stone - 3ade68b7ge788dea3.txt
-13 - 2 - English/J/J Church/34 - Closing Time In An Early Town - 3ade68b7gc0ba7ea3.txt
-13 - 2 - English/J/J Church/51 - Drinking Down - 3ade68b7geeaa7ea3.txt
-13 - 2 - English/J/J J Cale/109 - Passion - 3ade68b7g32593ea3.txt
-13 - 2 - English/J/J J Cale/8 - Blues For Mama - 3ade68b8g6d990fa3.txt
-13 - 2 - English/J/J-Shin/9 - Sent Me An Email - 3ade68b7g64e5bea3.txt
-13 - 2 - English/L/L A Guns/19 - Malaria - 3ade68b7g16678ea3.txt
-13 - 2 - English/M/M Pokora/69 - They Talk Shit About Me - 3ade68b8g9ef67fa3.txt
-13 - 2 - English/S/A Shrine/4 - Motorcar - 3ade68b8g85c9cfa3.txt
-13 - 2 - English/S/A Split Second/4 - Burn Out - 3ade68b8gdf4ebfa3.txt
-13 - 2 - English/U/The Underground Youth/24 - Veil - 3ade68b8g02ba60b3.txt
-13 - 2 - English/U/UFO/164 - She's The One - 3ade68b7gdf412ea3.txt
-13 - 2 - English/U/UFO/36 - Chains Chains - 3ade68b7g5a412ea3.txt
-13 - 2 - English/V/The Vandals/124 - Summer Lovin' - 3ade68b7g38e12ea3.txt
-13 - 2 - English/V/The Vandals/65 - I Have A Date - 3ade68b7gc5e12ea3.txt
-13 - 2 - English/W/The Walkabouts/28 - Findlay's Motel - 3ade68b7g2d822ea3.txt
-13 - 2 - English/W/The Wallflowers/23 - For The Life Of Me - 3ade68b6ga801fda3.txt
-13 - 2 - English/W/The Waterboys/17 - And a bang on the ear - 3ade68b7gabc22ea3.txt
-13 - 2 - English/W/The Whitlams/44 - Melbourne - 3ade68b7gfb132ea3.txt
-13 - 2 - English/X/X-fusion/4 - Beware Of The Scribes - 3ade68b8g52a33fa3.txt
-13 - 2 - English/Y/Y&T/84 - She's A Liar - 3ade68b8g87ab3fa3.txt
-13 - 2 - English/Y/Y&T/86 - Squeeze - 3ade68b8ge1cb3fa3.txt
-13 - 2 - English/Y/Y'Akoto/1 - Babyblues - 3ade68b8g4c9eb0b3.txt
-13 - 2 - English/Y/Yael Naim/19 - She Was a Boy - 3ade68b8g314bffa3.txt
-13 - 2 - English/Z/Zac Brown Band/16 - Goodbye In Her Eyes - 3ade68b8g13e600b3.txt
-14 - 2 - English/I/I Farm/29 - Your Birthday - 3ade68b8g2abfeea3.txt
-14 - 2 - English/V/The Vandals/53 - Happy Birthday To Me - 3ade68b7g05e12ea3.txt
-15 - 2 - English/#/10-feet/5 - Lion - 3ade68b8gf9cfcfa3.txt
-15 - 2 - English/#/12012/108 - The Swim - 3ade68b7g7a5a8ea3.txt
-15 - 2 - English/A/A Culpa é das Estrelas/14 - Wait - 3ade68b8gc76f40b3.txt
-15 - 2 - English/D/D'espairs Ray/7 - Ark In The Storm - 3ade68b8gb952dfa3.txt
-15 - 2 - English/E/Earth Crisis/35 - Loss Of Humanity - 3ade68b7g6a100ea3.txt
-15 - 2 - English/E/Easy Star All-Stars/20 - No Surprises - 3ade68b8g4d834fa3.txt
-15 - 2 - English/F/F-Minus/15 - Final Bullet - 3ade68b7geb710ea3.txt
-15 - 2 - English/H/Hadouken!/27 - Something Very Bad - 3ade68b8g91b3bfa3.txt
-15 - 2 - English/J/J Soul Brothers/27 - Refrain - 3ade68b8g8f8befa3.txt
-15 - 2 - English/L/L'Arc-En-Ciel/103 - Pieces - 3ade68b6gc11ceda3.txt
-15 - 2 - English/L/L'Arc-En-Ciel/113 - Sell My Soul - 3ade68b7g9bf04ea3.txt
-15 - 2 - English/L/L'Arc-En-Ciel/48 - Flower - 3ade68b6g321ceda3.txt
-15 - 2 - English/L/L'Arc-En-Ciel/68 - Jojoushi - 3ade68b7g62725ea3.txt
-15 - 2 - English/T/T&C Bomber/10 - Sunrise Soredemo Hi Wa Noboru - 3ade68b8g39803fa3.txt
-15 - 2 - English/U/U-ka saegusa IN db/50 - Secret & Lies - 3ade68b8gb4114fa3.txt
-15 - 2 - English/U/U-ka saegusa IN db/9 - Because I Love You, Good-bye Street - 3ade68b7g9ae7aea3.txt
-15 - 2 - English/W/The Waterboys/11 - Ain't No Words For The Things I'm Feeling - 3ade68b7g2d68aea3.txt
-15 - 2 - English/X/X Japan/11 - Easy Fight Rambling - 3ade68b7gb26c2ea3.txt
-15 - 2 - English/X/X Japan/29 - Phantom Of Guilt - 3ade68b7g2a432ea3.txt
-15 - 2 - English/Y/The Yellow Monkey/50 - Stone Butterfly - 3ade68b7g08a04ea3.txt
-15 - 2 - English/Y/Yaakov Shwekey/2 - Cry No More - 3ade68b8g970550b3.txt
-2 - 2 - English/#/10000 Cadillacs/2 - Exercise In True Love - 3ade68b7g73a59ea3.txt
-2 - 2 - English/#/10cc/115 - The Film Of My Love - 3ade68b7gc5e32ea3.txt
-2 - 2 - English/#/10eyes/11 - The Net Of Lies - 3ade68b8g777aeea3.txt
-2 - 2 - English/#/10eyes/8 - Scream - 3ade68b7g8e25dea3.txt
-2 - 2 - English/#/12 Summers Old/2 - Corey Haim - 3ade68b8g3e4ccfa3.txt
-2 - 2 - English/#/13 Faces/2 - Around The Plynth - 3ade68b7gc9389ea3.txt
-2 - 2 - English/#/13 Winters/2 - Dark Embrace - 3ade68b8gf87aeea3.txt
-2 - 2 - English/A/A Bit Of Goldmood/6 - Drip, Drip - 3ade68b7gf50baea3.txt
-2 - 2 - English/A/A Blind Prophecy/1 - A Silent Omen - 3ade68b8g85f07fa3.txt
-2 - 2 - English/A/A Breach Of Silence/2 - Blind - 3ade68b8gfed680b3.txt
-2 - 2 - English/A/A Canorous Quintet/26 - Through Endless Illusions - 3ade68b7g06fb3ea3.txt
-2 - 2 - English/A/A Cutthroat Kiss/6 - Gasoline Sunsets - 3ade68b7gee1fbea3.txt
-2 - 2 - English/A/A Day In Black And White/1 - A Good Turn - 3ade68b7g2fb7aea3.txt
-2 - 2 - English/A/A Death For Every Sin/11 - Machine Devours - 3ade68b7g259bbea3.txt
-2 - 2 - English/A/Nina Persson/26 - The Crowning - 3ade68b8g29219fa3.txt
-2 - 2 - English/B/A Beautiful Silence/12 - My Own Windy City - 3ade68b7gf175cea3.txt
-2 - 2 - English/B/A Black Rose Burial/1 - A Baleful Aura In The Graveyard Of Broken Gears - 3ade68b8g3c4fdea3.txt
-2 - 2 - English/B/A Breath Before Surfacing/5 - Just What The Monster Ordered - 3ade68b8gca9f7fa3.txt
-2 - 2 - English/B/A Burning Water/1 - A Passing Wish - 3ade68b7g86f46ea3.txt
-2 - 2 - English/C/A Culpa é das Estrelas/8 - No One Ever Loved - 3ade68b8gc96f40b3.txt
-2 - 2 - English/C/C-Rayz Walz/8 - Degrees - 3ade68b8gf416cfa3.txt
-2 - 2 - English/D/A Dark Halo/7 - Unbreakable - 3ade68b8g351ccfa3.txt
-2 - 2 - English/D/As do They Fall/1 - Burn (The City Down) - 3ade68b8gcd7290b3.txt
-2 - 2 - English/D/D Creation/6 - Redemption - 3ade68b8g723cafa3.txt
-2 - 2 - English/D/D' Intense/1 - Clownhouse - 3ade68b8g71657fa3.txt
-2 - 2 - English/E/E-force/9 - Purgatory - 3ade68b7g18a47ea3.txt
-2 - 2 - English/E/E-praise/7 - Shout To The Lord - 3ade68b8g066f3fa3.txt
-2 - 2 - English/E/Eagles/76 - The Last Resort - 3ade68b7gb5100ea3.txt
-2 - 2 - English/E/Eamon Friel/3 - Such A Night Of Stars - 3ade68b6g5a99eda3.txt
-2 - 2 - English/E/Earth Crisis/14 - Deliverance - 3ade68b7gf8100ea3.txt
-2 - 2 - English/E/East Side Beat/1 - Ride Like The Wind - 3ade68b8g60130fa3.txt
-2 - 2 - English/E/Easy Rider/8 - Chariots Of The Gods - 3ade68b8g3ab9fea3.txt
-2 - 2 - English/E/Easy Star All-Stars/5 - Brain Damage - 3ade68b8gac834fa3.txt
-2 - 2 - English/E/Easy Star All-Stars/6 - Climbing Up The Walls - 3ade68b8gbc834fa3.txt
-2 - 2 - English/E/Ebony Lake/3 - The Author Of The Burning Flock - 3ade68b8gb5c34fa3.txt
-2 - 2 - English/G/G Love Special Sauce/76 - Rhyme For The Summertime - 3ade68b7gb9413ea3.txt
-2 - 2 - English/H/A Hero A Fake/2 - Astronomical - 3ade68b8gdeefcfa3.txt
-2 - 2 - English/H/A Hope For Home/27 - Yea, The Cold Embrace Of The Sea - 3ade68b8gab9b3fa3.txt
-2 - 2 - English/H/Hades Almighty/17 - Pagan Prayer - 3ade68b7g22930ea3.txt
-2 - 2 - English/H/Hades Almighty/19 - Razor - 3ade68b7g32930ea3.txt
-2 - 2 - English/H/Haemorrhage/29 - Grotesque Embryopathology - 3ade68b7gf4930ea3.txt
-2 - 2 - English/H/Hagbard/3 - Berserker's Requiem - 3ade68b8g2e3a40b3.txt
-2 - 2 - English/H/Haggard/47 - The Origin - 3ade68b8gf0db7fa3.txt
-2 - 2 - English/I/I Killed The Prom Queen/16 - Meilor - 3ade68b8ga0d570b3.txt
-2 - 2 - English/I/I:scintilla/2 - Cusive Eye - 3ade68b8gcd863fa3.txt
-2 - 2 - English/I/I:scintilla/20 - Toy Soldier - 3ade68b8g8c763fa3.txt
-2 - 2 - English/I/I:scintilla/4 - Face The Kill - 3ade68b8g45b7efa3.txt
-2 - 2 - English/I/Ian Brown/12 - Eternal Flame - 3ade68b8g9e9c7fa3.txt
-2 - 2 - English/I/Ian Dury And The Blockheads/31 - Fly In The Ointment - 3ade68b7g4ee8dea3.txt
-2 - 2 - English/I/Ian Mc Culloch/41 - Toad - 3ade68b8gfc345fa3.txt
-2 - 2 - English/I/Ian Thomas/96 - Time Is The Keeper - 3ade68b7g76e86ea3.txt
-2 - 2 - English/J/J Church/123 - Nostalgic For Nothing - 3ade68b7g1cea7ea3.txt
-2 - 2 - English/J/J Church/178 - Symbols - 3ade68b7g89ea7ea3.txt
-2 - 2 - English/K/K-os/4 - Black Ice (hymn 4 Disco)0 - 3ade68b8g40311fa3.txt
-2 - 2 - English/L/L'Âme Immortelle/62 - Into Thy Gentle Embrace - 3ade68b7g6344cea3.txt
-2 - 2 - English/O/O Incrível Mundo de Gumball/19 - Pizza Rap - 3ade68b8g53c540b3.txt
-2 - 2 - English/P/A Pale Horse Named Death/3 - Devil In The Closet - 3ade68b8gcce100b3.txt
-2 - 2 - English/P/A Perfect Murder/10 - Downfall Of The Human Empire - 3ade68b8g258aeea3.txt
-2 - 2 - English/Q/QL/24 - Sun, Fun & Nothing To Do - 3ade68b8g51c64fa3.txt
-2 - 2 - English/Q/QNTAL/4 - All for One - 3ade68b7ge9459ea3.txt
-2 - 2 - English/S/A Sound of Thunder/8 - The Boy Who Could Fly - 3ade68b8g6cd1b0b3.txt
-2 - 2 - English/S/A Split Second/14 - Rigor Mortis - 3ade68b7gd1978ea3.txt
-2 - 2 - English/S/A Static Lullaby/1 - A Sip Of Wine Chased With Cyanide - 3ade68b6gcf2cfda3.txt
-2 - 2 - English/S/A Static Lullaby/48 - Under Water Knife Fight - 3ade68b8g20338fa3.txt
-2 - 2 - English/S/A Storm Of Light/8 - Wasteland - 3ade68b8gde87efa3.txt
-2 - 2 - English/T/As The Sea Parts/13 - Rage Of Angels - 3ade68b8g34d72fa3.txt
-2 - 2 - English/T/T Rex/211 - The Pilgrim's Tale - 3ade68b7gf3f70ea3.txt
-2 - 2 - English/T/T-Bone/8 - Dippin - 3ade68b8g40157fa3.txt
-2 - 2 - English/U/U D O/63 - Meaning Of Life - 3ade68b8gc1c170b3.txt
-2 - 2 - English/U/U S Bombs/66 - Orange Crunch - 3ade68b7ge3b12ea3.txt
-2 - 2 - English/U/U2/44 - Bullet The Blue Sky - 3ade68b6g7b26fda3.txt
-2 - 2 - English/U/UA/22 - Panacea - 3ade68b8g10e12fa3.txt
-2 - 2 - English/U/UA/27 - The Color Of Empty Sky - 3ade68b7gdfddaea3.txt
-2 - 2 - English/U/UB40/116 - Plenty More - 3ade68b8gf374fea3.txt
-2 - 2 - English/U/Udo Lindenberg/313 - The Night - 3ade68b7gf670aea3.txt
-2 - 2 - English/U/Udo Lindenberg/314 - The River - 3ade68b7ge670aea3.txt
-2 - 2 - English/U/Ugly Americans/10 - Dancing at the Foot of Angels - 3ade68b7g1ceb2ea3.txt
-2 - 2 - English/U/Ugly Kid Joe/44 - UNDERTOW - 3ade68b7g86512ea3.txt
-2 - 2 - English/V/The Vandon Arms/5 - The Legend Of Johnny Grey - 3ade68b8g0eab4fa3.txt
-2 - 2 - English/V/The Varukers/40 - Under Attack - 3ade68b8g3771fea3.txt
-2 - 2 - English/W/The Wailin' Jennys/13 - One Voice - 3ade68b7ga1a2aea3.txt
-2 - 2 - English/W/The War On Drugs/14 - In Reverse - 3ade68b8gf2f560b3.txt
-2 - 2 - English/W/The Waterboys/129 - My Beautiful Guide - 3ade68b7g59c98ea3.txt
-2 - 2 - English/W/The Waterboys/147 - Peace Of Iona - 3ade68b7gf8c98ea3.txt
-2 - 2 - English/W/The Wavy Lines/5 - The End Of The Beginning - 3ade68b8g4edac0b3.txt
-2 - 2 - English/W/The Weakerthans/44 - Uncorrected Proofs - 3ade68b7g53e22ea3.txt
-2 - 2 - English/W/The Whispers/4 - Innocent - 3ade68b7g8b584ea3.txt
-2 - 2 - English/W/The White Buffalo/19 - Hold the Line - 3ade68b8gfe8a80b3.txt
-2 - 2 - English/W/The White Buffalo/47 - The Observatory - 3ade68b8gab27c0b3.txt
-2 - 2 - English/X/X-clan/7 - Raise The Flag - 3ade68b7gdfd36ea3.txt
-2 - 2 - English/Y/The Yardbirds/39 - I Wish You Would [Long Version] - 3ade68b7gd2732ea3.txt
-2 - 2 - English/Y/The Yellow Monkey/7 - Bulb - 3ade68b7gb8264ea3.txt
-2 - 2 - English/Y/Y-y/46 - I'll Cry It Out - 3ade68b7gf44abea3.txt
-2 - 2 - English/Y/Yacht/18 - Women Of The World - 3ade68b8g3dddefa3.txt
-2 - 2 - English/Y/Yargos/9 - Turn Away - 3ade68b7g74cdcea3.txt
-2 - 2 - English/Z/Zack Hemsey/15 - Teachings Of a Ronin - 3ade68b8g4b5d90b3.txt
-2 - 2 - English/Z/Zadera/6 - Grey And Red - 3ade68b8g728a5fa3.txt
-3 - 2 - English/#/112/53 - It's So Hard To Say Goodbye To Yesterday - 3ade68b7g068c2ea3.txt
-3 - 2 - English/D/A Decent Animal/1 - First We See If It Fits - 3ade68b8g3df21fa3.txt
-3 - 2 - English/J/J Church/204 - Undisputed King Of Nothing - 3ade68b7g98ea7ea3.txt
-3 - 2 - English/R/R Kelly/175 - More and More - 3ade68b7g2c783ea3.txt
-3 - 2 - English/U/UFO/167 - Slipping Away - 3ade68b8g19cfafa3.txt
-3 - 2 - English/X/X (band)/53 - True Love Part 2 - 3ade68b7g08432ea3.txt
-3 - 2 - English/Z/Zach Ashton/26 - Tonight - 3ade68b8ge7136fa3.txt
-4 - 2 - English/#/1 Girl Nation/4 - Daddy's Girl - 3ade68b8g8abb30b3.txt
-4 - 2 - English/#/12 Volt Sex/2 - Breathe - 3ade68b8ge245ffa3.txt
-4 - 2 - English/A/A Covenant Of Thorns/15 - Purgatory - 3ade68b8gb449cfa3.txt
-4 - 2 - English/C/A Current Affair/6 - Love One Another - 3ade68b8g134ecfa3.txt
-4 - 2 - English/C/Nina Persson/7 - Elephant - 3ade68b7g9f5b4ea3.txt
-4 - 2 - English/D/D'Angelo/17 - Higher - 3ade68b7gb03ffda3.txt
-4 - 2 - English/E/E-40/3 - 1 Luv - 3ade68b7g42a57ea3.txt
-4 - 2 - English/E/Eagles/85 - Victim of Love - 3ade68b7g56100ea3.txt
-4 - 2 - English/E/Earth And Fire/9 - Can't Live Without It Anymore - 3ade68b8g952fdea3.txt
-4 - 2 - English/E/East 17/5 - Each Time - 3ade68b6gf4a9eda3.txt
-4 - 2 - English/G/A Great Big World/15 - One Step Ahead - 3ade68b8g00d390b3.txt
-4 - 2 - English/G/G O N/1 - Alone - 3ade68b7g47bb4ea3.txt
-4 - 2 - English/H/H O T/18 - My Mother (ingês) - 3ade68b7g6350cea3.txt
-4 - 2 - English/H/H O T/59 - The Way That You Like Me (inglês) - 3ade68b7ga300cea3.txt
-4 - 2 - English/H/Haider/1 - My First, My Last, My Love - 3ade68b8gb2bb6fa3.txt
-4 - 2 - English/I/Iago Marcelino/10 - Cold Sun - 3ade68b8gea8b7fa3.txt
-4 - 2 - English/I/Ian Hunter/59 - Livin In A Heart - 3ade68b7gac586ea3.txt
-4 - 2 - English/I/Ian Mc Culloch/13 - Heaven's Gate - 3ade68b7gbfe57ea3.txt
-4 - 2 - English/K/K D Lang/7 - Big Big Love - 3ade68b7g1b693ea3.txt
-4 - 2 - English/K/K D Lang/79 - SKYLARK - 3ade68b7g1f693ea3.txt
-4 - 2 - English/K/K-Otic/12 - Heartbreaker - 3ade68b7g25668ea3.txt
-4 - 2 - English/K/K-Otic/20 - I Was Made To Love You - 3ade68b6g72bbeda3.txt
-4 - 2 - English/K/Kaai Yuki/2 - Innocent Girl - 3ade68b8g2add50b3.txt
-4 - 2 - English/K/Kadesh/3 - As The Wind Blows - 3ade68b8g5f5aefa3.txt
-4 - 2 - English/M/M A S U/7 - Miracle Love - 3ade68b8g24a360b3.txt
-4 - 2 - English/M/M I A/114 - You My Love (Feat. Rosaly) - 3ade68b8gd1fcc0b3.txt
-4 - 2 - English/M/M People/6 - Colour My Life - 3ade68b7ge3481ea3.txt
-4 - 2 - English/M/M2m/33 - Pretty Boy - 3ade68b6g548ceda3.txt
-4 - 2 - English/M/Maala/8 - Lose Your Love - 3ade68b8gc311b0b3.txt
-4 - 2 - English/M/Mac Powell/4 - My Love For You Remains - 3ade68b8g41b060b3.txt
-4 - 2 - English/N/N b Ryderz/1 - Lost In Luv - 3ade68b7gafafaea3.txt
-4 - 2 - English/P/A Place To Bury Strangers/10 - Keep Slipping Away - 3ade68b8g6311dfa3.txt
-4 - 2 - English/R/La Roux/13 - Paradise Is You - 3ade68b8g4d6750b3.txt
-4 - 2 - English/S/A Scream From The Heart/4 - Forever (cover) - 3ade68b7g5dac4ea3.txt
-4 - 2 - English/T/A Thousand Lies/4 - Screaming For My Life - 3ade68b7gb9226ea3.txt
-4 - 2 - English/T/As Tall As Lions/9 - Circles - 3ade68b8g7fc7afa3.txt
-4 - 2 - English/T/La Toya Jackson/13 - Burnin' Love - 3ade68b8g621850b3.txt
-4 - 2 - English/T/T Rex/108 - Lean Woman Blues - 3ade68b7gf9681ea3.txt
-4 - 2 - English/T/T Rex/111 - Life's A Gas - 3ade68b7gbce70ea3.txt
-4 - 2 - English/T/T Rex/89 - I Really Love You Babe - 3ade68b7g6be70ea3.txt
-4 - 2 - English/U/The Used/24 - Find A Way - 3ade68b8g01380fa3.txt
-4 - 2 - English/V/The Violet Burning/10 - Gold - 3ade68b8g464b1fa3.txt
-4 - 2 - English/V/The Violet Burning/6 - Face Of Beauty - 3ade68b8g509b1fa3.txt
-4 - 2 - English/V/V Rose/11 - Not Afraid Of The Midnight - 3ade68b8gf747b0b3.txt
-4 - 2 - English/W/The Wanted/53 - Show Me Love (America) - 3ade68b8gcc0c30b3.txt
-4 - 2 - English/W/The Waterboys/116 - Love that kills - 3ade68b7g20d22ea3.txt
-4 - 2 - English/W/The White Buffalo/38 - Radio With no Sound - 3ade68b8g99eb80b3.txt
-4 - 2 - English/W/The Who/130 - Love Reign O'er Me - 3ade68b7g35232ea3.txt
-4 - 2 - English/X/X (band)/29 - Love Shack - 3ade68b7ga6432ea3.txt
-5 - 2 - English/#/100 Monkeys/12 - Orson Brawl - 3ade68b8g0bcfcfa3.txt
-5 - 2 - English/#/10cc/66 - Johnny Don't do It - 3ade68b7gc2e32ea3.txt
-5 - 2 - English/A/A Different Breed Of Killer/6 - The Cleansing Apparatus - 3ade68b8g693f7fa3.txt
-5 - 2 - English/G/G G Anderson/39 - Jamaica - 3ade68b8g0e441fa3.txt
-5 - 2 - English/H/Hagalaz' Runedance/18 - The Falcon Flies - 3ade68b7g523f6ea3.txt
-5 - 2 - English/J/J Church/32 - Cilantro - 3ade68b7ge0ba7ea3.txt
-5 - 2 - English/K/K's Choice/15 - Come Together - 3ade68b7g4bc50ea3.txt
-5 - 2 - English/M/Mac Davis/12 - Whoever Finds This I Love You - 3ade68b8g1576fea3.txt
-5 - 2 - English/M/Macabre/35 - Holidays Of Horror - 3ade68b7gab470ea3.txt
-5 - 2 - English/M/Macabre/58 - Rat Man - 3ade68b7g1d470ea3.txt
-5 - 2 - English/M/Macabre/66 - The Boston Strangler (Albert de Salvo) - 3ade68b7g9d470ea3.txt
-5 - 2 - English/M/Macabre/70 - The Ted Bundy Song (Ted Bundy) - 3ade68b7gdd470ea3.txt
-5 - 2 - English/R/Rabia Sorda/15 - Will Be Perfect If You Are Than - 3ade68b8g1e324fa3.txt
-5 - 2 - English/S/A Small Victory/7 - Hell-bent On Heaven's Smile - 3ade68b8g89f0fea3.txt
-5 - 2 - English/T/T Rex/46 - Dandy in the Underworld - 3ade68b7g68e70ea3.txt
-5 - 2 - English/U/UK Subs/60 - Organised Crime - 3ade68b7g5ea47ea3.txt
-5 - 2 - English/V/The Variations/1 - The Man With All The Toys - 3ade68b8ge49480b3.txt
-5 - 2 - English/V/The Vibrators/29 - Sulphate - 3ade68b8ga906ffa3.txt
-5 - 2 - English/V/The Vincent Black Shadow/13 - Pale Man - 3ade68b8gd74adfa3.txt
-5 - 2 - English/W/The Waiting/23 - Staring At A Bird - 3ade68b7g2089cea3.txt
-5 - 2 - English/W/The Wallflowers/67 - Sugarfoot - 3ade68b6ge701fda3.txt
-5 - 2 - English/W/The Weakerthans/10 - Elegy For Gump Worsley - 3ade68b8g88592fa3.txt
-5 - 2 - English/W/The Weeks/17 - Stigmata - 3ade68b8gea8700b3.txt
-5 - 2 - English/W/The Who/158 - Pinball Wizard - 3ade68b6g3231fda3.txt
-5 - 2 - English/X/X-Wild/26 - Scarred To The Bone - 3ade68b7gce432ea3.txt
-5 - 2 - English/Y/Y&T/51 - In Name Of Rock - 3ade68b8g799b3fa3.txt
-6 - 2 - English/#/10 Things I Hate About You/11 - One Week - 3ade68b7g28f29ea3.txt
-6 - 2 - English/#/10 Years/33 - Miscellanea - 3ade68b8g123170b3.txt
-6 - 2 - English/#/100 Monkeys/18 - Small Lean - 3ade68b8g025c9fa3.txt
-6 - 2 - English/#/10cc/139 - You're Coming Home Again - 3ade68b7g738c2ea3.txt
-6 - 2 - English/#/10cc/97 - Rock 'n' Roll Lullaby - 3ade68b7g84e32ea3.txt
-6 - 2 - English/#/112/117 - You Are The Only One (Interlude) - 3ade68b7g9be32ea3.txt
-6 - 2 - English/#/112/12 - Can I Touch You - 3ade68b6g2cf9eda3.txt
-6 - 2 - English/#/112/37 - I Surrender (Interlude) - 3ade68b7g79e32ea3.txt
-6 - 2 - English/#/12 O'clock/7 - Footprints - 3ade68b7g8eb8bea3.txt
-6 - 2 - English/#/13 Engines/9 - Smoke and Ashes - 3ade68b7g2ce32ea3.txt
-6 - 2 - English/#/13 Faces/8 - Debris - 3ade68b7g79389ea3.txt
-6 - 2 - English/A/A Bloody Canvas/16 - Emily - 3ade68b8gcc836fa3.txt
-6 - 2 - English/A/A Breach On Heaven/16 - Cut 'n Dried - 3ade68b8g207600b3.txt
-6 - 2 - English/A/A Breach On Heaven/27 - Greyhound Song - 3ade68b8g9c6600b3.txt
-6 - 2 - English/A/A City Serene/2 - Memoria - 3ade68b8geb00efa3.txt
-6 - 2 - English/A/A Covenant Of Thorns/4 - Dreaming - 3ade68b8gc349cfa3.txt
-6 - 2 - English/A/A Dying Race/5 - Denial Solves Nothing - 3ade68b8ga3c18fa3.txt
-6 - 2 - English/B/A Banda Virtual/1 - Under The Lights - 3ade68b8g4c1d6fa3.txt
-6 - 2 - English/B/A Beautiful Silence/2 - Dance With The Stars - 3ade68b7g5765cea3.txt
-6 - 2 - English/B/A Brand/10 - Time - 3ade68b8g83e550b3.txt
-6 - 2 - English/B/A Breach On Heaven/19 - Don't Touch That Dial - 3ade68b8g707600b3.txt
-6 - 2 - English/B/A Breach On Heaven/37 - Love & Learn - 3ade68b8g3d6600b3.txt
-6 - 2 - English/B/A Breach On Heaven/44 - Not Coming Down - 3ade68b8gbd6600b3.txt
-6 - 2 - English/B/A Breach On Heaven/5 - All The Other Fish - 3ade68b8g9f6600b3.txt
-6 - 2 - English/B/A Breach On Heaven/54 - Satisfied - 3ade68b8g5e6600b3.txt
-6 - 2 - English/B/B2k/20 - Dance With You - 3ade68b7gf1ec6ea3.txt
-6 - 2 - English/C/A Current Affair/3 - Last Spring (summer's Downfall) - 3ade68b8ga34ecfa3.txt
-6 - 2 - English/C/As Crônicas de Nárnia/28 - Lion - 3ade68b8gc8bd30b3.txt
-6 - 2 - English/D/A Day To Remember/48 - Out Of Time - 3ade68b8g780fcfa3.txt
-6 - 2 - English/D/A Dream Too Late/11 - Trendsetter - 3ade68b8ge9443fa3.txt
-6 - 2 - English/D/D'espairs Ray/17 - Death Point - 3ade68b8gaa2fbfa3.txt
-6 - 2 - English/E/Earshot/12 - Let Me - 3ade68b8g696750b3.txt
-6 - 2 - English/E/Eartha Kitt/42 - My funny valentine - 3ade68b7gf3decea3.txt
-6 - 2 - English/E/Ease Up/3 - Broken Pieces - 3ade68b8g6fd8ffa3.txt
-6 - 2 - English/E/East 17/6 - Feel What U Can't C - 3ade68b8g9a36dfa3.txt
-6 - 2 - English/E/Easy Big Fella/2 - Dorm Room - 3ade68b8g1c346fa3.txt
-6 - 2 - English/E/Easyworld/2 - A Lot Of Miles From Home - 3ade68b7g19689ea3.txt
-6 - 2 - English/F/F-timmi/3 - Have Gun Will Travel - 3ade68b7gc16f9ea3.txt
-6 - 2 - English/G/G o o d/1 - Meeting - 3ade68b7gf96aaea3.txt
-6 - 2 - English/G/G-Eazy/65 - Say So - 3ade68b8g8046b0b3.txt
-6 - 2 - English/H/A Hero A Fake/7 - I Know I - 3ade68b8g2d4fafa3.txt
-6 - 2 - English/H/H2O/1 - 1995 - 3ade68b8g2c277fa3.txt
-6 - 2 - English/H/Haddaway/3 - Fly Away - 3ade68b8g664e5fa3.txt
-6 - 2 - English/I/As It Stands/4 - Moving On - 3ade68b7g413f8ea3.txt
-6 - 2 - English/I/I Against I/12 - Lesson To Be Learned - 3ade68b7g3e340ea3.txt
-6 - 2 - English/I/I Farm/16 - Mouse Hunter, A.d - 3ade68b8g9abfeea3.txt
-6 - 2 - English/I/I Hate Myself/10 - Less Than Nothing - 3ade68b8g52c30fa3.txt
-6 - 2 - English/I/I Never Heard The Bullet/5 - This Has Controversy Written All Over It - 3ade68b8g17437fa3.txt
-6 - 2 - English/I/I The Breather/1 - 4.12.11 - 3ade68b8g379dffa3.txt
-6 - 2 - English/I/Ian Anderson/7 - Am I Not Pretty Enough? - 3ade68b8g007f1fa3.txt
-6 - 2 - English/I/Ian Dury And The Blockheads/119 - You're My Baby - 3ade68b7g0219dea3.txt
-6 - 2 - English/I/Ian Dury And The Blockheads/18 - Cacka Boom - 3ade68b7g6d676ea3.txt
-6 - 2 - English/I/Ian Mc Culloch/17 - I Know You Well - 3ade68b8g46345fa3.txt
-6 - 2 - English/J/A Journey To Fall/4 - Remember What Got Us Here - 3ade68b8g388fdfa3.txt
-6 - 2 - English/J/J (j ae)/1 - Confession - 3ade68b8g3b83cfa3.txt
-6 - 2 - English/J/J Adore/1 - Over And Over - 3ade68b8gdce31fa3.txt
-6 - 2 - English/J/J B Lenoir/9 - You Will Be Mine - 3ade68b8g09391fa3.txt
-6 - 2 - English/J/J Church/210 - Why I Liked Bikini Kill - 3ade68b7g48ea7ea3.txt
-6 - 2 - English/J/J Church/211 - William Tell Suicide Note - 3ade68b7gdfda7ea3.txt
-6 - 2 - English/J/J Cole/45 - In The Morning (feat. Drake) - 3ade68b8gf186dfa3.txt
-6 - 2 - English/J/J Holiday/24 - Homeless - 3ade68b8gb3779fa3.txt
-6 - 2 - English/J/J Mascis/10 - Flying Cloud - 3ade68b8g56e04fa3.txt
-6 - 2 - English/J/J Mascis/25 - Thumb - 3ade68b8ga8bcdea3.txt
-6 - 2 - English/K/K D Lang/85 - Stop, Look and Listen - 3ade68b7g7f693ea3.txt
-6 - 2 - English/K/K Michelle/1 - A Mother's Prayer - 3ade68b8g7e3880b3.txt
-6 - 2 - English/K/K Michelle/15 - Devil In You - 3ade68b8g2cfd60b3.txt
-6 - 2 - English/K/K Michelle/3 - Adorn You - 3ade68b8g652e60b3.txt
-6 - 2 - English/K/K flay/23 - The Cops - 3ade68b8g104080b3.txt
-6 - 2 - English/K/K's Choice/3 - All - 3ade68b6gd3bbeda3.txt
-6 - 2 - English/K/K's Choice/68 - Wait - 3ade68b6g66bbeda3.txt
-6 - 2 - English/K/K-Otic/35 - Weightless - 3ade68b7g50d50ea3.txt
-6 - 2 - English/K/Kacey Musgraves/10 - Cup Of Tea - 3ade68b8gd45380b3.txt
-6 - 2 - English/L/L G Wise/8 - Hell Yeah - 3ade68b7g092d3ea3.txt
-6 - 2 - English/L/L t d/1 - Concentrate On You - 3ade68b8g807eefa3.txt
-6 - 2 - English/L/L7/58 - Slide - 3ade68b7g49960ea3.txt
-6 - 2 - English/N/N E R D/19 - Find My Way - 3ade68b8g1d95c0b3.txt
-6 - 2 - English/N/N E R D/72 - Truth or Dare (feat. Kelis, Pusha T) - 3ade68b6g54c8fda3.txt
-6 - 2 - English/N/N-Toon/5 - Now You're All Alone - 3ade68b7g4712aea3.txt
-6 - 2 - English/N/N-force/1 - All My Life - 3ade68b8g000b8fa3.txt
-6 - 2 - English/N/Na'shay/1 - Get Yo Mind Right - 3ade68b7g0c23aea3.txt
-6 - 2 - English/P/A Permanent Holiday/3 - Like Always - 3ade68b8g11f62fa3.txt
-6 - 2 - English/R/A Rain Soaked Romance/19 - The Point In Trying - 3ade68b7g44ce9ea3.txt
-6 - 2 - English/R/A Rocket To The Moon/2 - A Song For Brit - 3ade68b8g80ce7fa3.txt
-6 - 2 - English/R/A Rocket To The Moon/32 - Life Of The Party - 3ade68b8g28d6afa3.txt
-6 - 2 - English/R/A Rotterdam November/5 - Crippling Machine - 3ade68b8gabc86fa3.txt
-6 - 2 - English/R/R City/24 - Take You Down - 3ade68b8ge15090b3.txt
-6 - 2 - English/R/R E M/26 - Be Mine - 3ade68b6gbfeeeda3.txt
-6 - 2 - English/R/R E M/65 - Electron Blue - 3ade68b7g5cd84ea3.txt
-6 - 2 - English/R/R3hab/8 - Talking To You (Feat. Rynn) - 3ade68b8gadd7c0b3.txt
-6 - 2 - English/R/R5/24 - Heart Made Up On You - 3ade68b8gc17850b3.txt
-6 - 2 - English/S/A Skylit Drive/49 - Save Me Tragedy - 3ade68b8gff0540b3.txt
-6 - 2 - English/S/A Skylit Drive/64 - The Son Is Not The Father - 3ade68b8gea78a0b3.txt
-6 - 2 - English/T/A Thorn For Every Heart/4 - Bitter Party Of One - 3ade68b8g138dcfa3.txt
-6 - 2 - English/T/A Tribe Called Quest/52 - Luck Of Lucien - 3ade68b8g3ce9cfa3.txt
-6 - 2 - English/T/La Toya Jackson/23 - Fill You Up - 3ade68b8g151850b3.txt
-6 - 2 - English/T/T Mills/5 - Can't Take Your Eyes Off Me - 3ade68b8g7d0b00b3.txt
-6 - 2 - English/T/T Rex/134 - My Little Baby - 3ade68b7g7ee70ea3.txt
-6 - 2 - English/T/T-Pain/70 - It's Not You (It's Me) (T-Pain vs. Chuckie featuring Pitbull) - 3ade68b8g5a4eefa3.txt
-6 - 2 - English/T/T-Spoon/11 - Hello Kitty! - 3ade68b7g32ec0ea3.txt
-6 - 2 - English/T/T-Spoon/24 - One In A Million - 3ade68b7gd4b91ea3.txt
-6 - 2 - English/T/t A T u/24 - How Soon Is Now? - 3ade68b7gd3ab3ea3.txt
-6 - 2 - English/U/The Used/92 - The Promise - 3ade68b8gad5fdfa3.txt
-6 - 2 - English/U/U-Turn/4 - Hurting Inside - 3ade68b8g6374fea3.txt
-6 - 2 - English/U/U2/114 - I Fall Down - 3ade68b6gdc26fda3.txt
-6 - 2 - English/U/U2/208 - Rise Above 1 - 3ade68b8g7f2bdfa3.txt
-6 - 2 - English/U/UB40/106 - My Best Girl - 3ade68b7g6cad0ea3.txt
-6 - 2 - English/U/UB40/132 - Since I Met You Lady - 3ade68b8g024eeea3.txt
-6 - 2 - English/U/UB40/184 - Where Did I Go Wrong - 3ade68b6gecc0fda3.txt
-6 - 2 - English/U/UB40/187 - You - 3ade68b8gfbde6fa3.txt
-6 - 2 - English/U/Ugly Americans/4 - Boom Boom Baby - 3ade68b7g9beb2ea3.txt
-6 - 2 - English/U/Ugly Kid Joe/47 - WOULD YOU LIKE TO BE THERE - 3ade68b7gb6512ea3.txt
-6 - 2 - English/U/Uh Huh Her/22 - Run - 3ade68b8g35b81fa3.txt
-6 - 2 - English/V/A Vain Attempt/9 - This Funeral Wasn't Meant For You - 3ade68b8g17645fa3.txt
-6 - 2 - English/V/The Vampire Diaries/47 - Hunger - 3ade68b8g8a9090b3.txt
-6 - 2 - English/V/The Vamps/113 - Valerie - 3ade68b8g235950b3.txt
-6 - 2 - English/V/The Vamps/40 - I Love Loving You (Feat. Joe Don Rooney) - 3ade68b8gc04cc0b3.txt
-6 - 2 - English/V/The Varsity/3 - Buffalo Night Life - 3ade68b8gab360fa3.txt
-6 - 2 - English/V/The Varukers/8 - Die - 3ade68b8g6771fea3.txt
-6 - 2 - English/V/The Veronicas/67 - Revenge Is Sweeter (than You Ever Were) - 3ade68b8gb53d2fa3.txt
-6 - 2 - English/V/The Verve Pipe/17 - Gotta Move On - 3ade68b7g12322ea3.txt
-6 - 2 - English/V/The Vibrators/22 - No Way - 3ade68b8g6906ffa3.txt
-6 - 2 - English/V/The View/13 - Life - 3ade68b8ge46700b3.txt
-6 - 2 - English/V/The Violet Burning/11 - Goldmine - 3ade68b8g6fcb1fa3.txt
-6 - 2 - English/V/The Virgins/2 - Fernando Pando - 3ade68b8g10245fa3.txt
-6 - 2 - English/V/V Rose/5 - Fairy Tale Ending - 3ade68b8g6be390b3.txt
-6 - 2 - English/V/V V Brown/11 - I Love You - 3ade68b8gb0ce70b3.txt
-6 - 2 - English/W/A Wilhelm Scream/69 - The Rip - 3ade68b7gdddb4ea3.txt
-6 - 2 - English/W/The Wage Of Sin/5 - Independence - 3ade68b7gd8f27ea3.txt
-6 - 2 - English/W/The Wailin' Jennys/15 - Row Him Home - 3ade68b7gbdddbea3.txt
-6 - 2 - English/W/The Wanted/11 - Everybody Knows - 3ade68b8g36af30b3.txt
-6 - 2 - English/W/The Waterboys/91 - I've been in the storm for you - 3ade68b7geec22ea3.txt
-6 - 2 - English/W/The Weather/51 - The Sound Of Life - 3ade68b8gae4b4fa3.txt
-6 - 2 - English/W/The Wedding Present/16 - Blue Eyes - 3ade68b7g1441aea3.txt
-6 - 2 - English/W/The Weekend/17 - The Single - 3ade68b7g1f07bea3.txt
-6 - 2 - English/W/The Weeknd/25 - Earned It - 3ade68b8gb1dc60b3.txt
-6 - 2 - English/W/The Whites/7 - I'll Be Lovin' You - 3ade68b8g56fefea3.txt
-6 - 2 - English/W/The Whitlams/39 - Laugh in Their Faces - 3ade68b7gab132ea3.txt
-6 - 2 - English/W/The Whitlams/42 - Made Me Hard - 3ade68b7geb132ea3.txt
-6 - 2 - English/W/The Who/112 - Is It Me? - 3ade68b8gea57b0b3.txt
-6 - 2 - English/X/X Is Loaded/14 - Roll On - 3ade68b8g38167fa3.txt
-6 - 2 - English/X/X Is Loaded/8 - Last Chance - 3ade68b8g59f57fa3.txt
-6 - 2 - English/X/X-Ray Spex/10 - Highly Inflammable - 3ade68b7gdb432ea3.txt
-6 - 2 - English/X/X-fusion/22 - God & Devil - 3ade68b8gde2ebfa3.txt
-6 - 2 - English/Y/The Young Professionals/1 - 20 Seconds - 3ade68b8g1888efa3.txt
-6 - 2 - English/Y/Y-O-U/3 - Effort - 3ade68b8ga7a400b3.txt
-6 - 2 - English/Y/Y-y/97 - Words Hard To Say - 3ade68b7ga72abea3.txt
-6 - 2 - English/Y/Yann Tiersen/39 - Roma Amor - 3ade68b8gac847fa3.txt
-6 - 2 - English/Z/The Zombies/49 - Sometimes - 3ade68b7g07e75ea3.txt
-6 - 2 - English/Z/Zacharius Carls/15 - Vultures - 3ade68b8g06d23fa3.txt
-6 - 2 - English/Z/Zack Hexum/17 - Two Times Two - 3ade68b7ge9b38ea3.txt
-7 - 2 - English/#/007 Metal Man 11/1 - In My Five - 3ade68b8g54609fa3.txt
-7 - 2 - English/#/10 Petits Indiens/10 - L'usine - 3ade68b6g86f9eda3.txt
-7 - 2 - English/#/10 Years/38 - Paralyzing Kings - 3ade68b7g8d417ea3.txt
-7 - 2 - English/#/10000 Maniacs/13 - Blind Faith - 3ade68b7g2bd32ea3.txt
-7 - 2 - English/#/10000 Maniacs/67 - My Sister Rose - 3ade68b7g1dd32ea3.txt
-7 - 2 - English/#/108/2 - Angel Strike Man - 3ade68b8gf17ddea3.txt
-7 - 2 - English/#/12 Rods/40 - Terrible Hands - 3ade68b8g6535eea3.txt
-7 - 2 - English/A/A Chorus Line Soundtrack 11/8 - Montage II - 3ade68b8g2249cfa3.txt
-7 - 2 - English/A/A Fine Frenzy/10 - Dance Of The Gray Whales - 3ade68b8gab7bb0b3.txt
-7 - 2 - English/B/B'Z/34 - Devil - 3ade68b8g3cce7fa3.txt
-7 - 2 - English/B/B1A4/17 - Chu Chu Chu - 3ade68b8g2fccefa3.txt
-7 - 2 - English/B/B2k/33 - Girlfriend (Pied Piper Remix) (feat. R. Kelly) - 3ade68b6g38dcfda3.txt
-7 - 2 - English/C/As Crônicas de Nárnia/16 - Evacuating London - 3ade68b8g46bd30b3.txt
-7 - 2 - English/E/E-40/138 - Red Cup (Feat. B.o.B, Kid Ink & T-Pain) - 3ade68b8g7e9560b3.txt
-7 - 2 - English/E/Eagle-Eye Cherry/33 - Rainbow Wings - 3ade68b6g2a99eda3.txt
-7 - 2 - English/E/Earl Scruggs/4 - My Home's Across The Blue Ridge Mountains - 3ade68b8g9427eea3.txt
-7 - 2 - English/E/Early Day Miners/4 - Offshore - 3ade68b8g67b63fa3.txt
-7 - 2 - English/E/Eartha Kitt/18 - Friendless Blues - 3ade68b8g911750b3.txt
-7 - 2 - English/E/Earthtone9/31 - Yellow Fever - 3ade68b7g2a200ea3.txt
-7 - 2 - English/E/East River Pipe/1 - Absolutely Nothing - 3ade68b8gb722eea3.txt
-7 - 2 - English/E/Eazy-E/20 - First Power - 3ade68b7ged200ea3.txt
-7 - 2 - English/E/easyFun/9 - Shrek 5 - 3ade68b8g6ceb90b3.txt
-7 - 2 - English/F/A Fazenda/20 - Stayin’ Alive - Marco Camargo - 3ade68b8g3fc8cfa3.txt
-7 - 2 - English/F/A Fine Frenzy/32 - Sadseasong - 3ade68b8g5a0f00b3.txt
-7 - 2 - English/F/A Flock of Seagulls/15 - Man Made - 3ade68b7g01dcbea3.txt
-7 - 2 - English/F/A Flock of Seagulls/21 - Over My Head - 3ade68b7ga93cbea3.txt
-7 - 2 - English/F/F-Minus/11 - Disfigured - 3ade68b7gc3c61ea3.txt
-7 - 2 - English/F/F-Minus/32 - Paid To Listen - 3ade68b7gc8756ea3.txt
-7 - 2 - English/F/F-Minus/36 - Rise To Power - 3ade68b7gec710ea3.txt
-7 - 2 - English/G/G Love Special Sauce/103 - This Ain't Living - 3ade68b7gfa413ea3.txt
-7 - 2 - English/G/G Love Special Sauce/39 - Honor and Harmony - 3ade68b7g88413ea3.txt
-7 - 2 - English/G/G Love Special Sauce/60 - My Mere - 3ade68b7gf8413ea3.txt
-7 - 2 - English/G/G-Eazy/68 - Sober (Feat. Charlie Puth) - 3ade68b8g99b6c0b3.txt
-7 - 2 - English/G/G-dep/10 - It's All Over - 3ade68b7gdf9e2ea3.txt
-7 - 2 - English/G/G-dep/14 - News Report (Interlude) - 3ade68b7g00ae2ea3.txt
-7 - 2 - English/G/G-dep/9 - Intro - 3ade68b7g94283ea3.txt
-7 - 2 - English/H/Hades/30 - The Agnostic - 3ade68b7g70930ea3.txt
-7 - 2 - English/H/Haelos/6 - Oracle - 3ade68b8g5cfab0b3.txt
-7 - 2 - English/I/I Am Kloot/9 - Cuckoo - 3ade68b7gd7284ea3.txt
-7 - 2 - English/I/I Hate Sally/6 - Martha Served - 3ade68b8g7c45fea3.txt
-7 - 2 - English/I/I Mother Earth/14 - Hell & Malfunction - 3ade68b7g37286ea3.txt
-7 - 2 - English/I/I m t Smile/1 - NepoznáM - 3ade68b6g3d4beda3.txt
-7 - 2 - English/I/Ian Brown/25 - Jesus on the Move - 3ade68b7g96440ea3.txt
-7 - 2 - English/I/Ian Dury And The Blockheads/10 - Billy Bentley (promenades Himself In London) - 3ade68b7g17a8dea3.txt
-7 - 2 - English/I/Ian Dury And The Blockheads/106 - Twenty Tiny Fingers - 3ade68b7gca29dea3.txt
-7 - 2 - English/I/Ian Dury And The Blockheads/30 - Father - 3ade68b7g2878dea3.txt
-7 - 2 - English/I/Ian Dury And The Blockheads/46 - I Made Mary - 3ade68b7gc09faea3.txt
-7 - 2 - English/I/Ian Hunter/127 - Wild East - 3ade68b7g80540ea3.txt
-7 - 2 - English/J/J Bigga/12 - Screw U Mom Screw U Dad - 3ade68b8g97f80fa3.txt
-7 - 2 - English/J/J Church/150 - Sadie Mae Glutz - 3ade68b7gdaea7ea3.txt
-7 - 2 - English/J/J J Cale/96 - Mo Jo - 3ade68b7g91593ea3.txt
-7 - 2 - English/J/J Rand/11 - Operator - 3ade68b8g49a3efa3.txt
-7 - 2 - English/J/J2/5 - Rise Up - 3ade68b8g0f4ec0b3.txt
-7 - 2 - English/J/Ja Rule/75 - J-LO da Hoe - 3ade68b7g09050ea3.txt
-7 - 2 - English/K/K D Lang/32 - Hallelujah - 3ade68b7gc52d8ea3.txt
-7 - 2 - English/K/K D Lang/46 - In Perfect Dreams - 3ade68b7gfc693ea3.txt
-7 - 2 - English/K/K T Oslin/44 - Where Is A Woman To Go - 3ade68b8gc8a12fa3.txt
-7 - 2 - English/K/K-Reen/5 - Are You Ready? - 3ade68b8g052c3fa3.txt
-7 - 2 - English/K/Kaamos/12 - Lucifer Rising - 3ade68b7g3339cea3.txt
-7 - 2 - English/K/Kaamos/8 - Doom Of Man - 3ade68b8g01e91fa3.txt
-7 - 2 - English/K/Kadoshi/30 - Situações - 3ade68b7g7531dea3.txt
-7 - 2 - English/L/L Vira/1 - Talkin' 'bout Rambo - 3ade68b7g326c7ea3.txt
-7 - 2 - English/L/L'Arc-En-Ciel/82 - Love Flies - 3ade68b7g31264ea3.txt
-7 - 2 - English/L/L8r/1 - Back In Black - 3ade68b8g53ac0fa3.txt
-7 - 2 - English/L/La Abuela Chola/5 - Despachando - 3ade68b7g666f3ea3.txt
-7 - 2 - English/L/La Academia/37 - Gloria - 3ade68b7gdf239ea3.txt
-7 - 2 - English/M/M (Minwoo)/5 - Femme Fatale - 3ade68b8g7e5400b3.txt
-7 - 2 - English/M/M I A/9 - aTENTion - 3ade68b8gf4f440b3.txt
-7 - 2 - English/M/M People/19 - La Vida Loca (The Crazy Life) - 3ade68b6gb38ceda3.txt
-7 - 2 - English/M/M a d: Goya/5 - Death Comes Ripping - 3ade68b7gbee8cea3.txt
-7 - 2 - English/M/M83/28 - Highway of Endless Dreams - 3ade68b8gcc2b40b3.txt
-7 - 2 - English/M/M83/59 - Slight Night Shiver - 3ade68b8g210b70b3.txt
-7 - 2 - English/M/Maala/11 - Touch - 3ade68b8ga7a480b3.txt
-7 - 2 - English/M/Maanam/15 - Lipstick - 3ade68b6g758ceda3.txt
-7 - 2 - English/M/Macabre/43 - Jeffrey Dahmer Blues - 3ade68b7g2c470ea3.txt
-7 - 2 - English/M/Macabre/63 - Sniper In The Sky (Charles Whitman) - 3ade68b7g6d470ea3.txt
-7 - 2 - English/N/A Noviça Rebelde (trilha Sonora)/3 - Climb Ev'ry Mountain - 3ade68b7g46b28ea3.txt
-7 - 2 - English/N/N E R D/21 - God Bless Us All - 3ade68b8gec95c0b3.txt
-7 - 2 - English/N/N O R E/1 - Holla Back Slime - 3ade68b8g34b180b3.txt
-7 - 2 - English/O/O Bardo e o Banjo/7 - Lost Indian - 3ade68b8gd4cac0b3.txt
-7 - 2 - English/O/O Bardo e o Banjo/9 - Summer Rain - 3ade68b8g4565a0b3.txt
-7 - 2 - English/O/O Incrível Mundo de Gumball/14 - Lunch Song - 3ade68b8g833940b3.txt
-7 - 2 - English/O/O Incrível Mundo de Gumball/32 - Who's Gettin' Candy? - 3ade68b8gd23940b3.txt
-7 - 2 - English/O/O Incrível Mundo de Gumball/7 - Goody Two Shoes - 3ade68b8gd3c540b3.txt
-7 - 2 - English/O/O Álibi/10 - Sunny Day - 3ade68b8g17d570b3.txt
-7 - 2 - English/P/A Princesa e O Sapo/17 - Ray/Mama Odie - 3ade68b8gd2b450b3.txt
-7 - 2 - English/P/Los Prisioneros/71 - Rock On The Rocks - 3ade68b7g2e4b8ea3.txt
-7 - 2 - English/R/La Rosa Tatuata/2 - Briciole Di Pane - 3ade68b6g450feda3.txt
-7 - 2 - English/R/R City/3 - American Dream - 3ade68b8g7ccfdfa3.txt
-7 - 2 - English/R/R E M/102 - I Remember California - 3ade68b6g90b6fda3.txt
-7 - 2 - English/R/R E M/132 - Lotus - 3ade68b6g9eeeeda3.txt
-7 - 2 - English/R/R E M/144 - Moon River - 3ade68b7gf326bea3.txt
-7 - 2 - English/R/R E M/59 - Dragging The Line - 3ade68b8g8e95afa3.txt
-7 - 2 - English/R/R Kelly/277 - Thoia Thoing - 3ade68b7gfe783ea3.txt
-7 - 2 - English/S/A Split Second/13 - On Command - 3ade68b8g59c9cfa3.txt
-7 - 2 - English/S/La Sera/7 - Please Be My Third Eye - 3ade68b8gc2ccffa3.txt
-7 - 2 - English/S/La Siguiente Pagina/1 - Outer Space - 3ade68b8ge13f90b3.txt
-7 - 2 - English/T/A Thousand Times Repent/3 - Curses! Another Shape-shifting Wraith! - 3ade68b8gcfe36fa3.txt
-7 - 2 - English/T/A Tribe Called Quest/76 - Shaheed: - 3ade68b8gbf1acfa3.txt
-7 - 2 - English/T/A Tribe Called Quest/79 - Solid Wall of Sound - 3ade68b8gf6b4b0b3.txt
-7 - 2 - English/T/Los Tres/23 - El Aval - 3ade68b6gf47ceda3.txt
-7 - 2 - English/T/T Mills/51 - Somebody to Miss You - 3ade68b8ga08c40b3.txt
-7 - 2 - English/T/T Rex/162 - Rip-Off - 3ade68b7g70f70ea3.txt
-7 - 2 - English/T/T Rex/173 - Scenescof - 3ade68b7gc922cea3.txt
-7 - 2 - English/T/T Rex/240 - Wind Cheetah - 3ade68b7gf5f70ea3.txt
-7 - 2 - English/T/T Rex/40 - Conesuala - 3ade68b7gf7e70ea3.txt
-7 - 2 - English/T/T Rex/87 - Hot Rod Mama - 3ade68b7g6c91cea3.txt
-7 - 2 - English/T/T-Pain/47 - Get It Girl - 3ade68b8gc88200b3.txt
-7 - 2 - English/T/T-Pain/81 - Miami Dolphins - 3ade68b8g53efefa3.txt
-7 - 2 - English/T/T-Spoon/28 - Rockstar - 3ade68b7g53ec0ea3.txt
-7 - 2 - English/T/T-ara/81 - Roly-Poly In Copacabana - 3ade68b8g8b2100b3.txt
-7 - 2 - English/T/T-virus/1 - Alessa (Burned Alive) - 3ade68b8g204d9fa3.txt
-7 - 2 - English/U/The Underground Youth/22 - Tokyo Blue - 3ade68b8gdbaac0b3.txt
-7 - 2 - English/U/The Union Underground/1 - Across The Nation - 3ade68b7ge2712ea3.txt
-7 - 2 - English/U/U D O/12 - Black Widow - 3ade68b7gaba12ea3.txt
-7 - 2 - English/U/U S Bombs/105 - Youth Goes! - 3ade68b7g0da47ea3.txt
-7 - 2 - English/U/U-kiss/57 - Missing You - 3ade68b8g021240b3.txt
-7 - 2 - English/U/U-kiss/66 - OK! - 3ade68b8g62d9bfa3.txt
-7 - 2 - English/U/U2/106 - Heartland - 3ade68b6gac26fda3.txt
-7 - 2 - English/U/U2/268 - The Return Of The Stingray Guitar - 3ade68b8g04f4dfa3.txt
-7 - 2 - English/U/U2/326 - Zooropa - 3ade68b6g9336fda3.txt
-7 - 2 - English/U/UFO/158 - Saving Me - 3ade68b8g6a48bfa3.txt
-7 - 2 - English/U/UFO/16 - Back To The Usa {Live-74} - 3ade68b7g99412ea3.txt
-7 - 2 - English/U/UFO/59 - Easy Money - 3ade68b7g4b412ea3.txt
-7 - 2 - English/U/UGK/31 - Like Dat - 3ade68b8g7bdfeea3.txt
-7 - 2 - English/U/UK Decay/4 - For My Country - 3ade68b7g034f9ea3.txt
-7 - 2 - English/U/UK Subs/80 - Squat 96 - 3ade68b7gcda47ea3.txt
-7 - 2 - English/U/UK Subs/96 - Victim - 3ade68b7g9da47ea3.txt
-7 - 2 - English/U/Udo Lindenberg/44 - Chattanooga Choo Choo - 3ade68b7g7a80aea3.txt
-7 - 2 - English/U/Ugly Casanova/8 - Pacifico - 3ade68b7g3a527ea3.txt
-7 - 2 - English/U/uBeat/4 - Should Have Treated You Better - 3ade68b8g488e20b3.txt
-7 - 2 - English/V/The Vaccines/13 - Dream Lover - 3ade68b8g5db870b3.txt
-7 - 2 - English/V/The Vampire Killers/7 - Roy Moore Is Gonna Be My Governor - 3ade68b8gabcc1fa3.txt
-7 - 2 - English/V/The Vandals/10 - Anti - 3ade68b7ge2e12ea3.txt
-7 - 2 - English/V/The Vandals/118 - So Long, Farewell - 3ade68b7gf7e12ea3.txt
-7 - 2 - English/V/The Vandals/121 - Soup Of The Day - 3ade68b7g18e12ea3.txt
-7 - 2 - English/V/The Varukers/31 - No Education - 3ade68b8g9771fea3.txt
-7 - 2 - English/V/The Velvet Teen/12 - Never Happy - 3ade68b7g381c2ea3.txt
-7 - 2 - English/V/The Very Sexuals/1 - Anti-valentine - 3ade68b8g83737fa3.txt
-7 - 2 - English/V/The Vibrators/16 - Kid's A Mess - 3ade68b8gbc71fea3.txt
-7 - 2 - English/V/The Vibrators/5 - Bad Time - 3ade68b8g9c71fea3.txt
-7 - 2 - English/V/The Vision Bleak/3 - Ancient Heart - 3ade68b8g7da8a0b3.txt
-7 - 2 - English/V/The Vision Bleak/39 - The Wood Hag - 3ade68b8g1ea8a0b3.txt
-7 - 2 - English/V/The Von Bondies/2 - Broken Man - 3ade68b7g27775ea3.txt
-7 - 2 - English/V/V Factory/5 - Outta Control - 3ade68b8gb7ec6fa3.txt
-7 - 2 - English/W/The Walkabouts/72 - Nocturno - 3ade68b7gbf822ea3.txt
-7 - 2 - English/W/The Walkabouts/75 - Old Crow - 3ade68b7gdf822ea3.txt
-7 - 2 - English/W/The Wallflowers/69 - The Devil's Waltz - 3ade68b8g1bb430b3.txt
-7 - 2 - English/W/The Warren Brothers/15 - Just Another Sad Song - 3ade68b7gc2b22ea3.txt
-7 - 2 - English/W/The Washington Dead Cats/5 - El Diabo Is Back - 3ade68b8g48a4fea3.txt
-7 - 2 - English/W/The Waterboys/211 - The trip to Broadford - 3ade68b7g364c2ea3.txt
-7 - 2 - English/W/The Waterboys/27 - Billy Sparks - 3ade68b7g1cc22ea3.txt
-7 - 2 - English/W/The Weavers/1 - Goodnight Irene - 3ade68b8gf3c840b3.txt
-7 - 2 - English/W/The Wednesday Night Heroes/5 - Bland New Age - 3ade68b8g8bd34fa3.txt
-7 - 2 - English/W/The Weepies/14 - Just Blue - 3ade68b8gb07a6fa3.txt
-7 - 2 - English/W/The Who/121 - Just You and Me, Darling - 3ade68b8g9d40c0b3.txt
-7 - 2 - English/W/The Who/49 - Do You Think It's Alright? - 3ade68b7g01232ea3.txt
-7 - 2 - English/W/The Who/8 - A Quick One While He's Away - 3ade68b7g2f132ea3.txt
-7 - 2 - English/W/The Whole Fantastic World/5 - Nor'easter - 3ade68b8g51f27fa3.txt
-7 - 2 - English/X/X (band)/7 - Blue Spark - 3ade68b7ga5432ea3.txt
-7 - 2 - English/X/X Marks The Pedwalk/23 - Zest - 3ade68b7gbde1dea3.txt
-7 - 2 - English/X/X-Cops/11 - Welcome To New Jersey - 3ade68b7g926c2ea3.txt
-7 - 2 - English/X/X-Ray Spex/19 - Melancholy - 3ade68b7g7c432ea3.txt
-7 - 2 - English/X/X-caliber/3 - Runaway - 3ade68b8g73351fa3.txt
-7 - 2 - English/X/X-cross/4 - Storm - 3ade68b8g1587bfa3.txt
-7 - 2 - English/X/X-fusion/12 - Dead End - 3ade68b8gf7553fa3.txt
-7 - 2 - English/X/X-fusion/41 - Open Wide - 3ade68b8g78823fa3.txt
-7 - 2 - English/X/X-puh/2 - Dedication 01111000 - 3ade68b7gf5d0dea3.txt
-7 - 2 - English/Y/The Youth Ahead/22 - On My Own - 3ade68b7g23a32ea3.txt
-7 - 2 - English/Y/Y&T/58 - Lipstick And Leather - 3ade68b7g5d335ea3.txt
-7 - 2 - English/Y/Y-luk-o/8 - Fallen Down - 3ade68b7g4371dea3.txt
-7 - 2 - English/Y/Ya Boy/5 - Hang Ya Self - 3ade68b8g2ec25fa3.txt
-7 - 2 - English/Y/Yanni/31 - O Luce Che Brilla Nell'oscurità - 3ade68b8g6808efa3.txt
-7 - 2 - English/Z/Zack Hexum/14 - Swim - 3ade68b7g0ab38ea3.txt
-7 - 2 - English/Z/Zaho/18 - Heartless (la Promesse) - 3ade68b8g708abfa3.txt
-8 - 2 - English/#/009 Sound System/4 - Holiday (So High) - 3ade68b8g6ebdefa3.txt
-8 - 2 - English/#/13 Reasons Why/3 - Years & Years - Sanctify - 3ade68b8gcb3dc0b3.txt
-8 - 2 - English/A/A Bloody Canvas/11 - Blame The Doctor Not The Pills - 3ade68b8g8939cfa3.txt
-8 - 2 - English/A/A Fábrica/3 - Mr. Chaplin - 3ade68b8g64aaeea3.txt
-8 - 2 - English/A/Nina Persson/12 - I Can Buy You - 3ade68b7gff5b4ea3.txt
-8 - 2 - English/C/C C Catch/6 - Born On The Wind - 3ade68b7gf7f77ea3.txt
-8 - 2 - English/C/C-Clown/4 - Destiny - 3ade68b8g0ee800b3.txt
-8 - 2 - English/E/Eagles/34 - In the City - 3ade68b7g83100ea3.txt
-8 - 2 - English/E/Eamon/1 - (how Could You) Bring Him Home - 3ade68b7g94999ea3.txt
-8 - 2 - English/F/A Fine Frenzy/25 - New Heights - 3ade68b8g4983afa3.txt
-8 - 2 - English/F/A Fine Frenzy/3 - Avalanches (Culla's Song) - 3ade68b8g0a0f00b3.txt
-8 - 2 - English/G/G-Dragon/35 - She's Gone (feat. Kush) - 3ade68b8g5e92afa3.txt
-8 - 2 - English/I/Ian Hunter/6 - American Music - 3ade68b7g38440ea3.txt
-8 - 2 - English/J/J Moss/22 - The Other Side Of Victory - 3ade68b8g4c2370b3.txt
-8 - 2 - English/K/Kadison Joshua/10 - Jessie - 3ade68b6gf8bbeda3.txt
-8 - 2 - English/L/L7/34 - Long Green - 3ade68b7gc7960ea3.txt
-8 - 2 - English/R/A Rosa dí Zínco/8 - Dissembler - 3ade68b7g0c237ea3.txt
-8 - 2 - English/R/R E M/90 - Half A World Away - 3ade68b6g21feeda3.txt
-8 - 2 - English/R/R Kelly/246 - Spirit - 3ade68b7gcd783ea3.txt
-8 - 2 - English/R/R Kelly/309 - Wonderful - 3ade68b8g92b110b3.txt
-8 - 2 - English/R/r e l/5 - Plateau - 3ade68b8g31a880b3.txt
-8 - 2 - English/T/As The Sea Parts/9 - Kill The King - 3ade68b8g7f872fa3.txt
-8 - 2 - English/T/T Rex/140 - Oh Baby - 3ade68b7gfee70ea3.txt
-8 - 2 - English/U/U2/151 - Love Is Bigger Than Anything In Its Way - 3ade68b8g4396c0b3.txt
-8 - 2 - English/V/The Vaccines/33 - No Hope - 3ade68b8g260400b3.txt
-8 - 2 - English/V/The Vamps/124 - Wild Heart (Feat. Pixie Lott) - 3ade68b8g219740b3.txt
-8 - 2 - English/V/The Vettes/6 - Needles & Pins - 3ade68b8gc78600b3.txt
-8 - 2 - English/V/The Von Bondies/5 - Earthquake - 3ade68b8g3330b0b3.txt
-8 - 2 - English/W/The Wanted/46 - Replace Your Heart - 3ade68b8gc589cfa3.txt
-8 - 2 - English/Y/The Youth Ahead/29 - Stuck Up Highschool Girls - 3ade68b7g73a32ea3.txt
-8 - 2 - English/Y/Yankee Grey/6 - That Would Be Me - 3ade68b7gcd632ea3.txt
-9 - 2 - English/#/10-feet/4 - Just a False! Just a Hole! - 3ade68b8ga9cfcfa3.txt
-9 - 2 - English/#/10cc/21 - Cry - 3ade68b7g10e32ea3.txt
-9 - 2 - English/#/112/22 - Dance With Me - 3ade68b6g5ef9eda3.txt
-9 - 2 - English/#/112/47 - Intro - 3ade68b6g6bf9eda3.txt
-9 - 2 - English/#/11:11'/6 - Westside - 3ade68b8g5040b0b3.txt
-9 - 2 - English/#/12 Rods/23 - Marionette - 3ade68b8g0e84eea3.txt
-9 - 2 - English/A/A Day To Remember/47 - No Cigar - 3ade68b8gf43440b3.txt
-9 - 2 - English/C/C C Catch/5 - Big Time - 3ade68b8gf9fbdea3.txt
-9 - 2 - English/D/A Day To Remember/47 - No Cigar - 3ade68b8gf43440b3.txt
-9 - 2 - English/D/A Day To Remember/58 - Sound The Alarm - 3ade68b7gdcdcbea3.txt
-9 - 2 - English/E/E-force/1 - Belief - 3ade68b7ga8a47ea3.txt
-9 - 2 - English/E/Eagles/90 - What do I do With My Heart - 3ade68b8g75703fa3.txt
-9 - 2 - English/E/Earth And Fire/26 - Hide Away - 3ade68b8ge72fdea3.txt
-9 - 2 - English/E/Ebony Ark/17 - Searching For An Answer - 3ade68b7g93f25ea3.txt
-9 - 2 - English/G/G Porto/4 - More Than Vip Feat. Shine - 3ade68b8g787e70b3.txt
-9 - 2 - English/H/H-Blockx/26 - Little Girl - 3ade68b6g82eaeda3.txt
-9 - 2 - English/H/Hadise/31 - Stir Me Up - 3ade68b7gf08d8ea3.txt
-9 - 2 - English/I/As It Stands/3 - Left On Hold - 3ade68b7g513f8ea3.txt
-9 - 2 - English/I/I Never Heard The Bullet/2 - Distance Makes The Heart Grow - 3ade68b8g37437fa3.txt
-9 - 2 - English/I/Ian Mc Culloch/33 - Sliding - 3ade68b7gac79dea3.txt
-9 - 2 - English/J/J Holiday/37 - Never Had It - 3ade68b8g46504fa3.txt
-9 - 2 - English/K/K7/1 - Come Baby Come - 3ade68b6gd6bbeda3.txt
-9 - 2 - English/M/M2m/37 - Tell You That I Love You - 3ade68b8g9d333fa3.txt
-9 - 2 - English/M/Mac DeMarco/53 - The Stars Keep On Calling My Name - 3ade68b8g373c90b3.txt
-9 - 2 - English/M/Mac/7 - Bloody - 3ade68b7gb6470ea3.txt
-9 - 2 - English/N/A Nude/2 - Dont Wanna Live Without You 2s - 3ade68b7gdd579ea3.txt
-9 - 2 - English/P/A Palo Seko/2 - Dirty South (uh-huh) - 3ade68b8g80e54fa3.txt
-9 - 2 - English/R/R5/52 - Red Velvet (Feat. New Beat Fund) - 3ade68b8g8482c0b3.txt
-9 - 2 - English/T/T-Spoon/23 - No Time 2 Waste ft. Ingrid Simons - 3ade68b7ga4b91ea3.txt
-9 - 2 - English/T/T-Spoon/26 - Rain In June - 3ade68b7g23ec0ea3.txt
-9 - 2 - English/U/UB40/183 - Wedding Day - 3ade68b7g38412ea3.txt
-9 - 2 - English/V/The Vandals/148 - You're Not The Boss Of Me (Kick It) - 3ade68b7g99e12ea3.txt
-9 - 2 - English/V/The Verve/15 - Butterfly (Acoustic) - 3ade68b7g15322ea3.txt
-9 - 2 - English/V/The Verve/31 - Judas - 3ade68b8g24d97fa3.txt
-9 - 2 - English/V/The Violet Burning/33 - Undone - 3ade68b8g4f9b1fa3.txt
-9 - 2 - English/V/V Boys/6 - First Time - 3ade68b7gb1ceaea3.txt
-9 - 2 - English/Z/Z-ro/17 - Life Is A Struggle & Pain - 3ade68b7g24938ea3.txt
+KMeans result with 16 centroids.
+
+Grupo 1: 18 registros.
+Grupo 2: 34 registros.
+Grupo 3: 184 registros.
+Grupo 4: 125 registros.
+Grupo 5: 60 registros.
+Grupo 6: 81 registros.
+Grupo 7: 64 registros.
+Grupo 8: 108 registros.
+Grupo 9: 41 registros.
+Grupo 10: 46 registros.
+Grupo 11: 29 registros.
+Grupo 12: 72 registros.
+Grupo 13: 65 registros.
+Grupo 14: 30 registros.
+Grupo 15: 33 registros.
+Grupo 16: 10 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    5 most frequent words: no (197); ni (126); wo (81); wa (75); ga (75); 
+
+    5 less frequent words: 3 (1); 4 (1); abunai (1); act (1); aeba (1); 
+
+  Group 1 
+
+    5 most frequent words: just (108); de (73); better (61); now (58); other (56); 
+
+    5 less frequent words: 3 (1); 4 (1); abort (1); acknowledg (1); across (1); 
+
+  Group 2 
+
+    5 most frequent words: ll (322); there (298); when (190); know (181); up (177); 
+
+    5 less frequent words: 7 (1); abductor (1); abl (1); abort (1); abound (1); 
+
+  Group 3 
+
+    5 most frequent words: like (354); got (335); don (284); babi (267); girl (251); 
+
+    5 less frequent words: 9 (1); abdomen (1); abduct (1); absent (1); ac (1); 
+
+  Group 4 
+
+    5 most frequent words: make (239); know (156); don (147); like (134); gonna (128); 
+
+    5 less frequent words: 6 (1); abil (1); abl (1); abstin (1); absurd (1); 
+
+  Group 5 
+
+    5 most frequent words: don (323); do (299); what (263); know (207); want (174); 
+
+    5 less frequent words: 4 (1); 5 (1); abov (1); absolut (1); abund (1); 
+
+  Group 6 
+
+    5 most frequent words: nigga (446); up (283); like (283); thi (282); ain (242); 
+
+    5 less frequent words: abl (1); abras (1); absurd (1); acclaim (1); accomplish (1); 
+
+  Group 7 
+
+    5 most frequent words: thi (351); with (142); ve (132); time (125); now (125); 
+
+    5 less frequent words: 3 (1); 8 (1); abdomin (1); abl (1); abound (1); 
+
+  Group 8 
+
+    5 most frequent words: come (177); down (118); back (101); when (97); thi (72); 
+
+    5 less frequent words: 1 (1); abolit (1); absolut (1); accept (1); access (1); 
+
+  Group 9 
+
+    5 most frequent words: thi (159); night (60); end (60); on (58); last (53); 
+
+    5 less frequent words: abandon (1); accept (1); accus (1); acknowledg (1); across (1); 
+
+  Group 10 
+
+    5 most frequent words: lyric (203); rock (75); name (61); roll (59); yardbird (50); 
+
+    5 less frequent words: 3 (1); activ (1); affect (1); against (1); aircraft (1); 
+
+  Group 11 
+
+    5 most frequent words: life (159); with (87); from (87); fear (79); don (77); 
+
+    5 less frequent words: abandon (1); abduct (1); abhor (1); absorb (1); accustom (1); 
+
+  Group 12 
+
+    5 most frequent words: danc (181); with (169); on (88); know (88); just (67); 
+
+    5 less frequent words: 1 (1); 8 (1); 9 (1); abandon (1); abov (1); 
+
+  Group 13 
+
+    5 most frequent words: oh (339); la (94); solo (64); how (60); love (46); 
+
+    5 less frequent words: 1 (1); 2 (1); abov (1); acaba (1); afraid (1); 
+
+  Group 14 
+
+    5 most frequent words: love (406); now (62); do (55); with (43); when (35); 
+
+    5 less frequent words: 3 (1); 7 (1); achiev (1); across (1); act (1); 
+
+  Group 15 
+
+    5 most frequent words: instrument (10); wast (1); tear (1); sorcer (1); sky (1); 
+
+    5 less frequent words: blink (1); dunford (1); fanci (1); hot (1); hous (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/X/X Japan/35 - Say Anything - 3ade68b6g7d9afda3.txt
+
+
+0 - 2 - English/D/D'espairs Ray/4 - Aberu To Kain - 3ade68b7g5bab5ea3.txt
+
+
+0 - 2 - English/M/m-flo/49 - Ten Below Blazing - 3ade68b7ga5468ea3.txt
+
+
+0 - 2 - English/J/J Soul Brothers/32 - We! - 3ade68b8g29d9ffa3.txt
+
+
+0 - 2 - English/M/m-flo/48 - Summer Time Love - 3ade68b7gd9e4aea3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/M/M2m/17 - Hvorpaa Mine Tanker Ligger - 3ade68b7g75470ea3.txt
+
+
+1 - 2 - English/A/A Fazenda/20 - Stayin’ Alive - Marco Camargo - 3ade68b8g3fc8cfa3.txt
+
+
+1 - 2 - English/I/Ian Mc Culloch/4 - Candleland - 3ade68b7g91e8bea3.txt
+
+
+1 - 2 - English/J/J J Cale/127 - Shanghaid - 3ade68b7g63593ea3.txt
+
+
+1 - 2 - English/V/The Vamps/75 - Paper Hearts - 3ade68b8g9371c0b3.txt
+
+
+
+Group 3: 
+
+11 - 2 - English/V/The Vincent Black Shadow/8 - Fears In The Water - 3ade68b8ge830eea3.txt
+
+
+13 - 2 - English/M/M People/48 - Tumbling Down - 3ade68b7g25470ea3.txt
+
+
+13 - 2 - English/E/Eartha Kitt/15 - Do You Remember? - 3ade68b8gd21750b3.txt
+
+
+12 - 2 - English/I/I Am Ghost/4 - Burn The Bodies To The Ground - 3ade68b8g85d39fa3.txt
+
+
+11 - 2 - English/I/Ian Brown/14 - F.E.A.R. - 3ade68b5gfd18eda3.txt
+
+
+
+Group 4: 
+
+13 - 2 - English/U/U2/131 - Inside Out - 3ade68b7gc4ad0ea3.txt
+
+
+2 - 2 - English/H/H2O/70 - Thick and Thin - 3ade68b8gb65ca0b3.txt
+
+
+2 - 2 - English/F/F-timmi/2 - Fallout - 3ade68b7gd16f9ea3.txt
+
+
+2 - 2 - English/I/I Hate Myself/10 - Less Than Nothing - 3ade68b8g52c30fa3.txt
+
+
+14 - 2 - English/G/A Guy/1 - We Could Be Lovers - 3ade68b7g7799aea3.txt
+
+
+
+Group 5: 
+
+2 - 2 - English/M/Mac Miller/90 - I'll Be There - 3ade68b8g579defa3.txt
+
+
+2 - 2 - English/T/T-virus/5 - Music To Tha Pig - 3ade68b8g12a7afa3.txt
+
+
+2 - 2 - English/S/A Static Lullaby/30 - Radio Flyer's Last Journey - 3ade68b8g4711fea3.txt
+
+
+2 - 2 - English/K/Kacey Musgraves/22 - Have Yourself a Merry Little Christmas - 3ade68b8g8391b0b3.txt
+
+
+2 - 2 - English/U/The Underground Youth/20 - Silhouette - 3ade68b8gd1ba60b3.txt
+
+
+
+Group 6: 
+
+3 - 2 - English/A/A Breach On Heaven/18 - De Diva - 3ade68b8g507600b3.txt
+
+
+2 - 2 - English/V/The Velvelettes/5 - There He Goes - 3ade68b8g359f7fa3.txt
+
+
+2 - 2 - English/X/The XX/24 - Night Time - 3ade68b8gc6c3afa3.txt
+
+
+2 - 2 - English/W/A Wilhelm Scream/64 - The I Hate Fucking Club - 3ade68b8g6f09afa3.txt
+
+
+2 - 2 - English/V/The Vandals/41 - Flowers Are Pretty - 3ade68b7g44e12ea3.txt
+
+
+
+Group 7: 
+
+3 - 2 - English/U/U-kiss/79 - Rock Ya Body - 3ade68b8g361240b3.txt
+
+
+3 - 2 - English/S/A Second Chance/10 - Desire - 3ade68b8g74c9cfa3.txt
+
+
+3 - 2 - English/U/UK Subs/85 - Teenage - 3ade68b7gada47ea3.txt
+
+
+3 - 2 - English/H/H2O/16 - Faster Than The World - 3ade68b7g6b830ea3.txt
+
+
+3 - 2 - English/T/T'Pau/21 - You Give Up - 3ade68b8gadd82fa3.txt
+
+
+
+Group 8: 
+
+4 - 2 - English/J/J Mascis/16 - Make It Right - 3ade68b8gc532efa3.txt
+
+
+4 - 2 - English/B/A Billion Ernies/3 - Please Don't Reveal The Ending - 3ade68b7ga0ef5ea3.txt
+
+
+4 - 2 - English/V/The Vibrators/1 - 24 Hour People - 3ade68b8g12914fa3.txt
+
+
+4 - 2 - English/V/V-project/5 - I'm Feeling It Now - 3ade68b8gb68ebfa3.txt
+
+
+4 - 2 - English/Z/Zabadak/4 - Believe - 3ade68b8geb0860b3.txt
+
+
+
+Group 9: 
+
+5 - 2 - English/M/M I A/23 - Borders - 3ade68b8geab490b3.txt
+
+
+5 - 2 - English/T/T-Pain/121 - Sweet - 3ade68b8g29a88fa3.txt
+
+
+5 - 2 - English/R/R City/1 - 2getha - 3ade68b8g3165bfa3.txt
+
+
+5 - 2 - English/I/As It Stands/4 - Moving On - 3ade68b7g413f8ea3.txt
+
+
+5 - 2 - English/H/H2O/22 - Friend - 3ade68b7g57830ea3.txt
+
+
+
+Group 10: 
+
+5 - 2 - English/Z/Zac Brown Band/5 - As She's Walking Away - 3ade68b8g3021cfa3.txt
+
+
+5 - 2 - English/W/The Warren Brothers/10 - Guilty - 3ade68b7g92b22ea3.txt
+
+
+6 - 2 - English/G/G-Eazy/48 - No Limit (feat. ASAP Rocky and Cardi B) - 3ade68b8g9746c0b3.txt
+
+
+5 - 2 - English/Z/Zach Gill/3 - Family - 3ade68b8g65ef8fa3.txt
+
+
+6 - 2 - English/E/E-40/21 - Bitch (remix) (feat. 50 Cent and Too $hort) - 3ade68b8g869ddfa3.txt
+
+
+
+Group 11: 
+
+6 - 2 - English/N/N E R D/33 - It Wasn't Us - 3ade68b7g2fc18ea3.txt
+
+
+6 - 2 - English/K/K-rino/18 - Square The Game Off - 3ade68b8g1b6edea3.txt
+
+
+6 - 2 - English/M/Mac Mall/16 - My Opinion - 3ade68b8gbc819fa3.txt
+
+
+6 - 2 - English/T/T-Pain/136 - Up Down (Do This All Day) (Feat. B.o.B) - 3ade68b8g7bfb30b3.txt
+
+
+6 - 2 - English/L/L G Wise/6 - Ghetto Victory - 3ade68b7gf82d3ea3.txt
+
+
+
+Group 12: 
+
+7 - 2 - English/K/K D Lang/73 - Save Me - 3ade68b7gde693ea3.txt
+
+
+7 - 2 - English/#/10 Years/40 - Picture Perfect (in Your Eyes) - 3ade68b8g08d16fa3.txt
+
+
+7 - 2 - English/H/A Hope For Home/3 - Absolution: Of Flight And Failure - 3ade68b8gbea28fa3.txt
+
+
+7 - 2 - English/J/J Church/174 - Swallow - 3ade68b7gb9ea7ea3.txt
+
+
+7 - 2 - English/B/A Brand/7 - Mutiny - 3ade68b7gfadf9ea3.txt
+
+
+
+Group 13: 
+
+7 - 2 - English/U/UB40/153 - Tears From My Eyes - 3ade68b7gdead0ea3.txt
+
+
+7 - 2 - English/V/The Vibrators/35 - Wake Up - 3ade68b8g9906ffa3.txt
+
+
+7 - 2 - English/X/The XX/20 - Last Christmas - 3ade68b8g86f540b3.txt
+
+
+7 - 2 - English/W/The Waterboys/218 - The wind in the wires - 3ade68b7g54d22ea3.txt
+
+
+7 - 2 - English/W/The Wedding Present/88 - Skin Diving - 3ade68b8g9bcbdea3.txt
+
+
+
+Group 14: 
+
+8 - 2 - English/R/R E M/19 - Around The Sun - 3ade68b7g4dd84ea3.txt
+
+
+8 - 2 - English/L/L'Âme Immortelle/79 - Love Is Lost - 3ade68b7g45644ea3.txt
+
+
+8 - 2 - English/W/The Walkabouts/114 - Where the Deepwater Goes - 3ade68b7g32922ea3.txt
+
+
+9 - 2 - English/#/11:18/4 - A Walk Around Inside My Head - 3ade68b7g8205aea3.txt
+
+
+8 - 2 - English/U/The Used/82 - Something Safe - 3ade68b8g6510efa3.txt
+
+
+
+Group 15: 
+
+9 - 2 - English/A/A Dead Giveaway/6 - Empty Hearts - 3ade68b7g53f55ea3.txt
+
+
+9 - 2 - English/I/As I Lay Dying/60 - The Pain Of Separation - 3ade68b7g2c362ea3.txt
+
+
+9 - 2 - English/A/A Call to Sincerity/3 - Crimson Pages - 3ade68b8g67af70b3.txt
+
+
+9 - 2 - English/F/A Fall Farewell/2 - Dead In My Eyes - 3ade68b7g1126dea3.txt
+
+
+9 - 2 - English/R/R E M/44 - Christmas Griping - 3ade68b7g8e05bea3.txt
+
+
+
+Group 16: 
+
+9 - 2 - English/V/The Verve Pipe/23 - Honest - 3ade68b7g52322ea3.txt
+
+
+9 - 2 - English/X/X Is Loaded/8 - Last Chance - 3ade68b8g59f57fa3.txt
+
+
+9 - 2 - English/V/The Varukers/12 - Endless Destruction Line - 3ade68b8g4671fea3.txt
+
+
+9 - 2 - English/X/X-fusion/12 - Dead End - 3ade68b8gf7553fa3.txt
+
+
+9 - 2 - English/W/The Wedding Present/50 - It's A Gas - 3ade68b8g18ebdea3.txt
+
+
