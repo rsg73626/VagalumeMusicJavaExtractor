@@ -1,0 +1,56 @@
+KMeans result with 2 centroids.
+
+Grupo 1: 1936 registros.
+Grupo 2: 564 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: don (2182); re (1869); ll (1491); time (1395); ve (1250); life (1152); feel (1053); caus (998); nigga (976); oh (969); dai (928); fuck (895); yeah (888); love (887); ain (856); gonna (834); live (805); look (803); world (734); night (722); ey (700); tell (666); choru (623); ya (618); wanna (606); shit (602); head (586); la (581); hand (581); call (573); 
+
+    30 less frequent words: aand (1); aayliah (1); ab (1); abakidasu (1); abarero (1); abareroyo (1); abbracciar (1); abd (1); abdimum (1); abdomin (1); abel (1); abençoada (1); abençoado (1); ablank (1); abod (1); abraham (1); abridg (1); abrindo (1); abruptli (1); abstrair (1); abusin (1); abut (1); abysm (1); acabar (1); acapulco (1); access (1); accessori (1); accomish (1); accomod (1); accompani (1); 
+
+  Group 1 
+
+    30 most frequent words: love (2837); don (1580); babi (1044); ll (983); oh (880); re (786); girl (719); yeah (645); feel (628); time (618); wanna (564); ve (519); heart (469); caus (469); dai (381); life (379); night (373); tell (350); ey (285); look (268); choru (266); world (263); hold (244); gonna (230); live (227); try (219); won (216); tonight (214); danc (213); ain (211); 
+
+    30 less frequent words: 0 (1); abil (1); abraham (1); accompli (1); accord (1); account (1); accur (1); achin (1); acid (1); actress (1); actual (1); add (1); adel (1); adri (1); advil (1); afflict (1); afir (1); afloat (1); africa (1); after (1); ag (1); agoni (1); ahai (1); ahanaba (1); ahmet (1); ahold (1); aight (1); ainâ (1); airport (1); ajar (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/S/A Skylit Drive/71 - Within These Walls - 3ade68b8ga7b670b3.txt
+
+
+0 - 2 - English/E/East River Pipe/5 - Druglife - 3ade68b8g20876fa3.txt
+
+
+0 - 2 - English/R/Rabies/16 - You're Gonna Blow It - 3ade68b8g228fdfa3.txt
+
+
+0 - 2 - English/J/Ja Rule/8 - Back Up - 3ade68b7g69889ea3.txt
+
+
+0 - 2 - English/E/Eagle-Eye Cherry/41 - The Food Song - 3ade68b6g49aafda3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/Z/Z-ro/23 - One Night - 3ade68b7g03938ea3.txt
+
+
+1 - 2 - English/E/East 17/1 - Around The World - 3ade68b7g080f3ea3.txt
+
+
+1 - 2 - English/Z/Zandra/7 - Lucas Loves Iris - 3ade68b8g2c040fa3.txt
+
+
+1 - 2 - English/#/112/68 - My Mistakes - 3ade68b7ge4315ea3.txt
+
+
+1 - 2 - English/R/R Kelly/168 - Loveland - 3ade68b7gfb783ea3.txt
+
+

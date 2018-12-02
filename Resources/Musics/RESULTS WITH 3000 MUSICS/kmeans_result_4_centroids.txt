@@ -1,0 +1,106 @@
+KMeans result with 4 centroids.
+
+Grupo 1: 220 registros.
+Grupo 2: 867 registros.
+Grupo 3: 231 registros.
+Grupo 4: 1682 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: love (2232); babi (430); don (341); feel (266); oh (253); heart (228); time (226); ll (217); ve (179); re (176); wanna (173); girl (162); caus (153); life (122); light (121); dai (118); tell (109); littl (107); yeah (105); choru (104); gonna (103); hold (98); look (92); fall (91); world (83); ey (83); won (77); true (75); night (74); babe (70); 
+
+    30 less frequent words: aah (1); abc (1); abl (1); abus (1); accomplish (1); accord (1); account (1); accus (1); achteraan (1); actin (1); actual (1); addict (1); admiss (1); admit (1); advertis (1); advic (1); aftertast (1); agoni (1); alarm (1); album (1); allei (1); allwai (1); alpha (1); anchor (1); ancient (1); angelo (1); angri (1); animos (1); answerphon (1); anydai (1); 
+
+  Group 1 
+
+    30 most frequent words: don (2007); re (1825); ll (1386); time (1259); ve (1175); feel (895); love (631); life (587); dai (562); wanna (555); caus (548); look (495); oh (491); tell (470); heart (457); won (447); live (437); ey (426); gonna (421); try (409); mind (391); hold (382); night (347); world (341); run (333); dream (333); babi (325); leav (324); yeah (312); hand (302); 
+
+    30 less frequent words: aand (1); abertura (1); abid (1); abomin (1); aborigin (1); abroad (1); absenc (1); abyss (1); accident (1); accidentist (1); accord (1); account (1); acheiv (1); achiv (1); adapt (1); adelaid (1); adher (1); adjac (1); admittedli (1); adopt (1); advantag (1); ae (1); aelsv (1); aerialswhat (1); aeroplan (1); affair (1); affianc (1); african (1); agap (1); agent (1); 
+
+  Group 2 
+
+    30 most frequent words: nigga (1288); ain (750); fuck (674); don (674); bitch (565); shit (534); caus (461); ya (428); em (383); yeah (366); boi (326); ll (290); ass (289); choru (281); wanna (277); yo (269); time (268); life (259); tell (255); love (249); real (240); game (240); niggaz (235); hoe (224); hit (207); girl (202); gon (198); monei (196); gotta (180); look (174); 
+
+    30 less frequent words: aaron (1); ab (1); abandond (1); abdimum (1); abel (1); abil (1); aboard (1); abyss (1); accecpt (1); accept (1); accheiv (1); acknowledg (1); acquisit (1); acrophobia (1); activist (1); addi (1); address (1); adio (1); adn (1); adolecs (1); adolest (1); ador (1); adventur (1); advers (1); adversari (1); advic (1); agassi (1); agent (1); agg (1); aggress (1); 
+
+  Group 3 
+
+    30 most frequent words: oh (1312); re (1045); love (999); don (956); time (889); girl (838); ll (837); feel (823); yeah (774); babi (726); life (656); dai (651); night (575); world (550); ve (550); look (548); ey (528); heart (514); caus (495); gonna (491); hand (484); tell (466); choru (446); live (430); light (405); la (404); wanna (401); ni (395); mind (395); dream (394); 
+
+    30 less frequent words: aai (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aarer (1); aaron (1); aay (1); abaelard (1); abbassarsi (1); abber (1); abbras (1); abc (1); abdomen (1); abduct (1); abductor (1); abençoada (1); abençoado (1); abercrobi (1); aberr (1); abi (1); abneg (1); abnorm (1); abort (1); abou (1); abrindo (1); abruptli (1); absichtlich (1); absolyutno (1); abstract (1); abstrair (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/C/As Cities Burn/4 - Admission: Regret - 3ade68b7gfd656ea3.txt
+
+
+0 - 2 - English/C/As Cities Burn/7 - Clouds - 3ade68b8gf7fd1fa3.txt
+
+
+0 - 2 - English/W/The Walker Brothers/6 - Love Her - 3ade68b8ge8a23fa3.txt
+
+
+0 - 2 - English/W/The Walkmen/36 - Southern Heart - 3ade68b8g6d9000b3.txt
+
+
+0 - 2 - English/W/The Whites/17 - When The New Wears Off Of Your Love - 3ade68b8g293ffea3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/A/A Breach On Heaven/28 - Hands Off - 3ade68b8gac6600b3.txt
+
+
+1 - 2 - English/G/G-spott/3 - Sadness - 3ade68b8g1af07fa3.txt
+
+
+1 - 2 - English/#/1200 Techniques/5 - Where Ur At? - 3ade68b8g4ada7fa3.txt
+
+
+1 - 2 - English/V/The Verve/72 - Velvet Morning - 3ade68b6g64f0fda3.txt
+
+
+1 - 2 - English/S/A Small Victory/18 - The Pieces We Keep - 3ade68b8g29f0fea3.txt
+
+
+
+Group 3: 
+
+2 - 2 - English/B/B w p/5 - Teach Em - 3ade68b8g0d126fa3.txt
+
+
+2 - 2 - English/J/J-kwon/16 - You & Me - 3ade68b7g30904ea3.txt
+
+
+2 - 2 - English/R/R Kelly/90 - Green Light - 3ade68b7ga9783ea3.txt
+
+
+2 - 2 - English/W/The Weeknd/26 - Ebony - 3ade68b8g1be0d0b3.txt
+
+
+2 - 2 - English/E/Eazy-E/25 - Hit the Hooker - 3ade68b7g0e200ea3.txt
+
+
+
+Group 4: 
+
+3 - 2 - English/Y/Y&T/58 - Lipstick And Leather - 3ade68b7g5d335ea3.txt
+
+
+3 - 2 - English/T/A Tribe Called Quest/106 - Youthful Expression - 3ade68b8g102acfa3.txt
+
+
+3 - 2 - English/Y/The Young Knives/25 - We Are The Also Rans - 3ade68b7gcfb4cea3.txt
+
+
+3 - 2 - English/R/A Rough Sketch/3 - The Apparition - 3ade68b7g831fbea3.txt
+
+
+3 - 2 - English/W/The Ways/8 - On My Own - 3ade68b7g38599ea3.txt
+
+

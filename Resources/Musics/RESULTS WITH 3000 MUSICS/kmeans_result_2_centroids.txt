@@ -1,0 +1,56 @@
+KMeans result with 2 centroids.
+
+Grupo 1: 2573 registros.
+Grupo 2: 427 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: don (3046); re (2542); time (2194); ll (2139); ve (1642); feel (1597); life (1414); love (1335); caus (1334); nigga (1301); ain (1194); dai (1185); yeah (1183); girl (1115); look (1098); tell (1049); oh (1036); fuck (1021); live (963); world (944); ey (935); wanna (915); gonna (905); night (894); choru (889); heart (883); hand (804); babi (801); mind (798); run (759); 
+
+    30 less frequent words: aai (1); aand (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aarer (1); aay (1); abaelard (1); abandond (1); abbassarsi (1); abber (1); abbras (1); abc (1); abdimum (1); abdomen (1); abduct (1); abductor (1); abel (1); abençoada (1); abençoado (1); abercrobi (1); aberr (1); abi (1); abneg (1); abnorm (1); abomin (1); aborigin (1); abou (1); abrindo (1); absichtlich (1); 
+
+  Group 1 
+
+    30 most frequent words: love (2776); oh (1174); don (932); babi (834); re (659); ll (591); feel (546); wanna (491); time (448); heart (383); yeah (374); girl (369); ve (340); caus (323); dai (289); tell (251); believ (236); gonna (235); look (211); life (210); hold (201); night (194); choru (189); littl (182); ey (181); won (177); mind (163); light (162); leav (162); dream (156); 
+
+    30 less frequent words: 6 (1); 7 (1); 8 (1); aah (1); abc (1); abertura (1); abruptli (1); abus (1); accheiv (1); accomplish (1); accord (1); achteraan (1); actual (1); address (1); adjac (1); admiss (1); admit (1); advertis (1); ae (1); affair (1); afford (1); aflam (1); aftertast (1); agoni (1); airfield (1); airplan (1); alarm (1); alex (1); align (1); allei (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/S/La Secta All Stars/11 - Music - 3ade68b8g3a8a0fa3.txt
+
+
+0 - 2 - English/J/J Bigga/1 - Get You Back - 3ade68b8g43d43fa3.txt
+
+
+0 - 2 - English/K/K-Liostro/2 - One Step At The Time - 3ade68b8g238c00b3.txt
+
+
+0 - 2 - English/#/10cc/80 - Medley: Rubber Bullets/Silly Love Songs/Life Is a Hinestrone - 3ade68b7g538c2ea3.txt
+
+
+0 - 2 - English/U/Udora/35 - Pull (taqueopariu) - 3ade68b7ga41f4ea3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/J/J Holiday/31 - It's Yours - 3ade68b8g35c49fa3.txt
+
+
+1 - 2 - English/H/Hagen/3 - June - 3ade68b7ga4930ea3.txt
+
+
+1 - 2 - English/H/Hadise/14 - First Steps - 3ade68b8gaf28afa3.txt
+
+
+1 - 2 - English/M/M Jack/7 - Just For You - 3ade68b8gf0da9fa3.txt
+
+
+1 - 2 - English/#/1 To The Third/2 - It Feels Like This - 3ade68b8gd6ee4fa3.txt
+
+
