@@ -1,0 +1,56 @@
+KMeans result with 2 centroids.
+
+Grupo 1: 705 registros.
+Grupo 2: 3295 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: love (3466); oh (2324); don (1715); babi (1309); re (1262); feel (1121); ll (1042); wanna (967); girl (869); time (777); heart (667); ve (642); yeah (631); tell (575); night (510); caus (485); gonna (454); look (396); dai (372); tonight (354); stai (333); won (332); world (321); life (319); hold (318); choru (316); ey (287); ya (281); kiss (280); littl (279); 
+
+    30 less frequent words: abb (1); abdomen (1); abou (1); absenc (1); absorb (1); abund (1); account (1); accus (1); achimi (1); achteraan (1); acknowledg (1); actress (1); address (1); adida (1); adult (1); advic (1); ae (1); aflam (1); afriad (1); afrojack (1); agenc (1); ahai (1); ahoi (1); ahold (1); aid (1); airfield (1); airplan (1); ajik (1); akyojurida (1); alarm (1); 
+
+  Group 1 
+
+    30 most frequent words: don (3944); re (2961); time (2920); ll (2904); ve (2112); feel (1971); life (1733); nigga (1699); love (1658); caus (1644); yeah (1572); dai (1550); look (1446); ain (1399); fuck (1389); live (1235); tell (1213); ey (1198); world (1159); girl (1122); night (1102); wanna (1095); oh (1091); choru (1082); heart (1054); shit (1044); gonna (1042); mind (1033); bitch (992); ya (964); 
+
+    30 less frequent words: aaliyah (1); aan (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aantocht (1); aardig (1); aarer (1); aaruzo (1); aay (1); aayliah (1); abaredasu (1); abarero (1); abareroyo (1); abbassarsi (1); abbi (1); abbras (1); abbrevi (1); abdomen (1); abductor (1); abercrobi (1); abi (1); abicair (1); abject (1); ablov (1); ablut (1); abod (1); abolish (1); abon (1); abou (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/N/N'evergreen/12 - I Never Will Believe In Love - 3ade68b8gb585b0b3.txt
+
+
+0 - 2 - English/B/A Bloody Canvas/12 - Broken Mirror Dreams - 3ade68b8g9939cfa3.txt
+
+
+0 - 2 - English/K/K Michelle/38 - Judge Me - 3ade68b8gabfd60b3.txt
+
+
+0 - 2 - English/U/The Unfinished Sympathy/3 - Cease Fire - 3ade68b8g426d0fa3.txt
+
+
+0 - 2 - English/W/The Warren Brothers/29 - That's the Beat of a Heart - 3ade68b7g93b22ea3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/T/T-squad/3 - Graduation (friends Forever) - 3ade68b8g25881fa3.txt
+
+
+1 - 2 - English/V/The Velvet Teen/22 - Your Last Words - 3ade68b7g1a122ea3.txt
+
+
+1 - 2 - English/T/T-ara/80 - Roly Poly (Japanese) - 3ade68b8g61ffffa3.txt
+
+
+1 - 2 - English/J/J J Cale/119 - River Boat Song - 3ade68b7gd2593ea3.txt
+
+
+1 - 2 - English/W/The Weepies/21 - Not Your Year - 3ade68b7g129a9ea3.txt
+
+

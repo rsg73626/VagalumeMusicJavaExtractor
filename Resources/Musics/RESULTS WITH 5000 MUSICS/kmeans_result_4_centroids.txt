@@ -1,0 +1,106 @@
+KMeans result with 4 centroids.
+
+Grupo 1: 329 registros.
+Grupo 2: 1448 registros.
+Grupo 3: 343 registros.
+Grupo 4: 2880 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: nigga (2020); bitch (1103); fuck (1059); don (1053); shit (962); ain (890); ya (813); caus (698); ll (552); em (513); ass (487); choru (478); yo (471); wanna (462); life (425); wit (421); yeah (420); time (415); niggaz (408); monei (390); game (382); love (366); hit (345); tell (325); hoe (324); mac (314); girl (293); real (289); gotta (285); vers (277); 
+
+    30 less frequent words: aaliyah (1); aaron (1); aaw (1); abolish (1); abort (1); abra (1); abstract (1); abund (1); abusin (1); aca (1); academi (1); acapella (1); accident (1); acclaim (1); accomplish (1); accross (1); accus (1); acg (1); acheiv (1); ack (1); acknowledg (1); ackrit (1); acquaint (1); acr (1); actress (1); actual (1); adamsvil (1); adapt (1); adequ (1); adjac (1); 
+
+  Group 1 
+
+    30 most frequent words: don (3895); re (2748); ll (2532); time (2003); ve (1886); feel (1821); oh (1807); love (1282); yeah (1277); babi (1265); caus (1157); wanna (1034); life (997); look (988); tell (961); dai (880); girl (871); gonna (806); ey (789); won (781); heart (730); live (715); try (705); world (691); night (674); ain (636); leav (620); mind (616); wait (607); hold (607); 
+
+    30 less frequent words: 0 (1); aand (1); abc (1); abduct (1); abertura (1); abhor (1); abid (1); abnorm (1); aboard (1); abstin (1); abund (1); academia (1); accompli (1); accordingli (1); accountabilti (1); acet (1); achaia (1); achingli (1); acid (1); acquitt (1); actinâ (1); actor (1); adai (1); adel (1); adhan (1); adio (1); adjac (1); adn (1); adorn (1); adress (1); 
+
+  Group 2 
+
+    30 most frequent words: love (3551); don (612); oh (471); babi (435); ll (379); feel (337); re (334); heart (327); ve (315); life (276); time (275); wanna (236); caus (235); girl (221); hold (216); yeah (194); fall (193); live (180); tell (171); night (164); dai (154); true (147); dream (147); gonna (145); ey (134); forev (131); look (127); choru (127); world (119); mine (111); 
+
+    30 less frequent words: 7 (1); abandon (1); abc (1); absenc (1); accomplish (1); account (1); accus (1); actual (1); adderal (1); address (1); adjust (1); advantag (1); adventur (1); afford (1); aflam (1); afterglow (1); afterlif (1); agoni (1); ahead (1); akon (1); al (1); aleppo (1); alert (1); alleywai (1); alli (1); alpha (1); am (1); amai (1); ambush (1); amid (1); 
+
+  Group 3 
+
+    30 most frequent words: re (1769); don (1748); time (1606); ll (1564); love (1500); life (1368); dai (1114); night (1071); oh (1064); feel (1061); ve (972); yeah (967); world (962); girl (922); look (904); heart (904); babi (830); hand (825); live (823); ey (816); light (797); caus (774); la (765); fall (723); gonna (718); mind (692); hei (680); littl (679); ni (676); wanna (660); 
+
+    30 less frequent words: aakitekushaa (1); aanashi (1); aand (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aaron (1); aasu (1); aay (1); aayliah (1); abaddon (1); abadi (1); abadikan (1); abaku (1); abbei (1); abbracciar (1); abbras (1); abc (1); abdomin (1); abduct (1); abellida (1); abhorr (1); abierta (1); abitta (1); ablov (1); abod (1); abolish (1); abord (1); abras (1); abraçado (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/R/R A the Rugged Man/13 - Dumb - 3ade68b8g80b9fea3.txt
+
+
+0 - 2 - English/T/T-nutty/4 - Simple Statement - 3ade68b8gb0331fa3.txt
+
+
+0 - 2 - English/J/Ja Rule/98 - Never Thought - 3ade68b7g2e8c4ea3.txt
+
+
+0 - 2 - English/M/Mac Miller/178 - Thanks For Coming Out - 3ade68b8g7099efa3.txt
+
+
+0 - 2 - English/W/The Warriors/3 - Cold As Ice - 3ade68b8g78f8cfa3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/V/The Veronicas/13 - Broken (demo) - 3ade68b8gaa4bdfa3.txt
+
+
+1 - 2 - English/V/The Verve Pipe/11 - Crash Landing - 3ade68b8g329770b3.txt
+
+
+1 - 2 - English/Z/Z-ro/73 - Look At Me - 3ade68b7ge3938ea3.txt
+
+
+1 - 2 - English/K/Kaddisfly/20 - La Primera Natural Disaster - 3ade68b8g66c13fa3.txt
+
+
+1 - 2 - English/U/UFO/197 - This Kid's /Between the Walls - 3ade68b7ge9eb2ea3.txt
+
+
+
+Group 3: 
+
+2 - 2 - English/E/Eagles/85 - Victim of Love - 3ade68b7g56100ea3.txt
+
+
+2 - 2 - English/R/A Rocket To The Moon/17 - Fool Everyone - 3ade68b8g81ffcfa3.txt
+
+
+2 - 2 - English/L/L J Booth/8 - Hymn For The Living - 3ade68b7g3eaa8ea3.txt
+
+
+2 - 2 - English/Z/The Zombies/23 - I Must Move - 3ade68b8g2376cfa3.txt
+
+
+2 - 2 - English/N/N a p/10 - You Don´t Care - 3ade68b8gb2cf2fa3.txt
+
+
+
+Group 4: 
+
+3 - 2 - English/C/A Chave do Sol/4 - Anjo Rebelde - 3ade68b8g960a60b3.txt
+
+
+3 - 2 - English/N/N-Trance/10 - I Will Take You There - 3ade68b7gd572bea3.txt
+
+
+3 - 2 - English/G/G Love Special Sauce/91 - Sometimes - 3ade68b7g7a413ea3.txt
+
+
+3 - 2 - English/P/A Perfect Circle/50 - The Noose - 3ade68b7gf1804ea3.txt
+
+
+3 - 2 - English/X/X-fusion/26 - Hypnotized - 3ade68b8gce2ebfa3.txt
+
+

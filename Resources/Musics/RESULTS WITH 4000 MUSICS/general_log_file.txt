@@ -1,0 +1,14 @@
+GENERAL LOG FILE
+
+Total of music files: 52678
+
+Total of music files in English: 25693
+
+Sample size: 4000
+
+Amount of dictionary words: 2696
+
+Amount of words in original music files: 1042822
+
+Amount of removed words: 640438
+

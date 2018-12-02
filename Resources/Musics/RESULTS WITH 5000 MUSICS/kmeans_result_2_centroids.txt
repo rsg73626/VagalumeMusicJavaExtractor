@@ -1,0 +1,56 @@
+KMeans result with 2 centroids.
+
+Grupo 1: 1439 registros.
+Grupo 2: 3561 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: love (4890); don (4073); re (2483); ll (2354); oh (2300); feel (1818); time (1786); babi (1775); ve (1722); yeah (1388); caus (1263); wanna (1251); girl (1168); tell (989); heart (967); life (950); look (892); gonna (847); dai (781); hold (779); live (747); night (719); won (708); ey (670); ain (669); world (613); wait (606); choru (578); try (577); leav (572); 
+
+    30 less frequent words: aand (1); aaw (1); abduct (1); abertura (1); abnorm (1); absenc (1); abyss (1); academia (1); acclaim (1); accolad (1); accompli (1); accordingli (1); accountabilti (1); achaia (1); achingli (1); actinâ (1); actor (1); adai (1); adderal (1); adel (1); adio (1); adrian (1); aerosol (1); afterglow (1); afterlif (1); aga (1); ageless (1); agenda (1); agent (1); agg (1); 
+
+  Group 1 
+
+    30 most frequent words: don (3235); ll (2673); re (2526); time (2513); life (2116); nigga (2059); love (1809); feel (1643); dai (1617); caus (1601); ve (1561); fuck (1516); yeah (1470); ain (1426); world (1386); look (1345); night (1340); shit (1286); oh (1236); live (1209); bitch (1191); ey (1174); choru (1171); ya (1162); wanna (1141); girl (1139); tell (1125); hand (1093); heart (1078); light (1005); 
+
+    30 less frequent words: aakitekushaa (1); aaliyah (1); aanashi (1); aand (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aasu (1); aay (1); aayliah (1); abaddon (1); abadi (1); abadikan (1); abaku (1); abbei (1); abbracciar (1); abbras (1); abdomin (1); abduct (1); abellida (1); abhorr (1); abid (1); abierta (1); abitta (1); ablov (1); abod (1); abord (1); abra (1); abras (1); abraçado (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/N/N-Toon/3 - Happy Father's Day - 3ade68b8g2b720fa3.txt
+
+
+0 - 2 - English/I/Ian Hunter/41 - I Ain't No Angel - 3ade68b7g6a440ea3.txt
+
+
+0 - 2 - English/V/V Factory/10 - These Are The Days - 3ade68b8gffff5fa3.txt
+
+
+0 - 2 - English/B/B2k/75 - The One - 3ade68b7gacdc6ea3.txt
+
+
+0 - 2 - English/C/A Covenant Of Thorns/7 - Forever - 3ade68b8g2449cfa3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/J/J Church/116 - New Dreams Broken - 3ade68b7g7cea7ea3.txt
+
+
+1 - 2 - English/M/M O P/24 - Foundation - 3ade68b7gd0643ea3.txt
+
+
+1 - 2 - English/Y/The Young Werewolves/21 - Midnight Monster Hop - 3ade68b8ge03200b3.txt
+
+
+1 - 2 - English/F/As Friends Rust/12 - Laughing Out Loud - 3ade68b7g79362ea3.txt
+
+
+1 - 2 - English/A/A Day To Remember/73 - Westfall - 3ade68b8gdb3310b3.txt
+
+

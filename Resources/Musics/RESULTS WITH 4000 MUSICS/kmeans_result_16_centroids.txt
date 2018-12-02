@@ -1,0 +1,406 @@
+KMeans result with 16 centroids.
+
+Grupo 1: 56 registros.
+Grupo 2: 140 registros.
+Grupo 3: 86 registros.
+Grupo 4: 37 registros.
+Grupo 5: 437 registros.
+Grupo 6: 202 registros.
+Grupo 7: 195 registros.
+Grupo 8: 453 registros.
+Grupo 9: 195 registros.
+Grupo 10: 191 registros.
+Grupo 11: 186 registros.
+Grupo 12: 90 registros.
+Grupo 13: 236 registros.
+Grupo 14: 39 registros.
+Grupo 15: 1388 registros.
+Grupo 16: 69 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: ni (458); wo (263); wa (216); ga (171); de (137); mo (120); kimi (103); yo (86); love (75); na (68); nai (53); ai (51); kono (49); kara (48); don (47); mama (46); ima (46); dake (42); yume (39); naka (38); koto (38); ka (38); danc (38); oh (37); kokoro (37); nara (35); toki (34); ah (34); nani (33); hi (33); 
+
+    30 less frequent words: abaredasu (1); abarero (1); abareroyo (1); abi (1); abunag (1); accessari (1); actual (1); adam (1); aegu (1); aetairi (1); aetara (1); afur (1); afureta (1); afureteiru (1); agaki (1); agerarenain (1); agerareta (1); ageru (1); ahead (1); aijou (1); aimai (1); aimo (1); ainda (1); air (1); aisarezu (1); aishiteru (1); aisowarai (1); aisugit (1); aitsu (1); aitsura (1); 
+
+  Group 1 
+
+    30 most frequent words: feel (910); don (181); time (149); wanna (137); love (131); heart (109); ve (108); caus (105); ll (104); life (103); re (97); dai (82); pain (77); insid (77); live (74); tell (65); oh (64); babi (63); look (62); wish (55); try (55); yeah (54); dream (54); head (53); ey (53); hold (52); won (50); call (50); wake (49); girl (49); 
+
+    30 less frequent words: 9 (1); abat (1); absolut (1); absolv (1); absorb (1); accept (1); acknowledg (1); actin (1); activ (1); add (1); addict (1); advantag (1); ae (1); aeroplan (1); aflam (1); afrojack (1); ag (1); agenc (1); ago (1); ahh (1); ai (1); airlin (1); alex (1); alimoni (1); allei (1); allevi (1); almighti (1); aloof (1); altough (1); ambival (1); 
+
+  Group 2 
+
+    30 most frequent words: fall (379); re (107); don (97); love (69); ll (68); heart (63); hand (61); ey (51); break (47); rain (46); won (40); ve (40); time (37); tonight (36); watch (34); hold (33); ground (33); feel (33); oh (31); life (31); dai (31); danc (30); run (29); live (29); apart (29); home (28); dream (28); mind (26); caus (26); air (25); 
+
+    30 less frequent words: 7 (1); 8 (1); 9 (1); aboard (1); abomin (1); abound (1); absolut (1); abus (1); accident (1); affect (1); agre (1); aid (1); allei (1); allow (1); allud (1); aloud (1); ambit (1); amput (1); amus (1); anarchi (1); anem (1); anthoni (1); anxious (1); appart (1); appl (1); armi (1); arrow (1); at (1); attent (1); avenu (1); 
+
+  Group 3 
+
+    30 most frequent words: instrument (37); interlud (4); lip (3); hunter (2); bye (2); wick (1); white (1); wast (1); top (1); titl (1); tale (1); sweet (1); summer (1); sugar (1); straight (1); sometim (1); slipperi (1); skytech (1); skipper (1); shorelin (1); sand (1); report (1); real (1); rainbow (1); quadrophonia (1); new (1); naughti (1); music (1); momma (1); minor (1); 
+
+    30 less frequent words: agnost (1); ain (1); babi (1); battl (1); calliop (1); church (1); dai (1); dunford (1); fa (1); fairi (1); fanci (1); fatman (1); field (1); float (1); frog (1); fuhrman (1); gator (1); gravel (1); guess (1); home (1); hora (1); hous (1); intro (1); level (1); live (1); love (1); main (1); manag (1); mango (1); menuetto (1); 
+
+  Group 4 
+
+    30 most frequent words: re (1388); ll (1113); ve (992); don (564); gonna (414); time (340); love (334); dai (288); tell (244); feel (242); heart (233); caus (231); look (230); won (228); hold (208); ey (180); try (179); oh (179); home (160); call (155); hear (147); live (145); wait (143); gone (142); life (140); night (138); stop (131); leav (128); friend (127); wanna (123); 
+
+    30 less frequent words: 8 (1); aa (1); aah (1); abb (1); abicair (1); abl (1); abou (1); absenc (1); absent (1); absorb (1); abstin (1); absurd (1); academia (1); acclaim (1); achi (1); achiev (1); achin (1); ack (1); actress (1); actual (1); adelaid (1); advanc (1); adventur (1); afar (1); afaraid (1); afir (1); afloat (1); aggress (1); agoni (1); ahh (1); 
+
+  Group 5 
+
+    30 most frequent words: nigga (1570); bitch (728); fuck (714); shit (673); ain (670); don (630); caus (457); ass (354); ya (327); niggaz (321); choru (321); yeah (320); yo (312); monei (309); real (306); ll (302); em (294); time (288); love (243); boi (243); game (241); wanna (235); life (235); hoe (234); ma (225); hit (225); tell (217); motherfuck (214); gon (186); talk (184); 
+
+    30 less frequent words: abandon (1); abbrevi (1); abc (1); abductor (1); abel (1); abou (1); absenc (1); academi (1); accesoir (1); accid (1); achin (1); ack (1); acquir (1); acquit (1); activatin (1); actress (1); actual (1); addicit (1); adida (1); adject (1); admir (1); admirin (1); adolesc (1); ador (1); adrenalin (1); affili (1); afghani (1); afta (1); afterlif (1); afternoon (1); 
+
+  Group 6 
+
+    30 most frequent words: night (502); dream (425); ll (209); re (159); light (156); time (151); love (144); life (127); don (124); heart (121); stai (116); tonight (105); sleep (100); feel (98); dai (95); wake (92); look (90); ey (88); stop (74); oh (70); caus (68); ve (66); hold (66); danc (63); close (63); leav (62); home (61); memori (57); head (57); forget (57); 
+
+    30 less frequent words: 0 (1); 1 (1); 3 (1); 4 (1); abus (1); acedia (1); achiev (1); action (1); adher (1); admit (1); affair (1); affect (1); afloat (1); african (1); aftershow (1); ag (1); ago (1); aim (1); airplan (1); alittl (1); allan (1); allow (1); alongsid (1); alot (1); ambival (1); american (1); anarchi (1); ancient (1); angri (1); annoi (1); 
+
+  Group 7 
+
+    30 most frequent words: life (470); world (450); ve (378); ll (303); lost (274); dai (272); re (264); burn (260); god (255); time (248); run (248); live (247); love (242); ey (239); don (237); look (219); insid (219); li (212); feel (198); heart (194); tell (171); mind (171); death (171); believ (157); left (150); fear (149); hand (147); die (146); soul (143); pain (143); 
+
+    30 less frequent words: 0 (1); abc (1); abel (1); abid (1); abnorm (1); abod (1); abort (1); absorb (1); abstin (1); absu (1); acceler (1); accidentist (1); accomplish (1); accur (1); achiev (1); acllous (1); acolyt (1); acrobat (1); actin (1); actor (1); adn (1); adolesc (1); ador (1); adulter (1); advantag (1); adventur (1); adversari (1); advis (1); aesthet (1); afcad (1); 
+
+  Group 8 
+
+    30 most frequent words: babi (995); girl (851); wanna (602); yeah (472); love (393); don (377); re (309); ll (249); oh (209); gonna (195); feel (189); tell (180); caus (164); bodi (157); hei (150); choru (150); tonight (147); gotta (143); time (142); look (128); ve (113); night (106); ain (105); littl (104); ey (99); world (97); heart (97); call (93); stai (91); dai (90); 
+
+    30 less frequent words: aah (1); abandon (1); abdomen (1); abercrobi (1); abil (1); absolut (1); abund (1); account (1); ach (1); acr (1); actor (1); add (1); admir (1); adn (1); advantag (1); advis (1); afford (1); afriad (1); afro (1); ag (1); ahai (1); ahoi (1); aid (1); airplan (1); ajik (1); al (1); albino (1); alex (1); alibi (1); alittl (1); 
+
+  Group 9 
+
+    30 most frequent words: time (1117); ve (184); ll (176); re (173); tell (143); don (141); wait (140); feel (140); life (136); love (129); mind (121); dai (116); home (113); won (107); tick (104); heart (87); left (85); live (82); run (80); look (80); come (77); oh (75); ey (74); hard (67); gonna (67); wast (65); try (65); chang (65); leav (64); hand (64); 
+
+    30 less frequent words: 0 (1); abl (1); abort (1); abstract (1); absurd (1); ac (1); ad (1); add (1); adventur (1); advic (1); aerob (1); afford (1); africa (1); afterthought (1); ai (1); aid (1); album (1); align (1); allah (1); allei (1); allow (1); alter (1); amaz (1); amber (1); ambit (1); amo (1); amount (1); ancient (1); anger (1); anim (1); 
+
+  Group 10 
+
+    30 most frequent words: love (2065); don (250); re (226); feel (203); ll (186); heart (178); time (175); oh (158); yeah (153); babi (143); true (119); ve (116); caus (116); life (114); dai (101); tell (93); night (87); wanna (77); look (73); stai (71); gone (70); girl (68); ey (68); won (66); live (64); ain (63); world (62); mind (62); hold (62); believ (59); 
+
+    30 less frequent words: 8 (1); 9 (1); abandon (1); accept (1); accus (1); achteraan (1); actin (1); actress (1); addict (1); admit (1); adult (1); adventur (1); afternoon (1); ag (1); ago (1); ahead (1); aint (1); al (1); alarm (1); album (1); alcohol (1); ali (1); allwai (1); alot (1); altogeth (1); amakut (1); amid (1); anger (1); animos (1); answerphon (1); 
+
+  Group 11 
+
+    30 most frequent words: oh (1589); love (137); yeah (113); ll (109); re (102); don (100); feel (94); heart (85); time (81); ve (78); girl (69); world (59); home (59); won (53); look (53); babi (49); tell (47); hand (47); gonna (46); dai (44); littl (43); bring (42); boi (39); hear (38); mine (35); kiss (35); hope (34); fuck (34); ooh (32); hook (32); 
+
+    30 less frequent words: 4 (1); absorb (1); achim (1); achimi (1); actin (1); actual (1); advic (1); aeteutaetji (1); ago (1); ahold (1); ajik (1); ajikdo (1); akyojurida (1); alani (1); almyeonseo (1); amai (1); amaz (1); amus (1); ana (1); anchor (1); andw (1); andwaesseo (1); aneund (1); anhdeon (1); anim (1); anjeon (1); anxiou (1); anyth (1); ao (1); apa (1); 
+
+  Group 12 
+
+    30 most frequent words: don (1754); re (267); love (207); wanna (198); caus (191); ll (179); care (158); feel (151); live (150); time (145); life (138); ve (135); tell (126); babi (122); ey (121); look (115); pleas (108); hold (102); yeah (101); wake (100); won (96); mind (96); dai (93); leav (91); oh (89); night (89); hei (89); try (88); tonight (84); mean (82); 
+
+    30 less frequent words: abil (1); aboard (1); accid (1); accomplish (1); achiev (1); add (1); admit (1); advers (1); advic (1); aerialswhat (1); afternoon (1); ai (1); aiiyo (1); airplan (1); alandub (1); alchemist (1); algo (1); align (1); alleg (1); allei (1); althought (1); ambassador (1); america (1); amongst (1); ampl (1); andi (1); anim (1); annoi (1); announc (1); antithesi (1); 
+
+  Group 13 
+
+    30 most frequent words: la (591); de (204); da (113); na (65); oh (53); floor (51); yeah (48); hei (48); don (48); danc (45); love (43); le (43); re (40); girl (33); feel (30); blow (30); look (28); uh (27); sing (25); mi (25); ll (25); choru (23); jump (21); babi (21); aliv (21); ve (20); keepin (20); fa (20); en (20); bitch (19); 
+
+    30 less frequent words: 6 (1); ablov (1); abrir (1); acaba (1); account (1); adam (1); afternoon (1); agacha (1); aget (1); agudo (1); aha (1); ahora (1); aim (1); air (1); aitai (1); alarm (1); alguien (1); allend (1); almohada (1); alright (1); amant (1); amaz (1); amour (1); amu (1); analyz (1); anchanha (1); angel (1); anglosajon (1); apart (1); appear (1); 
+
+  Group 14 
+
+    30 most frequent words: don (929); re (899); love (782); ll (774); time (677); yeah (618); oh (584); feel (551); look (541); na (521); dai (475); caus (463); littl (444); ve (435); boi (429); hei (408); life (395); ain (395); heart (389); wanna (378); come (377); fuck (375); ey (374); girl (369); call (368); choru (367); mind (359); stop (352); hand (344); world (343); 
+
+    30 less frequent words: aa (1); aaliyah (1); aan (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aantocht (1); aardig (1); aarer (1); aaruzo (1); aay (1); abbassarsi (1); abbi (1); abbras (1); abdomen (1); abel (1); abercrombi (1); abil (1); abject (1); ablut (1); abnorm (1); abon (1); abras (1); abruptli (1); absent (1); abstrair (1); acab (1); acaba (1); accapulco (1); acceler (1); 
+
+  Group 15 
+
+    30 most frequent words: ya (658); don (180); wanna (166); girl (148); ll (130); love (129); babi (111); time (110); boi (103); yeah (87); choru (80); yo (79); re (77); name (75); ain (75); wit (72); oh (72); tell (68); feel (63); caus (63); gonna (61); da (61); night (59); hit (59); shit (55); nigga (55); im (55); em (55); gotta (54); hand (52); 
+
+    30 less frequent words: 0 (1); aayliah (1); abil (1); abolish (1); acceler (1); accord (1); accross (1); achin (1); acr (1); acro (1); activ (1); actual (1); ador (1); advic (1); affect (1); aftermath (1); ag (1); agenda (1); agil (1); aid (1); aight (1); aiiyo (1); aim (1); akon (1); alarm (1); album (1); alert (1); alien (1); alji (1); alot (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/K/Kaai Yuki/1 - I Am Living - 3ade68b8g06c470b3.txt
+
+
+0 - 2 - English/D/D'espairs Ray/7 - Ark In The Storm - 3ade68b8gb952dfa3.txt
+
+
+0 - 2 - English/M/M Three/2 - Hey! Honey - 3ade68b8gd21d50b3.txt
+
+
+0 - 2 - English/Y/Yamashita Tomohisa/1 - After The Rain - 3ade68b8g23efafa3.txt
+
+
+0 - 2 - English/U/U-kiss/6 - ALONE - 3ade68b8g351240b3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/A/A Burning Water/8 - Patience Is Me - 3ade68b8gbb39cfa3.txt
+
+
+1 - 2 - English/K/K Michelle/28 - Hate On Her - 3ade68b8gae3880b3.txt
+
+
+1 - 2 - English/D/A Day To Remember/54 - Same About You - 3ade68b8g52fca0b3.txt
+
+
+1 - 2 - English/B/A Bird A Sparrow/3 - Best Friends Forever - 3ade68b8gc15cbfa3.txt
+
+
+1 - 2 - English/V/V V Brown/18 - Nothing Really Matters - 3ade68b8g60ce70b3.txt
+
+
+
+Group 3: 
+
+10 - 2 - English/K/K D Lang/53 - Lifted by Love - 3ade68b7g5d693ea3.txt
+
+
+10 - 2 - English/C/C C Catch/15 - Fire Of Love - 3ade68b8g9fcbdea3.txt
+
+
+10 - 2 - English/J/J (j ae)/7 - Until Then - 3ade68b8gc983cfa3.txt
+
+
+10 - 2 - English/J/J-Shin/12 - You Are - 3ade68b8ge2e400b3.txt
+
+
+10 - 2 - English/E/Eagles/5 - Best of My Love - 3ade68b7ga2100ea3.txt
+
+
+
+Group 4: 
+
+10 - 2 - English/R/R B Greaves/1 - Always Something There To Remind Me - 3ade68b7g73bfaea3.txt
+
+
+10 - 2 - English/R/O Rei Leão/22 - Love Will Find A Way - 3ade68b8g5ea45fa3.txt
+
+
+10 - 2 - English/N/N'evergreen/12 - I Never Will Believe In Love - 3ade68b8gb585b0b3.txt
+
+
+10 - 2 - English/M/M2m/19 - Is You - 3ade68b7g95470ea3.txt
+
+
+10 - 2 - English/T/T Rex/124 - Mellow Love - 3ade68b7gdde70ea3.txt
+
+
+
+Group 5: 
+
+12 - 2 - English/J/J Cole/53 - Kevin's Heart - 3ade68b8g964cc0b3.txt
+
+
+11 - 2 - English/V/The Veronicas/79 - Teenage Millionaire - 3ade68b8g344860b3.txt
+
+
+12 - 2 - English/I/Ian Thomas/81 - Song For My Dad - 3ade68b8g7401a0b3.txt
+
+
+12 - 2 - English/N/A Northern Chorus/3 - Costa Del Sol - 3ade68b7g998a9ea3.txt
+
+
+12 - 2 - English/#/1000 Travels Of Jawaharlal/2 - Don't Turn Your Eyes Away - 3ade68b8g1bdaeea3.txt
+
+
+
+Group 6: 
+
+14 - 2 - English/B/A Breach On Heaven/21 - Dust Bunny - 3ade68b8g3c6600b3.txt
+
+
+14 - 2 - English/C/As Crônicas de Nárnia/44 - Rehnuma - 3ade68b8gd12440b3.txt
+
+
+14 - 2 - English/A/A Death For Every Sin/22 - Throne Of Depravity - 3ade68b7g30ebbea3.txt
+
+
+14 - 2 - English/A/A Favorita novela/42 - Viva La Vida - Coldplay - 3ade68b8gc04b7fa3.txt
+
+
+14 - 2 - English/#/10cc/104 - Silly Love - 3ade68b7g15e32ea3.txt
+
+
+
+Group 7: 
+
+14 - 2 - English/I/I Heart Sharks/14 - Suburbia - 3ade68b8g1df2b0b3.txt
+
+
+14 - 2 - English/F/A Frames/1 - Black Forest II - 3ade68b8g362f1fa3.txt
+
+
+14 - 2 - English/G/A Good Day For Killing/1 - Grandmotherfuck - 3ade68b8g8defcfa3.txt
+
+
+14 - 2 - English/E/Ebn Ozn/5 - Stop Stop Give It Up - 3ade68b7geeb87ea3.txt
+
+
+14 - 2 - English/G/A Girl A Gun A Ghost/9 - Lizard In The Lights - 3ade68b8g54975fa3.txt
+
+
+
+Group 8: 
+
+14 - 2 - English/M/Macabre/70 - The Ted Bundy Song (Ted Bundy) - 3ade68b7gdd470ea3.txt
+
+
+14 - 2 - English/K/K T Oslin/3 - Clean Your Own Tables - 3ade68b8ga1c12fa3.txt
+
+
+14 - 2 - English/J/J Church/12 - As I Lie - 3ade68b7g34ba7ea3.txt
+
+
+14 - 2 - English/R/R E M/2 - 1,000,000 - 3ade68b7g0f123ea3.txt
+
+
+14 - 2 - English/Q/Q And Not U/13 - Hooray For Humans - 3ade68b7gdafa0ea3.txt
+
+
+
+Group 9: 
+
+14 - 2 - English/T/T Graham Brown/1 - Brilliant Conversationalist - 3ade68b7g0b4ccea3.txt
+
+
+14 - 2 - English/U/U-God/8 - Glide - 3ade68b7ga1ad0ea3.txt
+
+
+14 - 2 - English/T/T Rex/162 - Rip-Off - 3ade68b7g70f70ea3.txt
+
+
+14 - 2 - English/U/U D O/112 - The Punisher - 3ade68b7g7fa12ea3.txt
+
+
+14 - 2 - English/U/U S Bombs/64 - Not Enough - 3ade68b7gd3b12ea3.txt
+
+
+
+Group 10: 
+
+14 - 2 - English/W/A Wilhelm Scream/75 - Which Is Worse? - 3ade68b7g392bcea3.txt
+
+
+14 - 2 - English/V/The Vincent Black Shadow/17 - This Road Is Going Nowhere - 3ade68b8g42daefa3.txt
+
+
+14 - 2 - English/W/The Walkabouts/54 - Kalashnikov - 3ade68b7gf2d48ea3.txt
+
+
+14 - 2 - English/W/The Waterboys/198 - The Ladder - 3ade68b7g1bc98ea3.txt
+
+
+14 - 2 - English/V/The Veronicas/36 - Hollywood - 3ade68b8g6a9a3fa3.txt
+
+
+
+Group 11: 
+
+14 - 2 - English/Y/Yann Tiersen/45 - The Gutter - 3ade68b8g0c5aa0b3.txt
+
+
+14 - 2 - English/Y/The Young Werewolves/21 - Midnight Monster Hop - 3ade68b8ge03200b3.txt
+
+
+14 - 2 - English/W/The Who/71 - Gettin' in Tune - 3ade68b7g12232ea3.txt
+
+
+15 - 2 - English/K/K-os/25 - Man I Used To Be - 3ade68b7g7b946ea3.txt
+
+
+14 - 2 - English/W/The Whole Fantastic World/2 - Colossus - 3ade68b8gbcd27fa3.txt
+
+
+
+Group 12: 
+
+15 - 2 - English/Z/Zakk Wylde/48 - Troubled Wine - 3ade68b7gf3b32ea3.txt
+
+
+2 - 2 - English/S/A Sequence Of Ghosts/2 - May The People Rise - 3ade68b8geee0efa3.txt
+
+
+15 - 2 - English/W/The W's/8 - Flower Tattoo - 3ade68b8g1974fea3.txt
+
+
+2 - 2 - English/E/Earlimart/16 - Gonna Break Into Your Heart - 3ade68b8ga2c45fa3.txt
+
+
+2 - 2 - English/I/I Am Abomination/2 - Next Great American Tragedy - 3ade68b8g0b008fa3.txt
+
+
+
+Group 13: 
+
+4 - 2 - English/A/A Dead Giveaway/14 - The Tide - 3ade68b8gb44ecfa3.txt
+
+
+4 - 2 - English/H/Hagbard/6 - Hidden Tears - 3ade68b8g3e3a40b3.txt
+
+
+3 - 2 - English/G/G Love Special Sauce/98 - Sweet Sugar Momma - 3ade68b7gba413ea3.txt
+
+
+4 - 2 - English/C/A Cursive Memory/9 - Lions - 3ade68b8gb46a5fa3.txt
+
+
+4 - 2 - English/D/D'Sound/2 - Believe in what you say - 3ade68b7g84d51ea3.txt
+
+
+
+Group 14: 
+
+4 - 2 - English/I/I Voted For Kodos/37 - Where are we Going To - 3ade68b7ga4440ea3.txt
+
+
+4 - 2 - English/K/K D Lang/26 - Fallen - 3ade68b8g46b52fa3.txt
+
+
+4 - 2 - English/I/I Will Define/1 - Animosity - 3ade68b8g477f70b3.txt
+
+
+4 - 2 - English/J/J Church/174 - Swallow - 3ade68b7gb9ea7ea3.txt
+
+
+4 - 2 - English/I/I Voted For Kodos/13 - Just Want You To Know - 3ade68b7gc3440ea3.txt
+
+
+
+Group 15: 
+
+5 - 2 - English/Z/Z-ro/68 - Life Is A Bitch - 3ade68b7g34938ea3.txt
+
+
+7 - 2 - English/Z/Zaltana/3 - Sovereign - 3ade68b8gc43d50b3.txt
+
+
+4 - 2 - English/W/A Wilhelm Scream/40 - It'll Happen To You - 3ade68b8g662acfa3.txt
+
+
+7 - 2 - English/U/Udo Lindenberg/159 - I'd Like To Be A Child Again - 3ade68b7gf080aea3.txt
+
+
+5 - 2 - English/G/G-Unit/35 - Free Young Buck Freestyle - 3ade68b8g410da0b3.txt
+
+
+
+Group 16: 
+
+9 - 2 - English/W/The Wedding Present/48 - I'm Not Always So Stupid - 3ade68b8gfaabdea3.txt
+
+
+9 - 2 - English/U/The Unicorns/35 - Times Of Change - 3ade68b8gcea82fa3.txt
+
+
+9 - 2 - English/Y/The Yardbirds/1 - A Certain Girl - 3ade68b7gf76c2ea3.txt
+
+
+9 - 2 - English/W/The Wedding Present/34 - Dreamworld - 3ade68b8gc5ebdea3.txt
+
+
+9 - 2 - English/U/Ugly Americans/20 - Right Time - 3ade68b7gd3512ea3.txt
+
+

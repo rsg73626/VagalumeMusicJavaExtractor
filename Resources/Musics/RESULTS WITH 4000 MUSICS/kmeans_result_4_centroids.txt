@@ -1,0 +1,106 @@
+KMeans result with 4 centroids.
+
+Grupo 1: 2322 registros.
+Grupo 2: 319 registros.
+Grupo 3: 274 registros.
+Grupo 4: 1085 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: time (1499); don (1406); re (1399); ll (1244); love (1185); feel (1144); oh (1043); life (925); ve (918); dai (884); look (871); yeah (848); world (811); girl (742); ey (735); heart (732); live (722); na (698); night (675); mind (671); babi (666); hand (623); caus (608); la (596); tell (587); light (585); littl (583); wanna (577); hei (554); choru (541); 
+
+    30 less frequent words: aan (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aantocht (1); aardig (1); aarer (1); aaruzo (1); aay (1); aayliah (1); abaredasu (1); abarero (1); abareroyo (1); abbassarsi (1); abbi (1); abbras (1); abdomen (1); abercrobi (1); abhorr (1); abi (1); abicair (1); abject (1); ablov (1); ablut (1); abod (1); abon (1); abras (1); abrir (1); abruptli (1); abstin (1); 
+
+  Group 1 
+
+    30 most frequent words: love (2659); oh (1646); babi (479); re (407); don (405); feel (388); ll (326); heart (325); time (309); yeah (299); girl (271); ve (223); wanna (183); caus (167); dai (164); tonight (156); tell (155); life (149); night (148); true (145); world (143); stai (124); gonna (123); look (121); hand (120); won (117); fall (117); choru (116); home (115); littl (110); 
+
+    30 less frequent words: 8 (1); 9 (1); absorb (1); abunag (1); accept (1); accus (1); achimi (1); achteraan (1); actress (1); adult (1); adventur (1); afriad (1); afternoon (1); ahold (1); ajik (1); akita (1); akyojurida (1); al (1); alarm (1); album (1); alcohol (1); ali (1); allwai (1); alot (1); altogeth (1); amai (1); amakut (1); amid (1); amudo (1); ana (1); 
+
+  Group 2 
+
+    30 most frequent words: nigga (1691); don (870); fuck (866); shit (838); ain (826); bitch (819); ya (759); caus (584); yeah (518); ass (426); yo (422); choru (404); ll (402); wanna (388); boi (385); time (383); monei (376); love (376); em (375); real (361); niggaz (343); life (323); tell (321); girl (304); hit (301); game (289); babi (274); gotta (270); hoe (264); gon (256); 
+
+    30 less frequent words: aaliyah (1); abbrevi (1); abc (1); abductor (1); abel (1); abil (1); abolish (1); abort (1); abou (1); absenc (1); absolut (1); abstin (1); absurd (1); academi (1); accesoir (1); access (1); accid (1); accord (1); accross (1); accur (1); ack (1); acquir (1); acquit (1); acro (1); activatin (1); actress (1); addicit (1); adida (1); adject (1); admir (1); 
+
+  Group 3 
+
+    30 most frequent words: don (2978); re (2257); ll (1974); ve (1528); time (1506); feel (1331); wanna (914); love (904); babi (813); caus (770); gonna (739); tell (725); girl (674); life (655); night (649); dai (643); look (636); won (627); heart (599); ey (562); yeah (538); oh (529); hold (510); try (458); live (457); dream (426); leav (420); wait (397); mind (383); world (381); 
+
+    30 less frequent words: aa (1); abb (1); abdomen (1); aboard (1); abou (1); absent (1); absolv (1); absurd (1); abund (1); abyss (1); academia (1); accid (1); accident (1); acclaim (1); accomplish (1); achi (1); achin (1); ack (1); acknowledg (1); actin (1); actress (1); adelaid (1); adn (1); adulter (1); advanc (1); adventur (1); advers (1); advertis (1); ae (1); aerialswhat (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/S/A Step Behind/12 - Truth Be Told - 3ade68b7ga2d5bea3.txt
+
+
+0 - 2 - English/H/H-Town/23 - Visions In My Mind - 3ade68b8g445e7fa3.txt
+
+
+0 - 2 - English/T/T-Pain/116 - Sounds Bad - 3ade68b8g03e21fa3.txt
+
+
+0 - 2 - English/U/Ulcerate/2 - Becoming The Lycanthrope - 3ade68b8g11ce0fa3.txt
+
+
+0 - 2 - English/T/A Tribe Called Quest/30 - Get a Hold - 3ade68b8g7de9cfa3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/W/The Waterboys/86 - I know she's in the building - 3ade68b7gdec22ea3.txt
+
+
+1 - 2 - English/W/The White Rhinos/1 - My Chance - 3ade68b8gd41c60b3.txt
+
+
+1 - 2 - English/Y/Yanou/4 - Heaven - 3ade68b7gbbcaaea3.txt
+
+
+1 - 2 - English/J/J Rand/12 - Phantom - 3ade68b8gf68defa3.txt
+
+
+1 - 2 - English/A/A Chave do Sol/8 - Keep Me Warm Tonight - 3ade68b8g610f50b3.txt
+
+
+
+Group 3: 
+
+2 - 2 - English/R/R Kelly/50 - Did You Ever Think (Remix) (feat. Nas) - 3ade68b7g18783ea3.txt
+
+
+2 - 2 - English/U/UGK/4 - Akickdoe! - 3ade68b7gaa3e9ea3.txt
+
+
+2 - 2 - English/J/J Cole/37 - Goin Off - 3ade68b8g455aefa3.txt
+
+
+2 - 2 - English/R/R A the Rugged Man/17 - Grizzly - 3ade68b8g6bc9fea3.txt
+
+
+2 - 2 - English/J/J Cole/26 - Everybody Dies - 3ade68b8g9474b0b3.txt
+
+
+
+Group 4: 
+
+3 - 2 - English/I/I Can Make A Mess Like Nobody's Business/4 - Complications - 3ade68b8g31f4efa3.txt
+
+
+3 - 2 - English/I/I Prevail/1 - Alone - 3ade68b8gef83b0b3.txt
+
+
+3 - 2 - English/E/Eagle-Eye Cherry/11 - Dream Away (Feat. Darin) - 3ade68b8g260840b3.txt
+
+
+3 - 2 - English/I/I Farm/6 - Fighting Is Emo - 3ade68b7g535e7ea3.txt
+
+
+3 - 2 - English/V/The Vamps/59 - Middle of the Night (Rock Version) (Feat. Sainte) - 3ade68b8g38c0d0b3.txt
+
+
