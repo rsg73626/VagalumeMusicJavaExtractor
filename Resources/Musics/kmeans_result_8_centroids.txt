@@ -1,206 +1,206 @@
 KMeans result with 8 centroids.
 
-Grupo 1: 25 registros.
-Grupo 2: 75 registros.
-Grupo 3: 44 registros.
-Grupo 4: 34 registros.
-Grupo 5: 37 registros.
-Grupo 6: 188 registros.
-Grupo 7: 320 registros.
-Grupo 8: 277 registros.
+Grupo 1: 20 registros.
+Grupo 2: 92 registros.
+Grupo 3: 98 registros.
+Grupo 4: 14 registros.
+Grupo 5: 179 registros.
+Grupo 6: 21 registros.
+Grupo 7: 443 registros.
+Grupo 8: 133 registros.
 
 KEY WORDS 
 
   Group 0 
 
-    5 most frequent words: could (67); how (42); throw (38); don (38); awai (37); 
+    30 most frequent words: gotta (41); city (32); re (24); ride (18); home (18); wait (17); feel (16); givin (15); yeah (13); voice (13); time (13); life (13); learned (13); chicago (12); ll (11); heart (11); cause (11); port (10); ooh (10); wondering (9); ve (9); stand (9); run (9); la (9); fall (9); dark (9); chu (9); truth (8); shut (8); moon (8); 
 
-    5 less frequent words: 1 (1); 9 (1); about (1); abus (1); across (1); 
+    30 less frequent words: 6 (1); ages (1); aim (1); album (1); alternative (1); anger (1); anticipation (1); aroused (1); ashes (1); atlantic (1); awaiting (1); babes (1); backpedaling (1); bad (1); badge (1); band (1); baptism (1); bearsville (1); believer (1); bible (1); bitter (1); blazing (1); bleed (1); blindfold (1); blue (1); bobbing (1); bone (1); books (1); boozin (1); brain (1); 
 
   Group 1 
 
-    5 most frequent words: nigga (463); like (397); up (332); got (317); thi (311); 
+    30 most frequent words: ll (225); home (106); hold (104); ve (88); life (75); light (67); time (65); re (63); change (56); gonna (55); don (53); cause (50); stay (44); gone (42); love (41); world (38); stand (36); won (35); night (31); hands (31); feel (31); hear (30); trying (28); run (27); mind (27); days (27); maybe (26); heart (26); yeah (25); shine (25); 
 
-    5 less frequent words: abl (1); abras (1); acci (1); acclaim (1); accomplish (1); 
+    30 less frequent words: 9 (1); able (1); abridge (1); abuse (1); accused (1); acting (1); action (1); actions (1); ad (1); advancing (1); afraid (1); aim (1); aiming (1); airwaves (1); album (1); allah (1); alternative (1); amazing (1); ambitions (1); amended (1); america (1); ammunition (1); anchor (1); anchored (1); angels (1); angle (1); angry (1); animals (1); answer (1); anymore (1); 
 
   Group 2 
 
-    5 most frequent words: danc (212); let (152); talk (90); don (75); come (73); 
+    30 most frequent words: ya (294); don (272); fuck (271); shit (215); ain (179); nigga (174); cause (172); wanna (161); girl (158); chorus (146); bitch (142); ll (136); em (127); time (116); head (115); niggas (107); yeah (96); tell (94); yo (92); money (92); love (92); re (87); real (86); verse (84); life (82); game (81); gotta (77); feel (76); boy (75); baby (73); 
 
-    5 less frequent words: 3 (1); abandon (1); activ (1); add (1); addict (1); 
+    30 less frequent words: abandon (1); abbreviated (1); ability (1); abroad (1); absolutely (1); abused (1); abusive (1); accent (1); accesories (1); accomplished (1); accumulating (1); accustomed (1); acknowledge (1); acoustic (1); acro (1); acted (1); actions (1); actually (1); ad (1); add (1); adicted (1); adidas (1); admit (1); adore (1); adults (1); advantage (1); advice (1); affair (1); agg (1); agreeance (1); 
 
   Group 3 
 
-    5 most frequent words: no (211); ni (134); de (132); la (126); wo (81); 
+    30 most frequent words: instrumental (14); tristano (1); tombstone (1); stones (1); stepping (1); pus (1); peter (1); parasite (1); obstructionist (1); naughty (1); molestation (1); lips (1); lamento (1); knighting (1); iv (1); intravenous (1); interlude (1); gone (1); de (1); dance (1); cheezus (1); beginning (1); arteries (1); adventure (1); 
 
-    5 less frequent words: 3 (1); 4 (1); abunai (1); act (1); aeba (1); 
+    30 less frequent words: adventure (1); arteries (1); beginning (1); cheezus (1); dance (1); de (1); gone (1); interlude (1); intravenous (1); iv (1); knighting (1); lamento (1); lips (1); molestation (1); naughty (1); obstructionist (1); parasite (1); peter (1); pus (1); stepping (1); stones (1); tombstone (1); tristano (1); instrumental (14); 
 
   Group 4 
 
-    5 most frequent words: oh (417); won (79); come (76); love (71); clap (60); 
+    30 most frequent words: don (769); re (357); ll (221); ve (206); feel (190); cause (182); time (179); tell (165); wanna (160); ain (140); life (123); mind (116); look (116); love (113); people (102); believe (99); baby (93); chorus (86); oh (84); hard (82); gonna (81); yeah (79); live (77); hear (77); leave (69); call (64); wrong (63); stop (63); tonight (62); gone (62); 
 
-    5 less frequent words: 1 (1); 2 (1); afraid (1); against (1); alexand (1); 
+    30 less frequent words: 4 (1); 6 (1); 8 (1); abacus (1); accepting (1); accord (1); accumulate (1); ace (1); achieve (1); achin (1); ack (1); acquire (1); action (1); actions (1); actor (1); acts (1); actual (1); actually (1); adam (1); admired (1); admit (1); adventure (1); affection (1); affective (1); afford (1); agro (1); aiiyo (1); airplane (1); al (1); alibis (1); 
 
   Group 5 
 
-    5 most frequent words: love (709); know (535); do (514); don (483); just (402); 
+    30 most frequent words: ni (157); da (97); de (80); wa (76); wo (54); ga (53); la (38); yeah (37); na (36); mo (36); yo (32); kimi (28); kara (28); time (26); ka (26); calling (26); anata (26); nara (25); don (25); ya (24); round (24); keepin (21); oh (20); alive (20); kokoro (19); boku (17); mou (16); love (16); kono (16); freakout (16); 
 
-    5 less frequent words: 6 (1); abdomen (1); abl (1); absent (1); acceler (1); 
+    30 less frequent words: 2 (1); 3 (1); aaiu (1); abysmal (1); ace (1); adam (1); address (1); aenai (1); aenaku (1); aete (1); afuredashita (1); afureru (1); afuro (1); agaru (1); ah (1); aha (1); aijin (1); aisarete (1); aishi (1); aisuru (1); aitsu (1); aizu (1); akaku (1); akkapera (1); ako (1); akogareta (1); akogarete (1); alarm (1); amae (1); amazed (1); 
 
   Group 6 
 
-    5 most frequent words: with (430); up (397); no (324); don (320); out (315); 
+    30 most frequent words: re (274); time (224); ve (199); world (179); ll (177); life (172); inside (171); day (167); heart (159); don (155); eyes (148); night (142); oh (131); love (129); left (124); feel (123); mind (113); hear (111); gonna (105); yeah (99); play (98); die (96); lyrics (90); count (90); head (89); dream (87); won (79); black (78); tell (76); believe (74); 
 
-    5 less frequent words: 6 (1); abdomin (1); abduct (1); abductor (1); abl (1); 
+    30 less frequent words: 6 (1); 7 (1); aaruzo (1); ab (1); abates (1); abominations (1); abort (1); abortion (1); abrahams (1); abro (1); absess (1); absorbed (1); absorbing (1); abstarct (1); abundance (1); abuse (1); abyssinians (1); accadesse (1); accep (1); accept (1); accepting (1); access (1); accident (1); accidental (1); accolade (1); accomodations (1); accomplishing (1); ace (1); achievement (1); achieving (1); 
 
   Group 7 
 
-    5 most frequent words: thi (656); ll (392); time (320); never (314); with (301); 
+    30 most frequent words: love (939); oh (496); yeah (269); baby (192); re (189); don (161); ll (160); time (120); ve (119); wanna (100); cause (93); heart (89); won (85); times (80); tell (78); feel (68); gimmie (62); life (61); girl (61); gonna (59); little (58); day (57); stinks (56); world (52); ain (51); chorus (50); eyes (48); god (45); hate (44); feeling (44); 
 
-    5 less frequent words: 7 (1); abduct (1); abhor (1); abl (1); abolit (1); 
+    30 less frequent words: 3 (1); 7 (1); ability (1); abused (1); abusing (1); accused (1); achieve (1); achim (1); acrobat (1); aeteutaetji (1); affliction (1); aggression (1); agony (1); agree (1); ajikdo (1); alcohol (1); alex (1); alittle (1); alley (1); alleyways (1); almyeonseo (1); amazing (1); amazingly (1); ambition (1); america (1); amiss (1); amu (1); angelina (1); anhdeon (1); anim (1); 
 
 Files to be analized for each group
 
 Group 1: 
 
-0 - 2 - English/Z/The Zombies/19 - I Could Spend The Day - 3ade68b8g40270fa3.txt
+0 - 2 - English/U/U D O/70 - One Lone Voice - 3ade68b8g825e1fa3.txt
 
 
-0 - 2 - English/K/Kacey Musgraves/22 - Have Yourself a Merry Little Christmas - 3ade68b8g8391b0b3.txt
+0 - 2 - English/I/I Fight Dragons/2 - Chicago - 3ade68b8g212c60b3.txt
 
 
-0 - 2 - English/K/K D Lang/75 - Sexuality - 3ade68b7gee693ea3.txt
+0 - 2 - English/I/I Am King/2 - Fallen - 3ade68b8g83ea30b3.txt
 
 
-0 - 2 - English/V/The Vamps/75 - Paper Hearts - 3ade68b8g9371c0b3.txt
+0 - 2 - English/#/116 Clique/3 - Begin With The End - 3ade68b8g2cb0dfa3.txt
 
 
-0 - 2 - English/L/L A Guns/26 - Rip And Tear - 3ade68b7g8c954ea3.txt
+0 - 2 - English/E/Ebichu/1 - Wondering - 3ade68b7g46c6cea3.txt
 
 
 
 Group 2: 
 
-1 - 2 - English/Z/Z-ro/2 - All Night Long - 3ade68b7ga3638ea3.txt
+1 - 2 - English/U/The Used/62 - On My Own - 3ade68b6gf1cafda3.txt
 
 
-1 - 2 - English/G/G-Eazy/48 - No Limit (feat. ASAP Rocky and Cardi B) - 3ade68b8g9746c0b3.txt
+1 - 2 - English/V/The Voids/20 - The Signal - 3ade68b7g3e622ea3.txt
 
 
-1 - 2 - English/Z/Z-ro/84 - Mirror, Mirror On The Wall - 3ade68b7g73938ea3.txt
+1 - 2 - English/I/I Mother Earth/26 - No Cona - 3ade68b6g23eafda3.txt
 
 
-1 - 2 - English/E/E-40/37 - Come On - 3ade68b7gb4000ea3.txt
+1 - 2 - English/G/A Global Threat/25 - Fucking Racist Maggots - 3ade68b6g742cfda3.txt
 
 
-1 - 2 - English/V/V-Nasty/7 - Gotta Ball - 3ade68b8gaceb00b3.txt
+1 - 2 - English/M/M I A/64 - Let Me Hump You - 3ade68b8g41fcc0b3.txt
 
 
 
 Group 3: 
 
-2 - 2 - English/J/A Jealousy Issue/10 - In The Shape Of Stars - 3ade68b8gf959cfa3.txt
+2 - 2 - English/T/T-Pain/109 - Shawty - 3ade68b8g0c9f1fa3.txt
 
 
-2 - 2 - English/W/The Wallflowers/9 - Back To California - 3ade68b7g40165ea3.txt
+2 - 2 - English/Z/Z-ro/1 - 1st Time Again - 3ade68b7g92535ea3.txt
 
 
-2 - 2 - English/V/The Vain/13 - In The Verge Of Sonic - 3ade68b8g47194fa3.txt
+2 - 2 - English/F/A Favorita (novela)/29 - Pumpkin Soup - Kate Nash - 3ade68b8g701b8fa3.txt
 
 
-2 - 2 - English/X/X-Ray Spex/13 - I Can't do Anything - 3ade68b7g0c432ea3.txt
+2 - 2 - English/E/E-40/118 - Nice Guys - 3ade68b8gf7c0efa3.txt
 
 
-2 - 2 - English/F/F-timmi/2 - Fallout - 3ade68b7gd16f9ea3.txt
+2 - 2 - English/J/Ja Rule/163 - Where I'm From - 3ade68b7g3e8c4ea3.txt
 
 
 
 Group 4: 
 
-3 - 2 - English/G/G Love Special Sauce/79 - Roaches - 3ade68b7gd9413ea3.txt
+3 - 2 - English/H/Haemorrhage/35 - Intravenous Molestation Of Obstructionist Arteries (O-pus IV) - 3ade68b7gb7671ea3.txt
 
 
-3 - 2 - English/K/K7/2 - Hi de Ho - 3ade68b7ge569aea3.txt
+3 - 2 - English/M/M83/25 - Gone - 3ade68b8g4b22a0b3.txt
 
 
-3 - 2 - English/H/Hades/29 - Tears Of Orpheus - 3ade68b7g90930ea3.txt
+3 - 2 - English/G/G Love Special Sauce/92 - Stepping Stones - 3ade68b7g8a413ea3.txt
 
 
-3 - 2 - English/G/G na/14 - I Hate You - 3ade68b8g1e91efa3.txt
+3 - 2 - English/G/G Love Special Sauce/44 - I-76 - 3ade68b7ga8413ea3.txt
 
 
-3 - 2 - English/C/As Crônicas de Nárnia/25 - Knighting Peter - 3ade68b8gc6bd30b3.txt
+3 - 2 - English/H/Habstrakt/2 - Cheezus - 3ade68b8g77bb90b3.txt
 
 
 
 Group 5: 
 
-4 - 2 - English/M/M Ward/3 - Bad Dreams - 3ade68b7g41385ea3.txt
+4 - 2 - English/#/116 Clique/11 - Fanatic - 3ade68b7gff7e9ea3.txt
 
 
-4 - 2 - English/U/U2/131 - Inside Out - 3ade68b7gc4ad0ea3.txt
+4 - 2 - English/B/B3/8 - Do What You Like - 3ade68b7g17a18ea3.txt
 
 
-4 - 2 - English/I/Ian Hunter/79 - Red Letter Day - 3ade68b7gad440ea3.txt
+4 - 2 - English/U/UFO/171 - Something Else - 3ade68b7g00512ea3.txt
 
 
-4 - 2 - English/V/The Verve/37 - Lucky Man - 3ade68b6gf3f0fda3.txt
+4 - 2 - English/Y/Y2k/1 - Time To Comprehend - 3ade68b7g7dee3ea3.txt
 
 
-4 - 2 - English/B/A Bloody Canvas/12 - Broken Mirror Dreams - 3ade68b8g9939cfa3.txt
+4 - 2 - English/P/A Perfect Circle/40 - People Are People - 3ade68b7g70474ea3.txt
 
 
 
 Group 6: 
 
-5 - 2 - English/Z/Zack Montana/1 - Serious - 3ade68b8ge1c000b3.txt
+5 - 2 - English/X/X Japan/50 - X - 3ade68b7g2b432ea3.txt
 
 
-5 - 2 - English/#/112/104 - Uhh Ahh - 3ade68b7g6be32ea3.txt
+5 - 2 - English/#/12012/10 - Black Rain - 3ade68b8g1dbb50b3.txt
 
 
-5 - 2 - English/D/D'Angelo/7 - Back To The Future (Part I) - 3ade68b8g2ffb60b3.txt
+5 - 2 - English/E/E-girls/22 - Suki desu ka? - 3ade68b8gef0d50b3.txt
 
 
-5 - 2 - English/I/IamSu!/2 - If u Want - 3ade68b8g6c6fc0b3.txt
+5 - 2 - English/D/D (Japão)/38 - Humanoid - 3ade68b7g02c2dea3.txt
 
 
-5 - 2 - English/M/M People/12 - How Can I Love You More? - 3ade68b7g64481ea3.txt
+5 - 2 - English/L/L'Arc-En-Ciel/108 - Round And Round - 3ade68b7g1c855ea3.txt
 
 
 
 Group 7: 
 
-6 - 2 - English/G/G Love Special Sauce/30 - Free at Last - 3ade68b7g18413ea3.txt
+6 - 2 - English/E/Earthtone9/6 - Amnesia - 3ade68b7g38200ea3.txt
 
 
-6 - 2 - English/J/J B Lenoir/4 - The Mojo - 3ade68b8g6d091fa3.txt
+6 - 2 - English/E/Eager To Fly/13 - Sleepless - 3ade68b7g66077ea3.txt
 
 
-6 - 2 - English/I/I Voted For Kodos/11 - I Tied My Own Shoes Today - 3ade68b7g2c4faea3.txt
+6 - 2 - English/#/10 Petits Indiens/14 - Le Silence - 3ade68b6gc6f9eda3.txt
 
 
-6 - 2 - English/Q/Q And Not U/28 - Tag-tag - 3ade68b7g07367ea3.txt
+6 - 2 - English/R/R E M/158 - Radio Free Europe - 3ade68b6gd1feeda3.txt
 
 
-6 - 2 - English/V/The Vibrators/32 - Troops Of Tomorrow - 3ade68b8g6d71fea3.txt
+6 - 2 - English/U/The Union Underground/8 - South Texas Deathride - 3ade68b7ged215ea3.txt
 
 
 
 Group 8: 
 
-7 - 2 - English/#/11:18/4 - A Walk Around Inside My Head - 3ade68b7g8205aea3.txt
+7 - 2 - English/I/Ian Hunter/107 - Tell It Like It Is - 3ade68b7g1f440ea3.txt
 
 
-7 - 2 - English/Z/Zach Gill/6 - Inside The World - 3ade68b8ge6bc8fa3.txt
+7 - 2 - English/R/A Rain Soaked Romance/3 - Another Day - 3ade68b7g21756ea3.txt
 
 
-7 - 2 - English/V/The Verve/76 - You And Me - 3ade68b7g1f99dea3.txt
+7 - 2 - English/K/K D Lang/28 - Full Moon Full of Love - 3ade68b7g2c693ea3.txt
 
 
-7 - 2 - English/X/X Is Loaded/8 - Last Chance - 3ade68b8g59f57fa3.txt
+7 - 2 - English/J/J Holliday/2 - Suffocate - 3ade68b8gaa084fa3.txt
 
 
-7 - 2 - English/P/A Plea For Purging/10 - Hands & Feet - 3ade68b8g8d3cefa3.txt
+7 - 2 - English/M/Macaca Mulatta/3 - Just Love Me - 3ade68b8ga5e21fa3.txt
 
 

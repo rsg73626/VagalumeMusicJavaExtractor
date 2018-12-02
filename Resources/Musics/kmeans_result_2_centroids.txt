@@ -1,56 +1,56 @@
 KMeans result with 2 centroids.
 
-Grupo 1: 629 registros.
-Grupo 2: 371 registros.
+Grupo 1: 337 registros.
+Grupo 2: 663 registros.
 
 KEY WORDS 
 
   Group 0 
 
-    5 most frequent words: thi (743); with (709); no (647); up (544); now (531); 
+    30 most frequent words: don (1086); love (1065); oh (570); re (484); ll (482); yeah (468); cause (432); wanna (418); ain (378); baby (369); time (349); ya (329); tell (323); fuck (302); feel (299); chorus (277); ve (264); girl (263); life (239); shit (237); gotta (214); gonna (193); nigga (185); won (175); look (170); world (162); head (158); little (155); mind (153); bitch (139); 
 
-    5 less frequent words: abdomin (1); abductor (1); abhor (1); abolit (1); abound (1); 
+    30 less frequent words: abacus (1); abandon (1); abbreviated (1); abroad (1); absolutely (1); abused (1); abusive (1); abyss (1); accent (1); accomplished (1); accumulate (1); accumulating (1); accused (1); accustomed (1); ache (1); achieve (1); achin (1); acknowledge (1); acoustic (1); acquire (1); acro (1); acrobat (1); acted (1); action (1); actual (1); actually (1); adicted (1); adidas (1); admired (1); advantage (1); 
 
   Group 1 
 
-    5 most frequent words: don (953); know (932); love (918); thi (894); like (881); 
+    30 most frequent words: re (516); ll (453); ve (395); time (394); don (353); life (290); love (269); heart (265); world (229); feel (215); eyes (212); inside (211); oh (209); day (206); night (200); hear (185); home (182); gonna (178); mind (177); ni (157); yeah (150); left (149); cause (148); light (145); won (135); tell (130); people (129); believe (126); play (125); head (123); 
 
-    5 less frequent words: abdomen (1); abound (1); abras (1); abruptli (1); absent (1); 
+    30 less frequent words: 7 (1); aaiu (1); aaruzo (1); ab (1); abates (1); abominations (1); abort (1); abortion (1); abrahams (1); abridge (1); abro (1); absess (1); absorbed (1); absorbing (1); abstarct (1); abundance (1); abusing (1); abysmal (1); abyssinians (1); accadesse (1); accep (1); accept (1); accesories (1); access (1); accidental (1); accolade (1); accomodations (1); accomplishing (1); accord (1); accused (1); 
 
 Files to be analized for each group
 
 Group 1: 
 
-0 - 2 - English/N/A Need For Reason/1 - If I Could Get Some Good Sleep - 3ade68b8g1952efa3.txt
+0 - 2 - English/J/J Soul Brothers/8 - Freakout! - 3ade68b8g48d9ffa3.txt
 
 
-0 - 2 - English/T/A Trust Unclean/3 - Nuclear Carousel - 3ade68b8g8edeffa3.txt
+0 - 2 - English/K/K Michelle/14 - Damn - 3ade68b8g9e3880b3.txt
 
 
-0 - 2 - English/G/G Love Special Sauce/28 - Fishing Song - 3ade68b7g3c0c7ea3.txt
+0 - 2 - English/N/N E R D/13 - Don't Look Back - 3ade68b7g9fc18ea3.txt
 
 
-0 - 2 - English/F/A Funny Thing Happened On The Way To The Forum/8 - Impossible - 3ade68b8g1990eea3.txt
+0 - 2 - English/H/H-Town/12 - Married Man - 3ade68b8geaac7fa3.txt
 
 
-0 - 2 - English/D/D (Japão)/49 - Love Is a Melody - 3ade68b8g6802cfa3.txt
+0 - 2 - English/V/The Vantage/6 - Something In The Air - 3ade68b8g4b2b40b3.txt
 
 
 
 Group 2: 
 
-1 - 2 - English/W/The Warren Brothers/32 - What We Can't Have - 3ade68b7g83b22ea3.txt
+1 - 2 - English/W/The Wallflowers/33 - Heroes - 3ade68b6ge501fda3.txt
 
 
-1 - 2 - English/W/The Wedding Present/88 - Skin Diving - 3ade68b8g9bcbdea3.txt
+1 - 2 - English/W/The White Tie Affair/10 - The Way Down - 3ade68b8g73cd6fa3.txt
 
 
-1 - 2 - English/G/A Great Big World/8 - Hold Each Other (feat. Futuristic) - 3ade68b8ge88780b3.txt
+1 - 2 - English/V/The Voids/21 - Wasting Time (my Rules) - 3ade68b8gd55fdea3.txt
 
 
-1 - 2 - English/W/The Wavy Lines/4 - Stalwart - 3ade68b8g9edac0b3.txt
+1 - 2 - English/#/009 Sound System/14 - When You're Young - 3ade68b8gd0bdefa3.txt
 
 
-1 - 2 - English/T/T-Spoon/3 - Come And Get My Love - 3ade68b7gb1ec0ea3.txt
+1 - 2 - English/M/m-flo/23 - Lotta Love - 3ade68b8gd35dfea3.txt
 
 

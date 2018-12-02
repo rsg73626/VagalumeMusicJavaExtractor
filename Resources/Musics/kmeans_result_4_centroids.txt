@@ -1,106 +1,106 @@
 KMeans result with 4 centroids.
 
-Grupo 1: 27 registros.
-Grupo 2: 517 registros.
-Grupo 3: 335 registros.
-Grupo 4: 121 registros.
+Grupo 1: 170 registros.
+Grupo 2: 174 registros.
+Grupo 3: 97 registros.
+Grupo 4: 559 registros.
 
 KEY WORDS 
 
   Group 0 
 
-    5 most frequent words: no (188); ni (121); wo (80); ga (73); wa (70); 
+    30 most frequent words: don (720); oh (416); yeah (311); ain (304); wanna (302); ya (296); cause (295); re (271); baby (252); ll (236); time (229); fuck (229); feel (215); chorus (210); girl (191); gotta (184); shit (181); love (169); tell (162); nigga (160); gonna (138); head (131); life (121); bitch (119); ve (117); little (108); em (100); uh (97); niggas (97); money (88); 
 
-    5 less frequent words: 3 (1); 4 (1); abunai (1); aeba (1); aftermath (1); 
+    30 less frequent words: abandon (1); abortion (1); abroad (1); absolutely (1); abusive (1); abyss (1); accent (1); accomplished (1); accumulate (1); accumulating (1); accused (1); ache (1); acknowledge (1); acoustic (1); acquainted (1); acquire (1); acro (1); acted (1); action (1); actions (1); actual (1); actually (1); adidas (1); admired (1); admit (1); advantage (1); affair (1); afureru (1); agg (1); agony (1); 
 
   Group 1 
 
-    5 most frequent words: with (568); thi (526); up (441); oh (428); when (424); 
+    30 most frequent words: re (332); ll (262); ve (211); time (205); inside (171); life (159); don (159); tell (140); won (105); eyes (93); feel (88); heart (86); day (74); cause (72); mind (66); try (65); stay (65); light (60); hear (60); night (58); world (57); left (56); home (55); call (55); dream (54); run (53); love (53); wrong (51); hope (49); lost (48); 
 
-    5 less frequent words: abduct (1); abductor (1); abhor (1); abil (1); abound (1); 
+    30 less frequent words: 8 (1); 9 (1); abacus (1); able (1); abraham (1); abundance (1); abyss (1); access (1); accidental (1); accomplish (1); accord (1); accused (1); ace (1); achieve (1); achin (1); ack (1); action (1); actress (1); acts (1); adam (1); adding (1); adventure (1); affective (1); afflicted (1); afford (1); age (1); agony (1); aid (1); aiming (1); airplanes (1); 
 
   Group 2 
 
-    5 most frequent words: love (768); don (747); know (727); thi (688); just (578); 
+    30 most frequent words: love (893); ll (153); don (141); re (103); ve (92); oh (87); yeah (80); heart (79); cause (75); baby (66); gimmie (62); wanna (61); time (57); stinks (56); feel (56); tell (49); won (48); hate (47); eyes (41); world (40); believe (38); life (37); day (37); little (36); leave (36); hold (36); loves (35); feeling (34); gone (32); breathe (32); 
 
-    5 less frequent words: abdomen (1); abduct (1); abil (1); abl (1); abolit (1); 
+    30 less frequent words: ability (1); abused (1); achieve (1); acrobat (1); act (1); affliction (1); agony (1); agree (1); alex (1); alittle (1); alley (1); amazing (1); ambition (1); america (1); anger (1); animal (1); animals (1); answerphone (1); anythings (1); anyway (1); anyways (1); apology (1); apprehensiveness (1); ashes (1); atone (1); audience (1); awaken (1); awoken (1); backwards (1); backâ (1); 
 
   Group 3 
 
-    5 most frequent words: like (622); up (497); nigga (482); with (450); got (437); 
+    30 most frequent words: don (419); re (294); ll (284); time (252); oh (250); ve (239); world (228); love (219); life (212); yeah (203); gonna (170); day (170); mind (169); heart (162); ni (160); feel (155); night (154); eyes (142); home (140); people (138); cause (138); hear (137); look (132); left (115); die (115); god (114); la (113); da (112); chorus (108); black (103); 
 
-    5 less frequent words: abdomin (1); abl (1); abras (1); abstin (1); abyss (1); 
+    30 less frequent words: 0 (1); aaiu (1); aaruzo (1); ab (1); abates (1); abbreviated (1); ability (1); abominations (1); abort (1); abraham (1); abrahams (1); abridge (1); abro (1); absess (1); absorbed (1); absorbing (1); abstarct (1); abusing (1); abysmal (1); abyssinians (1); accadesse (1); accep (1); accept (1); accesories (1); accident (1); accolade (1); accomodations (1); accomplish (1); accomplishing (1); accustomed (1); 
 
 Files to be analized for each group
 
 Group 1: 
 
-0 - 2 - English/H/A Hundred Birds/6 - What's It All About - 3ade68b8g594ecfa3.txt
+0 - 2 - English/M/Mac Miller/26 - Bill - 3ade68b8gd10e60b3.txt
 
 
-0 - 2 - English/U/U-kiss/5 - Action - 3ade68b8g5faa70b3.txt
+0 - 2 - English/J/J Soul Brothers/8 - Freakout! - 3ade68b8g48d9ffa3.txt
 
 
-0 - 2 - English/E/Eagles/38 - Journey Of The Sorcerer - 3ade68b8g16e6dfa3.txt
+0 - 2 - English/X/X-Session/12 - Time Of My Life - 3ade68b7gb393aea3.txt
 
 
-0 - 2 - English/G/G Love Special Sauce/79 - Roaches - 3ade68b7gd9413ea3.txt
+0 - 2 - English/Z/Z-ro/77 - Lost Another Soldier (tribute To Big Mello) - 3ade68b7gb3938ea3.txt
 
 
-0 - 2 - English/Y/Yanni/1 - 1001 - 3ade68b8g9b5a90b3.txt
+0 - 2 - English/G/G-Eazy/72 - Summer in December - 3ade68b8gb2b6c0b3.txt
 
 
 
 Group 2: 
 
-1 - 2 - English/H/H3o/5 - Profesion - 3ade68b7g984fcea3.txt
+1 - 2 - English/A/A Common Year/4 - Be Good, Be True - 3ade68b8gf256cfa3.txt
 
 
-1 - 2 - English/T/T Rex/244 - You Got the Power - 3ade68b7g56f70ea3.txt
+1 - 2 - English/E/East West/21 - She Cries - 3ade68b7g52361ea3.txt
 
 
-1 - 2 - English/N/A New January/33 - Witchling - 3ade68b8gfac43fa3.txt
+1 - 2 - English/Z/The Zutons/3 - Beggars And Choosers - 3ade68b7gc4bf7ea3.txt
 
 
-1 - 2 - English/T/T Rex/38 - Chrome Sitar - 3ade68b7gc7e70ea3.txt
+1 - 2 - English/H/Hacksaw To The Throat/4 - Dilated - 3ade68b8g29534fa3.txt
 
 
-1 - 2 - English/#/112/46 - In the Still of the Nite (I'll Remember) - 3ade68b7g658c2ea3.txt
+1 - 2 - English/C/As Crônicas de Nárnia/30 - Lucy - 3ade68b8gf7f8efa3.txt
 
 
 
 Group 3: 
 
-2 - 2 - English/I/I Nine/7 - Get Out - 3ade68b8gd6af6fa3.txt
+2 - 2 - English/F/A Favorita (novela)/17 - Love Is Noise - The Verve - 3ade68b8g201b8fa3.txt
 
 
-2 - 2 - English/Y/Yanah/9 - The Morning After - 3ade68b7gd736aea3.txt
+2 - 2 - English/T/T Rex/11 - Beltane Walk - 3ade68b7g16e70ea3.txt
 
 
-2 - 2 - English/#/112/90 - So Much Love (Interlude) - 3ade68b7g2be32ea3.txt
+2 - 2 - English/C/Nina Persson/7 - Elephant - 3ade68b7g9f5b4ea3.txt
 
 
-2 - 2 - English/I/Ian Hunter/79 - Red Letter Day - 3ade68b7gad440ea3.txt
+2 - 2 - English/#/10cc/45 - Good Morning Judge - 3ade68b7g61e32ea3.txt
 
 
-2 - 2 - English/Z/Zach Ashton/24 - They Don't Know - 3ade68b8gf7136fa3.txt
+2 - 2 - English/E/Eartha Kitt/14 - Darling, Je Vous Aime Beaucoup - 3ade68b8ge11750b3.txt
 
 
 
 Group 4: 
 
-3 - 2 - English/Y/Ya Boy/2 - Aquaman That Ho - 3ade68b8g825d4fa3.txt
+3 - 2 - English/I/As I Lay Dying/68 - Undefined - 3ade68b7g4c362ea3.txt
 
 
-3 - 2 - English/E/Eamon/17 - Get Off My Dick - 3ade68b7g97e74ea3.txt
+3 - 2 - English/W/The Warren Brothers/27 - Surviving Emily - 3ade68b7g63b22ea3.txt
 
 
-3 - 2 - English/E/E-40/132 - Prepared - 3ade68b8g07c0efa3.txt
+3 - 2 - English/A/Nina Persson/18 - My Misery Is a Mystery - 3ade68b8gfc39cfa3.txt
 
 
-3 - 2 - English/Z/Z-ro/38 - H.a.t.e - 3ade68b7g75938ea3.txt
+3 - 2 - English/E/Easy Rider/27 - Savage Rage - 3ade68b8g4ce9fea3.txt
 
 
-3 - 2 - English/B/B2k/11 - Back Up (Off Tha Wall) - 3ade68b6g67dcfda3.txt
+3 - 2 - English/H/Haddad/39 - Stronger - 3ade68b8g9d061fa3.txt
 
 
