@@ -1,0 +1,56 @@
+KMeans result with 2 centroids.
+
+Grupo 1: 8232 registros.
+Grupo 2: 1768 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: don (9076); re (7690); ll (7173); time (6710); ve (4879); feel (4645); life (4554); love (4511); nigga (4294); caus (4044); dai (3763); yeah (3687); oh (3480); ain (3469); look (3435); fuck (3401); night (3241); live (3090); tell (3013); world (3010); ey (2903); heart (2899); wanna (2892); gonna (2817); bitch (2696); girl (2686); shit (2654); choru (2584); ya (2455); call (2428); 
+
+    30 less frequent words: aankhiya (1); aankhiyaan (1); aankhiyo (1); aarer (1); aaruzo (1); aatch (1); aay (1); aayliah (1); abadi (1); abadikan (1); abajo (1); abakidas (1); abakidashita (1); abaku (1); abarero (1); abareroyo (1); abbandonato (1); abbandono (1); abber (1); abbi (1); abbracciar (1); abdomen (1); abdu (1); abecromb (1); abelha (1); abendego (1); aberr (1); abertura (1); abet (1); abgrund (1); 
+
+  Group 1 
+
+    30 most frequent words: love (9047); don (5895); oh (4694); babi (3400); re (2869); ll (2588); feel (2356); girl (2277); time (2067); wanna (1971); yeah (1862); ve (1709); tell (1544); caus (1514); heart (1348); dai (1111); night (1022); life (1008); look (961); gonna (926); choru (885); won (808); hold (785); ey (770); world (725); ain (699); mind (666); try (665); leav (658); stai (617); 
+
+    30 less frequent words: aahh (1); aalyiah (1); aaw (1); abb (1); abc (1); abil (1); abroad (1); abruptli (1); absent (1); absorb (1); absout (1); absurd (1); accident (1); acclaim (1); accomplish (1); achimi (1); acknowledg (1); activ (1); actress (1); acura (1); adaptor (1); adel (1); adida (1); adio (1); adjac (1); admitt (1); admittedli (1); adolf (1); adress (1); adrian (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/X/X-piral/18 - Timechaser - 3ade68b8g49836fa3.txt
+
+
+0 - 2 - English/P/A Path Less Traveled/3 - Milford Cubicle - 3ade68b8g4c0fdfa3.txt
+
+
+0 - 2 - English/U/Udora/23 - Nonsensical - 3ade68b7g641f4ea3.txt
+
+
+0 - 2 - English/U/U2/48 - Cedars Of Lebanon - 3ade68b8gf7c29fa3.txt
+
+
+0 - 2 - English/A/A Billion Ernies/8 - Hold Your Lying Tongue - 3ade68b7g21f57ea3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/U/UFO/104 - Love Deadly Love - 3ade68b7g4d412ea3.txt
+
+
+1 - 2 - English/J/J-Hype/1 - On My Own - 3ade68b8ga2d010b3.txt
+
+
+1 - 2 - English/J/J'lostein/8 - Unreal - 3ade68b8gd8e1bfa3.txt
+
+
+1 - 2 - English/T/La Toya Jackson/8 - Be My Playboy - 3ade68b8g341850b3.txt
+
+
+1 - 2 - English/J/J Holiday/43 - Sooner You Get To Love - 3ade68b8g1e0f6fa3.txt
+
+
