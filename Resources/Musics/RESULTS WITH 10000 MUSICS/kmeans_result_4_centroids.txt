@@ -1,0 +1,106 @@
+KMeans result with 4 centroids.
+
+Grupo 1: 2464 registros.
+Grupo 2: 603 registros.
+Grupo 3: 6278 registros.
+Grupo 4: 655 registros.
+
+KEY WORDS 
+
+  Group 0 
+
+    30 most frequent words: don (7864); re (5333); oh (4677); ll (4289); time (3341); ve (3160); babi (2986); feel (2677); love (2397); girl (2289); yeah (2179); wanna (2174); caus (2000); tell (1742); dai (1651); gonna (1624); life (1607); look (1489); night (1362); heart (1329); won (1323); try (1220); live (1162); ain (1078); ey (1051); world (1042); leav (973); choru (969); home (937); hold (927); 
+
+    30 less frequent words: aa (1); aai (1); aalyiah (1); aand (1); aatch (1); abb (1); abduct (1); abendego (1); abid (1); ablum (1); abod (1); absent (1); absout (1); abstract (1); absurd (1); abyss (1); academia (1); access (1); accident (1); accompli (1); accord (1); accusin (1); accustom (1); achimi (1); achin (1); activ (1); acura (1); adaptor (1); adderal (1); adi (1); 
+
+  Group 1 
+
+    30 most frequent words: love (6685); don (885); feel (777); babi (704); re (626); time (618); oh (611); ll (611); heart (560); tell (459); yeah (425); wanna (397); ve (391); caus (370); life (369); girl (365); dai (330); ey (280); night (274); fall (261); look (256); hold (243); world (239); choru (230); gonna (227); dream (206); wait (185); forev (185); true (184); kiss (184); 
+
+    30 less frequent words: aahh (1); abil (1); abroad (1); absurd (1); accomplish (1); achiev (1); achin (1); action (1); add (1); adderal (1); advertis (1); advic (1); afflict (1); afford (1); affraid (1); after (1); agress (1); ahanaba (1); aid (1); aight (1); aimless (1); ajiwatt (1); akon (1); al (1); alabast (1); alcansar (1); alcohol (1); alex (1); ali (1); alight (1); 
+
+  Group 2 
+
+    30 most frequent words: re (4189); don (4055); time (3954); ll (3874); love (3646); feel (3049); life (2837); ve (2822); dai (2451); oh (2383); night (2336); heart (2210); ey (2124); look (2081); world (2072); yeah (2034); live (1858); caus (1828); light (1807); girl (1763); hand (1741); la (1723); tell (1711); mind (1691); babi (1634); gonna (1571); dream (1511); call (1506); fall (1494); na (1443); 
+
+    30 less frequent words: aand (1); aankhiya (1); aankhiyaan (1); aankhiyo (1); aarer (1); aaruzo (1); aay (1); aayliah (1); abadi (1); abadikan (1); abajo (1); abakidas (1); abakidashita (1); abaku (1); abarero (1); abareroyo (1); abbandonato (1); abbandono (1); abber (1); abbi (1); abbracciar (1); abdomen (1); abdu (1); abelha (1); aberr (1); abertura (1); abet (1); abgrund (1); abhaya (1); abinagara (1); 
+
+  Group 3 
+
+    30 most frequent words: nigga (4166); bitch (2442); fuck (2201); don (2167); shit (1963); ain (1814); ya (1443); caus (1360); yo (1066); em (989); ll (987); choru (958); niggaz (939); ass (939); yeah (911); time (864); wanna (861); love (830); monei (793); life (749); hit (685); tell (645); game (632); boi (631); real (617); gotta (617); hoe (615); wit (592); look (570); motherfuck (558); 
+
+    30 less frequent words: aaron (1); aaw (1); abdomin (1); abecromb (1); abid (1); abnorm (1); aboard (1); abolish (1); abra (1); abracadabra (1); abraham (1); abstrus (1); aca (1); acap (1); acci (1); accomod (1); accomplic (1); accordin (1); accumul (1); accuraci (1); achei (1); achiev (1); acourt (1); acrophobia (1); adapt (1); adbid (1); addin (1); adequ (1); adina (1); adject (1); 
+
+Files to be analized for each group
+
+Group 1: 
+
+0 - 2 - English/B/Baal/7 - Little Brain - 3ade68b8gcd2a0fa3.txt
+
+
+0 - 2 - English/B/A Breach On Heaven/27 - Greyhound Song - 3ade68b8g9c6600b3.txt
+
+
+0 - 2 - English/T/T Rex/178 - Shy Boy - 3ade68b7gc1f70ea3.txt
+
+
+0 - 2 - English/K/Kaci/8 - Everlasting - 3ade68b7ga0d50ea3.txt
+
+
+0 - 2 - English/L/L A Guns/11 - Here It Comes - 3ade68b8gc8488fa3.txt
+
+
+
+Group 2: 
+
+1 - 2 - English/W/The Waterboys/13 - All the boys love Carrie - 3ade68b7g4bc22ea3.txt
+
+
+1 - 2 - English/U/The Uniques/1 - My Conversation - 3ade68b8g876f5fa3.txt
+
+
+1 - 2 - English/W/The Wanted/55 - The Way i Feel - 3ade68b8g7689cfa3.txt
+
+
+1 - 2 - English/G/A Girl Called Eddy/8 - Love Actually - 3ade68b7g7e188ea3.txt
+
+
+1 - 2 - English/Y/The Yardbirds/38 - I Wish You Would - 3ade68b7gc2732ea3.txt
+
+
+
+Group 3: 
+
+2 - 2 - English/K/K flay/4 - Blood In The Cut - 3ade68b8g33bca0b3.txt
+
+
+2 - 2 - English/#/1 To The Third/1 - Here I Stand - 3ade68b8gbafe4fa3.txt
+
+
+2 - 2 - English/W/The Walkabouts/104 - The Wellspring - 3ade68b7g91922ea3.txt
+
+
+2 - 2 - English/#/112/22 - Dance With Me - 3ade68b6g5ef9eda3.txt
+
+
+2 - 2 - English/L/L'edelweiss Noire/1 - Gilles de Rais (apôtre de Lucifer) - 3ade68b7g88d9cea3.txt
+
+
+
+Group 4: 
+
+3 - 2 - English/G/G-Unit/85 - Westside Story - 3ade68b7g88854ea3.txt
+
+
+3 - 2 - English/I/I-20/13 - I'm The Man - 3ade68b8g68feffa3.txt
+
+
+3 - 2 - English/T/T-Pain/63 - I'm High - 3ade68b7g2bd48ea3.txt
+
+
+3 - 2 - English/T/T-nutty/2 - Nigga Wit Game - 3ade68b8g97c21fa3.txt
+
+
+3 - 2 - English/M/M O P/39 - Nothing 2 Lose - 3ade68b7g02643ea3.txt
+
+
